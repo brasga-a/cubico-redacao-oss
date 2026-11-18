@@ -12,6 +12,34 @@ Corretor de redações do ENEM com IA, ancorado na matriz de referência do INEP
 
 <sub>Capturas do catálogo visual isolado (`bun run visual:dev`), com dados sintéticos.</sub>
 
+## Como usar
+
+1. **Entre** com **Continuar com Google**. Só contas incluídas em `ALLOWED_EMAILS` têm acesso.
+2. **Escreva a proposta** no editor:
+   - **Tema:** obrigatório. Em **Temas anteriores** você reaproveita um tema já usado.
+   - **Textos motivadores:** opcionais, até 20.000 caracteres no total.
+   - **Redação:** título opcional, até 30.000 caracteres. Separe os parágrafos com uma linha em branco.
+3. **Confira os requisitos** no rodapé. **Tema informado** é obrigatório. **Organização em parágrafos** é só um alerta e espera de 4 a 5 parágrafos.
+4. **Escolha o modelo**:
+   - **Argon** (Gemini 4 Argon) é o padrão.
+   - **3.8 Flash** é mais barato. Se estiver indisponível, o Argon corrige no lugar.
+5. **Clique em Corrigir redação.** A correção roda no servidor e abre em `/redacao/:id`.
+6. **Leia a devolutiva** em três abas:
+   - **Resumo:** nota estimada de 0 a 1000 e prioridades para a próxima redação.
+   - **Competências:** nota de C1 a C5 em níveis de 40 pontos, com justificativas, pontos fortes e problemas.
+   - **Texto comentado:** apontamentos destacados no seu texto, filtráveis por competência e por tipo (ajustes, pontos positivos, evidências). Um comentário só ganha destaque quando o trecho citado existe literalmente no texto.
+7. **Reescreva**:
+   - **Revisar texto** abre uma nova versão no editor, sem alterar a avaliação original.
+   - **Nova redação** começa do zero.
+8. **Acompanhe a evolução** em **Histórico** (`/historico`): busca por título, filtro por data, média e melhor nota. Ali também dá para excluir uma avaliação.
+9. **Ajuste a conta** em **Configurações** (`/configuracoes`):
+   - edite o perfil e a foto;
+   - ative ou desative **Salvar correções na minha conta**;
+   - importe um histórico antigo do navegador;
+   - exclua todo o histórico.
+
+O histórico na nuvem só funciona se você ativar essa opção, guarda as 30 avaliações mais recentes por até 90 dias e pode ser apagado a qualquer momento. O rascunho fica só na sessão do navegador. A nota é uma **estimativa gerada por IA**, não a nota oficial do ENEM.
+
 ## Destaques técnicos
 
 - **Rubrica oficial governa a nota.** O prompt leva os descritores de nível da cartilha do INEP. Exemplos recuperados (RAG) entram só como contexto pedagógico, nunca como regra de pontuação.
