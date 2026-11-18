@@ -1,0 +1,62 @@
+{
+  "sourceSha": "333d646cba8bf38776ac53552255e81748a20367",
+  "baseURL": "http://127.0.0.1:3500",
+  "kind": "real production build, guest only, no secrets",
+  "entries": [
+    {
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "errors": [],
+      "states": [
+        "login",
+        "auth-not-configured"
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "overflow": false,
+      "errors": [],
+      "states": [
+        "login",
+        "auth-not-configured"
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "overflow": false,
+      "errors": [],
+      "states": [
+        "login",
+        "auth-not-configured"
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "overflow": false,
+      "errors": [],
+      "states": [
+        "login",
+        "auth-not-configured"
+      ]
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "overflow": false,
+      "errors": [],
+      "states": [
+        "login",
+        "auth-not-configured"
+      ]
+    }
+  ],
+  "excludes": [
+    "live OAuth",
+    "authenticated end-to-end flow",
+    "paid inference"
+  ]
+}

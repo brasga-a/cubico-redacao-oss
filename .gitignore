@@ -1,0 +1,55 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# TanStack / Nitro / Wrangler / Local secrets
+.output
+.vinxi
+.tanstack
+.nitro
+.wrangler
+.cloudflare
+.env
+.env.*
+!.env.example
+!.env.cloudflare.example
+.dev.vars
+.dev.vars.*
+!.dev.vars.example
+
+# Isolated visual test outputs
+visual-dist/
+test-results/
+playwright-report/
+
+# Cartilha ingestion (Python) caches and run logs
+__pycache__/
+*.pyc
+data/knowledge/.last-run.json
+
+# Calibration benchmark outputs (paid runs; regenerate with scripts/benchmark)
+benchmark-results/
+
+# Visual comparison captures (~42 MB); regenerate locally with scripts/compare-visual.mjs
+docs/design-captures/

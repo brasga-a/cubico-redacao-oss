@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.json",
+  "include": ["src/**/*.ts", "src/**/*.tsx", "visual/**/*.ts", "visual/**/*.tsx", "scripts/**/*.ts", "*.ts"],
+  "exclude": ["node_modules", "dist", "visual-dist", ".cloudflare", ".wrangler"]
+}

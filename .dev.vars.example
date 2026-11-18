@@ -1,0 +1,19 @@
+# Copie este arquivo para `.dev.vars` para desenvolvimento local:
+#   cp .dev.vars.example .dev.vars
+# NUNCA versione `.dev.vars` nem exponha segredos com prefixo `VITE_`.
+
+BETTER_AUTH_SECRET="substitua-por-um-segredo-aleatorio-com-pelo-menos-32-caracteres"
+BETTER_AUTH_URL="http://127.0.0.1:3000"
+GOOGLE_CLIENT_ID="seu-client-id.apps.googleusercontent.com"
+GOOGLE_CLIENT_SECRET="seu-client-secret-do-google-oauth"
+ALLOWED_EMAILS="estudante@gmail.com,responsavel@gmail.com"
+GEMINI_API_KEY="sua-chave-gemini-api-key"
+GEMINI_MODEL="gemini-4-argon"
+MONTHLY_CORRECTION_LIMIT="50"
+DAILY_USER_LIMIT="10"
+GLOBAL_CONCURRENT_LIMIT="2"
+MAX_OUTPUT_TOKENS="12000"
+# INPUT_USD_PER_MILLION="2"
+# OUTPUT_USD_PER_MILLION="10"
+# TURNSTILE_SITE_KEY=""
+# TURNSTILE_SECRET_KEY=""

@@ -1,0 +1,463 @@
+{
+  "metadata": {
+    "reviewed": true,
+    "source": "A Redação no ENEM 2026 — Cartilha do Participante (INEP/MEC)",
+    "year": 2026,
+    "examYear": 2025,
+    "pages": "11-40",
+    "pdfPages": "7-42"
+  },
+  "overview": {
+    "totalScoreRange": [
+      0,
+      1000
+    ],
+    "competenceScoreLevels": [
+      0,
+      40,
+      80,
+      120,
+      160,
+      200
+    ],
+    "evaluators": "Avaliação independente por, no mínimo, dois(duas) avaliadores(as) graduados(as) em Letras ou Linguística; a nota final é a média aritmética das notas totais.",
+    "discrepancyRules": {
+      "totalThreshold": 100,
+      "competenceThreshold": 80,
+      "resolution": "Se houver diferença superior a 100 pontos no total ou superior a 80 pontos em qualquer competência, a redação passa por um(a) terceiro(a) avaliador(a) independente (prevalecendo a média das duas notas totais mais próximas) ou, persistindo a discrepância, por banca de três avaliadores(as)."
+    },
+    "titlePolicy": "O título é um elemento opcional: conta como linha escrita, mas não é avaliado nas competências da Matriz de Referência (podendo apenas anular a redação se contiver desenhos, sinais gráficos sem função evidente ou impropérios)."
+  },
+  "competencies": [
+    {
+      "id": "I",
+      "title": "Demonstrar domínio da modalidade escrita formal da língua portuguesa.",
+      "pages": "12-14 (PDF 14-16)",
+      "summary": "Avalia se o(a) participante domina a modalidade escrita formal da língua portuguesa, incluindo o conhecimento das convenções da escrita (ortografia e acentuação gráfica regidas pelo atual Acordo Ortográfico), a adequação às regras gramaticais, a escolha de registro formal (sem marcas de oralidade) e a precisão vocabular, bem como a construção sintática com períodos bem estruturados, completos e complexos.",
+      "evaluatedAspects": [
+        "Estrutura sintática: organização convencional dos elementos oracionais, complexidade com orações subordinadas e intercaladas, e ausência de truncamento (ponto-final separando orações dependentes), justaposição (vírgula no lugar de ponto-final), falta ou excesso de elementos sintáticos.",
+        "Convenções da escrita: acentuação, ortografia, uso de hífen, emprego de letras maiúsculas e minúsculas e separação silábica (translineação).",
+        "Aspectos gramaticais: regência verbal e nominal, concordância verbal e nominal, tempos e modos verbais, pontuação, paralelismos sintático, morfológico e semântico, emprego de pronomes e crase.",
+        "Escolha de registro: adequação à modalidade escrita formal, com ausência de registro informal e/ou marcas de oralidade.",
+        "Escolha vocabular: emprego de vocabulário preciso e apropriado ao contexto."
+      ],
+      "recommendations": [
+        "Estruturar períodos complexos com orações subordinadas e intercaladas, evitando períodos truncados ou excessivamente longos que prejudiquem a fluidez.",
+        "Revisar pontuação, concordância verbal e nominal, regência e emprego de crase.",
+        "Seguir rigorosamente o Novo Acordo Ortográfico da Língua Portuguesa."
+      ],
+      "levels": [
+        {
+          "score": 0,
+          "description": "Demonstra desconhecimento da modalidade escrita formal da língua portuguesa."
+        },
+        {
+          "score": 40,
+          "description": "Demonstra domínio precário da modalidade escrita formal da língua portuguesa, de forma sistemática, com diversificados e frequentes desvios gramaticais, de escolha de registro e de convenções da escrita."
+        },
+        {
+          "score": 80,
+          "description": "Demonstra domínio insuficiente da modalidade escrita formal da língua portuguesa, com muitos desvios gramaticais, de escolha de registro e de convenções da escrita."
+        },
+        {
+          "score": 120,
+          "description": "Demonstra domínio mediano da modalidade escrita formal da língua portuguesa e de escolha de registro, com alguns desvios gramaticais e de convenções da escrita."
+        },
+        {
+          "score": 160,
+          "description": "Demonstra bom domínio da modalidade escrita formal da língua portuguesa e de escolha de registro, com poucos desvios gramaticais e de convenções da escrita."
+        },
+        {
+          "score": 200,
+          "description": "Demonstra excelente domínio da modalidade escrita formal da língua portuguesa e de escolha de registro. Desvios gramaticais ou de convenções da escrita serão aceitos somente como excepcionalidade e quando não caracterizarem reincidência."
+        }
+      ]
+    },
+    {
+      "id": "II",
+      "title": "Compreender a proposta de redação e aplicar conceitos das várias áreas de conhecimento para desenvolver o tema dentro dos limites estruturais do texto dissertativo-argumentativo em prosa.",
+      "pages": "14-27 (PDF 16-29)",
+      "summary": "Avalia as habilidades integradas de leitura e de escrita: compreensão plena do recorte temático definido na proposta (evitando tangenciamento ou fuga ao tema), atendimento à estrutura do texto dissertativo-argumentativo em prosa (proposição/ponto de vista, argumentação e conclusão) e mobilização de repertório sociocultural legítimo, pertinente ao tema e com uso produtivo na construção da argumentação.",
+      "evaluatedAspects": [
+        "Abordagem completa de todos os elementos da frase temática, evitando tangenciamento (abordagem apenas do assunto mais amplo) ou fuga total ao tema.",
+        "Domínio da tipologia dissertativo-argumentativa em prosa: defesa clara de um ponto de vista por meio de proposição, argumentação e conclusão, sem predominância nem traços constantes de outros tipos textuais (narrativo, descritivo, poema).",
+        "Presença de repertório sociocultural extrapolando os textos motivadores: informações, fatos, citações, obras ou conceitos de áreas do conhecimento dotados de legitimidade, pertinência temática e produtividade argumentativa.",
+        "Ausência de cópia recorrente dos textos motivadores."
+      ],
+      "recommendations": [
+        "Ler atentamente a proposta e contemplar integralmente o recorte temático.",
+        "Evitar 'repertórios de bolso' (citações genéricas, memorizadas e desconectadas do problema específico, usadas apenas como ornamento).",
+        "Não copiar trechos dos textos motivadores; usar conhecimentos próprios articulados produtivamente à tese."
+      ],
+      "attentionNotes": [
+        "O tangenciamento ao tema na Competência II impede que a redação receba nota acima de 40 pontos nas Competências II, III e V.",
+        "Se a redação apresentar fuga total ao tema ou não atender à estrutura dissertativo-argumentativa, recebe nota 0 (zero) e é anulada por completo."
+      ],
+      "levels": [
+        {
+          "score": 0,
+          "description": "Fuga ao tema/não atendimento à estrutura dissertativo-argumentativa. Nestes casos a redação recebe nota 0 (zero) e é anulada."
+        },
+        {
+          "score": 40,
+          "description": "Apresenta o assunto, tangenciando o tema, ou demonstra domínio precário do texto dissertativo-argumentativo, com traços constantes de outros tipos textuais."
+        },
+        {
+          "score": 80,
+          "description": "Desenvolve o tema recorrendo à cópia de trechos dos textos motivadores ou apresenta domínio insuficiente do texto dissertativo-argumentativo, não atendendo à estrutura com proposição, argumentação e conclusão."
+        },
+        {
+          "score": 120,
+          "description": "Desenvolve o tema por meio de argumentação previsível e apresenta domínio mediano do texto dissertativo-argumentativo, com proposição, argumentação e conclusão."
+        },
+        {
+          "score": 160,
+          "description": "Desenvolve o tema por meio de argumentação consistente e apresenta bom domínio do texto dissertativo-argumentativo, com proposição, argumentação e conclusão."
+        },
+        {
+          "score": 200,
+          "description": "Desenvolve o tema por meio de argumentação consistente, a partir de um repertório sociocultural produtivo, e apresenta excelente domínio do texto dissertativo-argumentativo."
+        }
+      ]
+    },
+    {
+      "id": "III",
+      "title": "Selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista.",
+      "pages": "28-31 (PDF 30-33)",
+      "summary": "Avalia a inteligibilidade do texto no plano de sua estrutura profunda: coerência, plausibilidade e organização estratégica dos argumentos (projeto de texto), seleção e relação de sentido entre informações, fatos e opiniões, progressão temática sem saltos ou repetições, e desenvolvimento analítico que fundamente o ponto de vista sem deixar lacunas de sentido para o(a) leitor(a).",
+      "evaluatedAspects": [
+        "Projeto de texto perceptível pela organização estratégica e planejada da defesa do ponto de vista.",
+        "Seleção pertinente de argumentos que extrapolam os textos motivadores e convergem para a tese.",
+        "Desenvolvimento completo dos argumentos (explicitação, explicação, causa-consequência, exemplificação), evitando passagens meramente descritivas ou informações soltas.",
+        "Coerência entre introdução, desenvolvimento e conclusão, com progressão fluente e sem contradições ou saltos temáticos."
+      ],
+      "recommendations": [
+        "Definir claramente o ponto de vista na introdução e desdobrar todos os argumentos necessários sem deixar lacunas de sentido.",
+        "Garantir que cada argumento seja explicado e interpretado analiticamente, não apenas exposto.",
+        "Manter coerência entre a problemática discutida no desenvolvimento e a conclusão."
+      ],
+      "levels": [
+        {
+          "score": 0,
+          "description": "Apresenta informações, fatos e opiniões não relacionados ao tema e sem defesa de um ponto de vista."
+        },
+        {
+          "score": 40,
+          "description": "Apresenta informações, fatos e opiniões pouco relacionados ao tema ou incoerentes e sem defesa de um ponto de vista."
+        },
+        {
+          "score": 80,
+          "description": "Apresenta informações, fatos e opiniões relacionados ao tema, mas desorganizados ou contraditórios e limitados aos argumentos dos textos motivadores, em defesa de um ponto de vista."
+        },
+        {
+          "score": 120,
+          "description": "Apresenta informações, fatos e opiniões relacionados ao tema, limitados aos argumentos dos textos motivadores e pouco organizados, em defesa de um ponto de vista."
+        },
+        {
+          "score": 160,
+          "description": "Apresenta informações, fatos e opiniões relacionados ao tema, de forma organizada, com indícios de autoria, em defesa de um ponto de vista."
+        },
+        {
+          "score": 200,
+          "description": "Apresenta informações, fatos e opiniões relacionados ao tema proposto, de forma consistente e organizada, configurando autoria, em defesa de um ponto de vista."
+        }
+      ]
+    },
+    {
+      "id": "IV",
+      "title": "Demonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação.",
+      "pages": "31-34 (PDF 33-36)",
+      "summary": "Avalia a coesão na superfície textual: estruturação lógica e formal entre orações, períodos e parágrafos por meio de repertório diversificado de recursos coesivos (operadores argumentativos inter e intraparágrafos, preposições, conjunções, advérbios e mecanismos de referenciação como pronomes, sinônimos, hiperônimos, hipônimos, expressões resumitivas e elipses), garantindo encadeamento sem repetições ou inadequações semânticas.",
+      "evaluatedAspects": [
+        "Coesão interparágrafos e intraparágrafos com operadores argumentativos variados e semanticamente adequados.",
+        "Referenciação eficiente (retomada de termos por pronomes, sinônimos, hipônimos, hiperônimos, expressões resumitivas/metadiscursivas ou elipse), evitando repetições viciosas.",
+        "Estruturação adequada de parágrafos (proibida redação em parágrafo único/monobloco) e períodos.",
+        "Ausência de conectores empregados com valor semântico inadequado ou de uso artificial/excessivo."
+      ],
+      "recommendations": [
+        "Articular explicitamente todos os parágrafos e os períodos internos com operadores argumentativos precisos.",
+        "Variar estratégias de substituição lexical e pronominal para evitar repetições desnecessárias.",
+        "Não usar conectivos de forma artificial apenas por quantidade; assegurar que estabeleçam a relação lógica exata (causa, consequência, oposição, conclusão, adição)."
+      ],
+      "levels": [
+        {
+          "score": 0,
+          "description": "Não articula as informações."
+        },
+        {
+          "score": 40,
+          "description": "Articula as partes do texto de forma precária."
+        },
+        {
+          "score": 80,
+          "description": "Articula as partes do texto, de forma insuficiente, com muitas inadequações, e apresenta repertório limitado de recursos coesivos."
+        },
+        {
+          "score": 120,
+          "description": "Articula as partes do texto, de forma mediana, com inadequações, e apresenta repertório pouco diversificado de recursos coesivos."
+        },
+        {
+          "score": 160,
+          "description": "Articula as partes do texto, com poucas inadequações, e apresenta repertório diversificado de recursos coesivos."
+        },
+        {
+          "score": 200,
+          "description": "Articula bem as partes do texto e apresenta repertório diversificado de recursos coesivos."
+        }
+      ]
+    },
+    {
+      "id": "V",
+      "title": "Elaborar proposta de intervenção para o problema abordado, respeitando os direitos humanos.",
+      "pages": "35-38 (PDF 37-40)",
+      "summary": "Avalia a elaboração de uma proposta de intervenção concreta, específica ao tema e articulada à discussão desenvolvida no texto, contendo os 5 elementos obrigatórios (ação, agente, modo/meio, efeito e detalhamento) e respeitando integralmente os direitos humanos.",
+      "evaluatedAspects": [
+        "Presença explícita de ação propositiva (distinta de mera constatação da realidade ou estruturas condicionais vagas).",
+        "Presença dos 5 elementos obrigatórios: Ação (o que deve ser feito), Agente (quem executa), Modo/Meio (como será executada), Efeito (para que / finalidade) e Detalhamento (informação adicional que explica, exemplifica ou especifica um dos elementos).",
+        "Articulação direta com o tema e com os problemas discutidos ao longo do desenvolvimento.",
+        "Respeito absoluto aos Direitos Humanos (propostas que violem os direitos humanos recebem nota 0 na Competência V)."
+      ],
+      "recommendations": [
+        "Responder claramente: 1) Qual a ação interventiva? 2) Quem é o agente social competente? 3) Por qual modo/meio será viabilizada? 4) Qual o efeito pretendido? 5) Qual detalhamento complementa um desses elementos?",
+        "Evitar meras constatações ('faltam investimentos em x') ou formulações hipotéticas/condicionais ('se x for feito, o resultado poderá ser y').",
+        "Garantir que a proposta solucione os problemas levantados nos parágrafos de desenvolvimento e respeite os princípios dos direitos humanos."
+      ],
+      "attentionNotes": [
+        "Propostas que desrespeitem os direitos humanos receberão nota 0 (zero) na Competência V.",
+        "Apenas constatar a falta de uma ação não configura proposta de intervenção."
+      ],
+      "levels": [
+        {
+          "score": 0,
+          "description": "Não apresenta proposta de intervenção ou apresenta proposta não relacionada ao tema ou ao assunto."
+        },
+        {
+          "score": 40,
+          "description": "Apresenta proposta de intervenção vaga, precária ou relacionada apenas ao assunto."
+        },
+        {
+          "score": 80,
+          "description": "Elabora, de forma insuficiente, proposta de intervenção relacionada ao tema, ou não articulada com a discussão desenvolvida no texto."
+        },
+        {
+          "score": 120,
+          "description": "Elabora, de forma mediana, proposta de intervenção relacionada ao tema e articulada à discussão desenvolvida no texto."
+        },
+        {
+          "score": 160,
+          "description": "Elabora bem proposta de intervenção relacionada ao tema e articulada à discussão desenvolvida no texto."
+        },
+        {
+          "score": 200,
+          "description": "Elabora muito bem proposta de intervenção, detalhada, relacionada ao tema e articulada à discussão desenvolvida no texto."
+        }
+      ]
+    }
+  ],
+  "invalidationRules": {
+    "textual": {
+      "assessableFromTypedInput": true,
+      "description": "Critérios de atribuição de nota 0 (zero) verificáveis diretamente a partir do conteúdo textual digitado.",
+      "conditions": [
+        {
+          "id": "fuga_total_ao_tema",
+          "label": "Fuga total ao tema",
+          "description": "Quando nem o assunto mais amplo nem o tema específico proposto são desenvolvidos na redação."
+        },
+        {
+          "id": "nao_atendimento_ao_tipo_textual",
+          "label": "Não obediência ao tipo dissertativo-argumentativo",
+          "description": "Predominância de características de outro tipo ou gênero textual, como narrativo, descritivo, poema ou relato puramente pessoal."
+        },
+        {
+          "id": "texto_insuficiente",
+          "label": "Texto insuficiente (até 7 linhas)",
+          "description": "Extensão de até 7 (sete) linhas (desconsideradas as linhas com cópia dos textos motivadores ou do caderno de questões)."
+        },
+        {
+          "id": "copia_excessiva_textos_motivadores",
+          "label": "Cópia dos textos motivadores sem linhas autorais suficientes",
+          "description": "Linhas compostas integral ou parcialmente por cópia da Prova de Redação e/ou do Caderno de Questões são desconsideradas na contagem mínima de linhas."
+        },
+        {
+          "id": "improperios_anulacao_proposital",
+          "label": "Impropérios e outras formas propositais de anulação",
+          "description": "Presença de xingamentos, ofensas, impropérios ou recusas explícitas à realização da prova."
+        },
+        {
+          "id": "parte_deliberadamente_desconectada",
+          "label": "Parte deliberadamente desconectada do tema proposto",
+          "description": "Reflexões sobre o próprio processo de escrita ou sobre o exame, bilhetes à banca avaliadora, orações, mensagens religiosas, mensagens políticas/de protesto, receitas, trechos de música/hino/poema ou frases inseridas de forma proposital, pontual e desarticulada da argumentação."
+        },
+        {
+          "id": "lingua_estrangeira",
+          "label": "Texto escrito predominantemente ou integralmente em língua estrangeira",
+          "description": "Redação redigida predominantemente ou integralmente em idioma diverso da língua portuguesa."
+        }
+      ]
+    },
+    "handwritten": {
+      "assessableFromTypedInput": false,
+      "defaultReasonForTypedInput": "A entrada contém texto digitado; características exclusivas da folha manuscrita (folha em branco física, letra ilegível, desenhos, rasuras ou assinatura fora do espaço reservado) não podem ser avaliadas.",
+      "conditions": [
+        {
+          "id": "folha_em_branco",
+          "label": "Ausência de texto escrito na Folha de Redação ('Em Branco')",
+          "description": "Folha oficial de redação entregue sem texto transcrito."
+        },
+        {
+          "id": "texto_ilegivel",
+          "label": "Texto ilegível",
+          "description": "Caligrafia que impossibilite a leitura da redação por dois(duas) avaliadores(as) independentes."
+        },
+        {
+          "id": "desenhos_sinais_graficos",
+          "label": "Desenhos e sinais gráficos sem função evidente",
+          "description": "Desenhos ou marcas gráficas no corpo do texto ou no título que configurem anulação proposital."
+        },
+        {
+          "id": "identificacao_fora_do_local",
+          "label": "Nome, assinatura, rubrica ou identificação fora do espaço reservado",
+          "description": "Qualquer marca de identificação do(a) participante fora do local exclusivo na Folha de Redação."
+        },
+        {
+          "id": "texto_insuficiente_braille",
+          "label": "Extensão de até 10 linhas no sistema Braille",
+          "description": "Critério específico para redações transcritas em sistema Braille."
+        }
+      ]
+    }
+  },
+  "competencyRelationships": [
+    {
+      "id": "tangenciamento_teto_40_pontos",
+      "sourceCompetence": "II",
+      "affectedCompetencies": [
+        "II",
+        "III",
+        "V"
+      ],
+      "maxScoreAllowed": 40,
+      "rule": "Conforme previsto na Matriz de Referência do ENEM, o tangenciamento ao tema (abordagem parcial restrita apenas ao assunto mais amplo), avaliado na Competência II, afeta diretamente as Competências III e V, impedindo que a redação receba nota acima de 40 pontos nas Competências II, III e V."
+    },
+    {
+      "id": "fuga_ou_tipo_textual_nota_zero_global",
+      "sourceCompetence": "II",
+      "affectedCompetencies": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "maxScoreAllowed": 0,
+      "rule": "Se a redação apresentar fuga total ao tema ou não atender à estrutura dissertativo-argumentativa, não será avaliada em nenhuma das competências e sua nota final será 0 (zero)."
+    },
+    {
+      "id": "distincao_ciii_estrutura_profunda_vs_civ_superficie",
+      "sourceCompetence": "III",
+      "affectedCompetencies": [
+        "III",
+        "IV"
+      ],
+      "rule": "As Competências III e IV avaliam a construção da argumentação em níveis distintos: a Competência III avalia a estrutura profunda do texto (seleção, relação, organização e interpretação de argumentos em um projeto de texto coerente), enquanto a Competência IV avalia a superfície textual (marcas linguísticas, operadores argumentativos e referenciação que promovem o encadeamento)."
+    }
+  ],
+  "themeAndTypeRules": {
+    "fugaTotalAoTema": {
+      "definition": "Ocorre quando nem o assunto mais amplo nem o tema específico proposto são desenvolvidos. Leva à atribuição de nota 0 (zero) em toda a redação.",
+      "exam2025Example": {
+        "theme": "Perspectivas acerca do envelhecimento na sociedade brasileira",
+        "requiredCoreElements": [
+          "perspectivas",
+          "envelhecimento",
+          "sociedade brasileira"
+        ],
+        "fugaCases": [
+          "Abordar exclusivamente qualquer outro tema ou assunto alheio ao envelhecimento.",
+          "Abordar exclusivamente outras questões da sociedade brasileira sem relação com o envelhecimento."
+        ]
+      }
+    },
+    "tangenciamentoAoTema": {
+      "definition": "Abordagem parcial baseada somente no assunto mais amplo a que o tema está vinculado, desconsiderando o recorte específico da frase temática. Limita a nota a, no máximo, 40 pontos nas Competências II, III e V.",
+      "exam2025Example": {
+        "tangenciamentoCases": [
+          "Abordar o envelhecimento exclusivamente considerando especificidades de contexto não brasileiro.",
+          "Abordar o envelhecimento apenas como experiência universal ou processo biológico inevitável, sem discutir as perspectivas na sociedade brasileira."
+        ]
+      }
+    },
+    "tipoDissertativoArgumentativo": {
+      "definition": "Texto organizado com base na defesa de um ponto de vista (tese) sobre determinado assunto, fundamentado com argumentos e explicações (proposição, argumentação e conclusão) para convencer o(a) leitor(a).",
+      "penalties": "Predominância de outro tipo textual (narrativo, descritivo, poema) gera nota 0 total. Presença constante de traços de outros tipos textuais em texto predominantemente dissertativo-argumentativo penaliza a Competência II (nível 40)."
+    }
+  },
+  "repertorioSociocultural": {
+    "definition": "Informação, fato, citação, obra artística/literária, dado estatístico, marco histórico/legal ou conhecimento de mundo que extrapola os textos motivadores e contribui para a discussão proposta.",
+    "criteria": {
+      "legitimidade": "Referência respaldada por áreas do conhecimento, fatos históricos, legislação, obras literárias/audiovisuais/musicais, pesquisas ou conhecimento sociocultural reconhecido.",
+      "pertinencia": "Relação direta e genuína com o recorte temático proposto.",
+      "usoProdutivo": "Efetiva interpretação e articulação orgânica entre o repertório e o argumento defendido (por analogia, causa-consequência, comprovação ou contraponto), em vez de mera citação ilustrativa ou ornamental."
+    },
+    "repertorioDeBolso": {
+      "definition": "Referências prontas, memorizadas e aplicadas de maneira genérica, mecânica ou forçada a qualquer tema (como citações descontextualizadas de 'A República' de Platão ou do 'animal político' de Aristóteles sem vínculo analítico com o problema).",
+      "impact": "Compromete a produtividade do repertório e impede o alcance do nível máximo (200 pontos) na Competência II."
+    }
+  },
+  "interventionProposalRules": {
+    "competence": "V",
+    "requiredElements": [
+      {
+        "id": "acao",
+        "name": "Ação",
+        "question": "O que deve ser feito para enfrentar o problema?",
+        "description": "Elemento central e indispensável da proposta: medida prática e propositiva (não pode ser mera constatação ou frase condicional)."
+      },
+      {
+        "id": "agente",
+        "name": "Agente",
+        "question": "Quem deve executar a ação?",
+        "description": "Ator social competente para executar a medida nos âmbitos individual, familiar, comunitário, social, político, midiático ou governamental."
+      },
+      {
+        "id": "modo_meio",
+        "name": "Modo / Meio",
+        "question": "Como viabilizar ou pôr em prática essa ação?",
+        "description": "Maneira ou recurso concreto pelo qual a ação será executada."
+      },
+      {
+        "id": "efeito",
+        "name": "Efeito / Finalidade",
+        "question": "Qual efeito ou finalidade a ação pretende alcançar?",
+        "description": "Resultado esperado para transformar ou mitigar a situação-problema discutida."
+      },
+      {
+        "id": "detalhamento",
+        "name": "Detalhamento",
+        "question": "Que outra informação pode ser acrescentada para detalhar um dos elementos?",
+        "description": "Informação adicional de explicação, exemplificação, justificativa ou especificação associada à ação, ao agente, ao modo/meio ou ao efeito."
+      }
+    ],
+    "proporVsConstatar": "Propor exige indicar uma ação transformadora projetada para o futuro. Constatar limita-se a reconhecer uma situação ou carência existente (ex.: 'faltam investimentos em x') ou formular hipóteses vagas ('se x for feito, o resultado poderá ser y'), o que não configura proposta de intervenção válida.",
+    "humanRights": {
+      "penaltyForViolation": "Nota 0 (zero) na Competência V para qualquer proposta que desrespeite os direitos humanos.",
+      "guidingPrinciples": [
+        "Dignidade humana",
+        "Igualdade de direitos",
+        "Reconhecimento e valorização das diferenças e diversidades",
+        "Laicidade do Estado",
+        "Democracia na educação",
+        "Transversalidade, vivência e globalidade",
+        "Sustentabilidade socioambiental"
+      ],
+      "legalBasis": "Art. 3º da Resolução CNE/CP nº 1, de 30 de maio de 2012 (Diretrizes Nacionais para a Educação em Direitos Humanos).",
+      "disqualifyingExamples": [
+        "Defesa de tortura, mutilação, execução sumária e qualquer forma de 'justiça com as próprias mãos' (administração da punição por indivíduos).",
+        "Incitação a qualquer tipo de violência motivada por questões de raça, etnia, gênero, credo, opinião política, condição física, origem geográfica ou socioeconômica.",
+        "Explicitação de qualquer forma de discurso de ódio voltado contra grupos sociais específicos.",
+        "Violação de direitos humanos tanto do grupo vulnerável em pauta (ex.: população idosa) quanto daqueles que cometem infrações contra esse grupo."
+      ]
+    }
+  }
+}

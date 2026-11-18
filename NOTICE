@@ -1,0 +1,31 @@
+Cúbico Redação
+Copyright (c) 2026 brasga-a
+
+O código-fonte deste repositório é distribuído sob a licença MIT (ver LICENSE).
+
+A licença MIT NÃO se aplica ao conteúdo de terceiros listado abaixo.
+
+Conteúdo do INEP/MEC
+--------------------
+Os arquivos em data/knowledge/, data/extracted/ e data/rubric-2026.json contêm
+texto extraído das publicações "A Redação no Enem — Cartilha do(a) Participante"
+(edições 2018 a 2026), do Instituto Nacional de Estudos e Pesquisas Educacionais
+Anísio Teixeira (INEP), Ministério da Educação: rubrica e descritores de nível,
+orientações, comentários oficiais e redações de participantes.
+
+O expediente das cartilhas autoriza a reprodução total ou parcial desde que
+citada a fonte. Esse conteúdo continua de autoria do INEP e dos(as)
+participantes identificados(as) em cada redação; ele é reproduzido aqui com
+atribuição, para fins educacionais, e não é apresentado como autoria deste
+projeto nem como norma nova.
+
+Publicação oficial:
+https://www.gov.br/inep/pt-br/centrais-de-conteudo/acervo-linha-editorial/publicacoes-institucionais/avaliacoes-e-exames-da-educacao-basica
+
+Os PDFs originais não fazem parte deste repositório.
+
+Notas estimadas
+---------------
+As notas produzidas pelo Cúbico Redação são estimativas geradas por modelo de
+linguagem com base na matriz de referência do INEP. Não são notas oficiais do
+Enem nem têm qualquer vínculo com o INEP.

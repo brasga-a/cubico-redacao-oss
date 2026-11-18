@@ -1,0 +1,1145 @@
+{
+ "canonicalYear": 2026,
+ "competencies": [
+  {
+   "heading": "1.1 COMPETÊNCIA I",
+   "id": "I",
+   "levels": [
+    {
+     "descriptor": "Demonstra excelente domínio da modalidade escrita formal da língua portuguesa e de escolha de registro. Desvios gramaticais ou de convenções da escrita serão aceitos somente como excepcionalidade e quando não caracterizarem reincidência.",
+     "quality": "ok",
+     "score": 200,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       16,
+       16
+      ],
+      "printedPages": [
+       "14",
+       "14"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Demonstra bom domínio da modalidade escrita formal da língua portuguesa e de escolha de registro, com poucos desvios gramaticais e de convenções da escrita.",
+     "quality": "ok",
+     "score": 160,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       16,
+       16
+      ],
+      "printedPages": [
+       "14",
+       "14"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Demonstra domínio mediano da modalidade escrita formal da língua portuguesa e de escolha de registro, com alguns desvios gramaticais e de convenções da escrita.",
+     "quality": "ok",
+     "score": 120,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       16,
+       16
+      ],
+      "printedPages": [
+       "14",
+       "14"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Demonstra domínio insuficiente da modalidade escrita formal da língua portuguesa, com muitos desvios gramaticais, de escolha de registro e de convenções da escrita.",
+     "quality": "ok",
+     "score": 80,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       16,
+       16
+      ],
+      "printedPages": [
+       "14",
+       "14"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Demonstra domínio precário da modalidade escrita formal da língua portuguesa, de forma sistemática, com diversificados e frequentes desvios gramaticais, de escolha de registro e de convenções da escrita.",
+     "quality": "ok",
+     "score": 40,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       16,
+       16
+      ],
+      "printedPages": [
+       "14",
+       "14"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Demonstra desconhecimento da modalidade escrita formal da língua portuguesa.",
+     "quality": "ok",
+     "score": 0,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       16,
+       16
+      ],
+      "printedPages": [
+       "14",
+       "14"
+      ],
+      "year": 2026
+     }
+    }
+   ],
+   "notes": [],
+   "officialTitle": "DEMONSTRAR DOMÍNIO DA MODALIDADE ESCRITA FORMAL DA LÍNGUA PORTUGUESA"
+  },
+  {
+   "heading": "1.2 COMPETÊNCIA II",
+   "id": "II",
+   "levels": [
+    {
+     "descriptor": "Desenvolve o tema por meio de argumentação consistente, a partir de um repertório sociocultural produtivo, e apresenta excelente domínio do texto dissertativo-argumentativo.",
+     "quality": "ok",
+     "score": 200,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       29,
+       29
+      ],
+      "printedPages": [
+       "27",
+       "27"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Desenvolve o tema por meio de argumentação consistente e apresenta bom domínio do texto dissertativo-argumentativo, com proposição, argumentação e conclusão.",
+     "quality": "ok",
+     "score": 160,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       29,
+       29
+      ],
+      "printedPages": [
+       "27",
+       "27"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Desenvolve o tema por meio de argumentação previsível e apresenta domínio mediano do texto dissertativo-argumentativo, com proposição, argumentação e conclusão.",
+     "quality": "ok",
+     "score": 120,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       29,
+       29
+      ],
+      "printedPages": [
+       "27",
+       "27"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Desenvolve o tema recorrendo à cópia de trechos dos textos motivadores ou apresenta domínio insuficiente do texto dissertativo-argumentativo, não atendendo à estrutura com proposição, argumentação e conclusão.",
+     "quality": "ok",
+     "score": 80,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       29,
+       29
+      ],
+      "printedPages": [
+       "27",
+       "27"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Apresenta o assunto, tangenciando o tema, ou demonstra domínio precário do texto dissertativo-argumentativo, com traços constantes de outros tipos textuais.",
+     "quality": "ok",
+     "score": 40,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       29,
+       29
+      ],
+      "printedPages": [
+       "27",
+       "27"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Fuga ao tema/não atendimento à estrutura dissertativo-argumentativa. Nestes casos a redação recebe nota 0 (zero) e é anulada.",
+     "quality": "ok",
+     "score": 0,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       29,
+       29
+      ],
+      "printedPages": [
+       "27",
+       "27"
+      ],
+      "year": 2026
+     }
+    }
+   ],
+   "notes": [
+    {
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       27,
+       27
+      ],
+      "printedPages": [
+       "25",
+       "25"
+      ],
+      "year": 2026
+     },
+     "structured": {
+      "appliesTo": [
+       "II",
+       "III",
+       "V"
+      ],
+      "effect": "cap",
+      "maxScore": 40,
+      "trigger": "tangenciamento_ao_tema"
+     },
+     "text": "ATENÇÃO! Conforme previsto na Matriz de Referência para a Redação do Enem, o tangenciamento ao tema, avaliado na Competência II, afeta também a avaliação das Competências III e V, impedindo que a redação receba nota acima de 40 pontos em todas essas competências."
+    },
+    {
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       28,
+       28
+      ],
+      "printedPages": [
+       "26",
+       "26"
+      ],
+      "year": 2026
+     },
+     "structured": {
+      "appliesTo": [
+       "I",
+       "II",
+       "III",
+       "IV",
+       "V"
+      ],
+      "effect": "total_zero",
+      "maxScore": 0,
+      "trigger": "predominancia_outro_tipo_textual"
+     },
+     "text": "ATENÇÃO! Será atribuída nota 0 (zero) à redação que apresentar predominância de características de outro tipo textual, mesmo que atenda às exigências dos outros critérios de avaliação. Já redações que apresentem muitas características de outro tipo textual em meio a um texto predominantemente dissertativo-argumentativo não receberão a nota zero total, mas serão penalizadas na Competência II. Portanto, você não deve, por exemplo, elaborar um poema ou reduzir o seu texto à narração de uma história ou a um depoimento de experiência pessoal, ainda que aborde o tema de forma completa. No processo argumentativo, é possível apresentar trechos pontuais narrando acontecimentos que justificam o ponto de vista, mas o texto não pode se reduzir a uma narração devido ao fato de esta não apresentar as características do tipo textual solicitado."
+    },
+    {
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       29,
+       29
+      ],
+      "printedPages": [
+       "27",
+       "27"
+      ],
+      "year": 2026
+     },
+     "structured": {
+      "appliesTo": [
+       "I",
+       "II",
+       "III",
+       "IV",
+       "V"
+      ],
+      "effect": "total_zero",
+      "maxScore": 0,
+      "trigger": "fuga_ao_tema_ou_tipo_textual"
+     },
+     "text": "ATENÇÃO! Se a sua redação apresentar fuga ao tema ou não atender ao tipo dissertativo-argumentativo, ela não será avaliada em nenhuma das competências e a sua nota final na prova de redação será 0 (zero)."
+    }
+   ],
+   "officialTitle": "COMPREENDER A PROPOSTA DE REDAÇÃO E APLICAR CONCEITOS DAS VÁRIAS ÁREAS DE CONHECIMENTO PARA DESENVOLVER O TEMA DENTRO DOS LIMITES ESTRUTURAIS DO TEXTO DISSERTATIVO-ARGUMENTATIVO EM PROSA"
+  },
+  {
+   "heading": "1.3 COMPETÊNCIA III",
+   "id": "III",
+   "levels": [
+    {
+     "descriptor": "Apresenta informações, fatos e opiniões relacionados ao tema proposto, de forma consistente e organizada, configurando autoria, em defesa de um ponto de vista.",
+     "quality": "ok",
+     "score": 200,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       33,
+       33
+      ],
+      "printedPages": [
+       "31",
+       "31"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Apresenta informações, fatos e opiniões relacionados ao tema, de forma organizada, com indícios de autoria, em defesa de um ponto de vista.",
+     "quality": "ok",
+     "score": 160,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       33,
+       33
+      ],
+      "printedPages": [
+       "31",
+       "31"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Apresenta informações, fatos e opiniões relacionados ao tema, limitados aos argumentos dos textos motivadores e pouco organizados, em defesa de um ponto de vista.",
+     "quality": "ok",
+     "score": 120,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       33,
+       33
+      ],
+      "printedPages": [
+       "31",
+       "31"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Apresenta informações, fatos e opiniões relacionados ao tema, mas desorganizados ou contraditórios e limitados aos argumentos dos textos motivadores, em defesa de um ponto de vista.",
+     "quality": "ok",
+     "score": 80,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       33,
+       33
+      ],
+      "printedPages": [
+       "31",
+       "31"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Apresenta informações, fatos e opiniões pouco relacionados ao tema ou incoerentes e sem defesa de um ponto de vista.",
+     "quality": "ok",
+     "score": 40,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       33,
+       33
+      ],
+      "printedPages": [
+       "31",
+       "31"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Apresenta informações, fatos e opiniões não relacionados ao tema e sem defesa de um ponto de vista.",
+     "quality": "ok",
+     "score": 0,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       33,
+       33
+      ],
+      "printedPages": [
+       "31",
+       "31"
+      ],
+      "year": 2026
+     }
+    }
+   ],
+   "notes": [
+    {
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       32,
+       32
+      ],
+      "printedPages": [
+       "30",
+       "30"
+      ],
+      "year": 2026
+     },
+     "structured": null,
+     "text": "ATENÇÃO! Lembre-se de que há uma limitação no número de linhas e, por esse motivo, seu texto deve ser constituído apenas por informações, fatos, opiniões e argumentos que sejam pertinentes para a defesa do seu ponto de vista. Evite perder tempo (e linhas em sua redação) com informações irrelevantes, repetidas ou excessivas, e não se esqueça de reler seu texto com atenção antes de finalizá-lo."
+    }
+   ],
+   "officialTitle": "SELECIONAR, RELACIONAR, ORGANIZAR E INTERPRETAR INFORMAÇÕES, FATOS, OPINIÕES E ARGUMENTOS EM DEFESA DE UM PONTO DE VISTA"
+  },
+  {
+   "heading": "1.4 COMPETÊNCIA IV",
+   "id": "IV",
+   "levels": [
+    {
+     "descriptor": "Articula bem as partes do texto e apresenta repertório diversificado de recursos coesivos.",
+     "quality": "ok",
+     "score": 200,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       36,
+       36
+      ],
+      "printedPages": [
+       "34",
+       "34"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Articula as partes do texto, com poucas inadequações, e apresenta repertório diversificado de recursos coesivos.",
+     "quality": "ok",
+     "score": 160,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       36,
+       36
+      ],
+      "printedPages": [
+       "34",
+       "34"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Articula as partes do texto, de forma mediana, com inadequações, e apresenta repertório pouco diversificado de recursos coesivos.",
+     "quality": "ok",
+     "score": 120,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       36,
+       36
+      ],
+      "printedPages": [
+       "34",
+       "34"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Articula as partes do texto, de forma insuficiente, com muitas inadequações, e apresenta repertório limitado de recursos coesivos.",
+     "quality": "ok",
+     "score": 80,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       36,
+       36
+      ],
+      "printedPages": [
+       "34",
+       "34"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Articula as partes do texto de forma precária.",
+     "quality": "ok",
+     "score": 40,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       36,
+       36
+      ],
+      "printedPages": [
+       "34",
+       "34"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Não articula as informações.",
+     "quality": "ok",
+     "score": 0,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       36,
+       36
+      ],
+      "printedPages": [
+       "34",
+       "34"
+      ],
+      "year": 2026
+     }
+    }
+   ],
+   "notes": [
+    {
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       36,
+       36
+      ],
+      "printedPages": [
+       "34",
+       "34"
+      ],
+      "year": 2026
+     },
+     "structured": null,
+     "text": "ATENÇÃO! Não utilize elementos coesivos de forma artificial ou excessiva, apenas porque é um dos critérios avaliados na prova de redação ou porque seu texto vai parecer mais bem escrito. Uma boa coesão não depende da mera presença de conectivos no texto, muito menos de serem utilizados em grande quantidade — é preciso que esses recursos estabeleçam relações lógicas adequadas entre as ideias apresentadas."
+    }
+   ],
+   "officialTitle": "DEMONSTRAR CONHECIMENTO DOS MECANISMOS LINGUÍSTICOS NECESSÁRIOS PARA A CONSTRUÇÃO DA ARGUMENTAÇÃO"
+  },
+  {
+   "heading": "1.5 COMPETÊNCIA V",
+   "id": "V",
+   "levels": [
+    {
+     "descriptor": "Elabora muito bem proposta de intervenção, detalhada, relacionada ao tema e articulada à discussão desenvolvida no texto.",
+     "quality": "ok",
+     "score": 200,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       40,
+       40
+      ],
+      "printedPages": [
+       "38",
+       "38"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Elabora bem proposta de intervenção relacionada ao tema e articulada à discussão desenvolvida no texto.",
+     "quality": "ok",
+     "score": 160,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       40,
+       40
+      ],
+      "printedPages": [
+       "38",
+       "38"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Elabora, de forma mediana, proposta de intervenção relacionada ao tema e articulada à discussão desenvolvida no texto.",
+     "quality": "ok",
+     "score": 120,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       40,
+       40
+      ],
+      "printedPages": [
+       "38",
+       "38"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Elabora, de forma insuficiente, proposta de intervenção relacionada ao tema, ou não articulada com a discussão desenvolvida no texto.",
+     "quality": "ok",
+     "score": 80,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       40,
+       40
+      ],
+      "printedPages": [
+       "38",
+       "38"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Apresenta proposta de intervenção vaga, precária ou relacionada apenas ao assunto.",
+     "quality": "ok",
+     "score": 40,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       40,
+       40
+      ],
+      "printedPages": [
+       "38",
+       "38"
+      ],
+      "year": 2026
+     }
+    },
+    {
+     "descriptor": "Não apresenta proposta de intervenção ou apresenta proposta não relacionada ao tema ou ao assunto.",
+     "quality": "ok",
+     "score": 0,
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       40,
+       40
+      ],
+      "printedPages": [
+       "38",
+       "38"
+      ],
+      "year": 2026
+     }
+    }
+   ],
+   "notes": [
+    {
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       38,
+       38
+      ],
+      "printedPages": [
+       "36",
+       "36"
+      ],
+      "year": 2026
+     },
+     "structured": null,
+     "text": "ATENÇÃO! Existem várias formas de propor uma intervenção e, por isso, você deve explorar aquela que seja mais adequada ao tema e ao seu projeto de texto. Contudo, fique atento(a) para que sua proposta esteja explícita. Apenas constatar a falta de uma ação ou de um projeto (como em “faltam investimentos em x”) não é suficiente para configurar uma proposta de intervenção. Além disso, evite propostas vagas, genéricas ou incompatíveis com a discussão, bem como estruturas que não permitam ter certeza de que você está propondo, de fato, uma intervenção (como em “se x for feito, o resultado poderá ser y”). Em suma, você deve expor com clareza o seu desejo de intervir na realidade e a sua proposta deve contemplar a situação problematizada em seu texto."
+    },
+    {
+     "source": {
+      "docId": "cartilha-2026",
+      "file": "cartilha_enem_2026.pdf",
+      "pdfPages": [
+       40,
+       40
+      ],
+      "printedPages": [
+       "38",
+       "38"
+      ],
+      "year": 2026
+     },
+     "structured": {
+      "appliesTo": [
+       "V"
+      ],
+      "effect": "competency_zero",
+      "maxScore": 0,
+      "trigger": "desrespeito_direitos_humanos"
+     },
+     "text": "ATENÇÃO! Propostas que desrespeitem os direitos humanos receberão nota 0 (zero) na Competência V.."
+    }
+   ],
+   "officialTitle": "ELABORAR PROPOSTA DE INTERVENÇÃO PARA O PROBLEMA ABORDADO, RESPEITANDO OS DIREITOS HUMANOS"
+  }
+ ],
+ "document": {
+  "file": "cartilha_enem_2026.pdf",
+  "id": "cartilha-2026",
+  "sha256": "5708d8df9a3b0046cbf3d835e023f9eb89be08d295cb01ce5afeac77496211ad",
+  "year": 2026
+ },
+ "origin": "inep_verbatim",
+ "reviewNote": "Descritores extraídos do PDF e conferidos por testes automáticos; sem revisão pedagógica humana independente.",
+ "reviewStatus": "auto_validated",
+ "rules": [
+  {
+   "id": "annulment.01",
+   "kind": "annulment",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     9,
+     9
+    ],
+    "printedPages": [
+     "7",
+     "7"
+    ],
+    "year": 2026
+   },
+   "text": "fuga total ao tema;"
+  },
+  {
+   "id": "annulment.02",
+   "kind": "annulment",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     9,
+     9
+    ],
+    "printedPages": [
+     "7",
+     "7"
+    ],
+    "year": 2026
+   },
+   "text": "não obediência ao tipo dissertativo-argumentativo;"
+  },
+  {
+   "id": "annulment.03",
+   "kind": "annulment",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     9,
+     9
+    ],
+    "printedPages": [
+     "7",
+     "7"
+    ],
+    "year": 2026
+   },
+   "text": "ausência de texto escrito na Folha de Redação, que será considerada “Em Branco”;"
+  },
+  {
+   "id": "annulment.04",
+   "kind": "annulment",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     9,
+     9
+    ],
+    "printedPages": [
+     "7",
+     "7"
+    ],
+    "year": 2026
+   },
+   "text": "extensão de até 7 (sete) linhas manuscritas, qualquer que seja o conteúdo, ou extensão de até 10 (dez) linhas escritas no sistema Braille, situações que configurarão “Texto insuficiente”;"
+  },
+  {
+   "id": "annulment.05",
+   "kind": "annulment",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     9,
+     9
+    ],
+    "printedPages": [
+     "7",
+     "7"
+    ],
+    "year": 2026
+   },
+   "text": "impropérios, desenhos e outras formas propositais de anulação, o que configurará “Anulada”;"
+  },
+  {
+   "id": "annulment.06",
+   "kind": "annulment",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     9,
+     9
+    ],
+    "printedPages": [
+     "7",
+     "7"
+    ],
+    "year": 2026
+   },
+   "text": "parte deliberadamente desconectada do tema proposto;"
+  },
+  {
+   "id": "annulment.07",
+   "kind": "annulment",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     9,
+     9
+    ],
+    "printedPages": [
+     "7",
+     "7"
+    ],
+    "year": 2026
+   },
+   "text": "nome, assinatura, rubrica ou qualquer outra forma de identificação fora do espaço destinado exclusivamente para isso, em qualquer parte da Folha de Redação, o que configurará “Anulada”;"
+  },
+  {
+   "id": "annulment.08",
+   "kind": "annulment",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     10,
+     10
+    ],
+    "printedPages": [
+     "8",
+     "8"
+    ],
+    "year": 2026
+   },
+   "text": "texto escrito predominantemente ou integralmente em língua estrangeira;"
+  },
+  {
+   "id": "annulment.09",
+   "kind": "annulment",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     10,
+     10
+    ],
+    "printedPages": [
+     "8",
+     "8"
+    ],
+    "year": 2026
+   },
+   "text": "texto ilegível, que impossibilite sua leitura por dois(duas) avaliadores(as)"
+  },
+  {
+   "id": "annulment.10",
+   "kind": "annulment",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     10,
+     10
+    ],
+    "printedPages": [
+     "8",
+     "8"
+    ],
+    "year": 2026
+   },
+   "text": "cópia de texto(s) da Prova de Redação e/ou do Caderno de Questões terá a quantidade de linhas copiadas desconsiderada para a contagem da quantidade mínima de linhas."
+  },
+  {
+   "id": "discrepancy.01",
+   "kind": "discrepancy",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     8,
+     8
+    ],
+    "printedPages": [
+     "6",
+     "6"
+    ],
+    "year": 2026
+   },
+   "text": "diferirem em mais de 100 (cem) pontos no total; ou"
+  },
+  {
+   "id": "discrepancy.02",
+   "kind": "discrepancy",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     8,
+     8
+    ],
+    "printedPages": [
+     "6",
+     "6"
+    ],
+    "year": 2026
+   },
+   "text": "obtiverem diferença superior a 80 (oitenta) pontos em qualquer uma das competências."
+  },
+  {
+   "id": "discrepancy.03",
+   "kind": "discrepancy",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     9,
+     9
+    ],
+    "printedPages": [
+     "7",
+     "7"
+    ],
+    "year": 2026
+   },
+   "text": "A redação será avaliada, de forma independente, por um(a) terceiro(a)"
+  },
+  {
+   "id": "discrepancy.04",
+   "kind": "discrepancy",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     9,
+     9
+    ],
+    "printedPages": [
+     "7",
+     "7"
+    ],
+    "year": 2026
+   },
+   "text": "A nota final será a média aritmética das duas notas totais que mais se aproximarem."
+  },
+  {
+   "id": "cap.II.01",
+   "kind": "score_effect",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     27,
+     27
+    ],
+    "printedPages": [
+     "25",
+     "25"
+    ],
+    "year": 2026
+   },
+   "structured": {
+    "appliesTo": [
+     "II",
+     "III",
+     "V"
+    ],
+    "effect": "cap",
+    "maxScore": 40,
+    "trigger": "tangenciamento_ao_tema"
+   },
+   "text": "ATENÇÃO! Conforme previsto na Matriz de Referência para a Redação do Enem, o tangenciamento ao tema, avaliado na Competência II, afeta também a avaliação das Competências III e V, impedindo que a redação receba nota acima de 40 pontos em todas essas competências."
+  },
+  {
+   "id": "cap.II.02",
+   "kind": "score_effect",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     28,
+     28
+    ],
+    "printedPages": [
+     "26",
+     "26"
+    ],
+    "year": 2026
+   },
+   "structured": {
+    "appliesTo": [
+     "I",
+     "II",
+     "III",
+     "IV",
+     "V"
+    ],
+    "effect": "total_zero",
+    "maxScore": 0,
+    "trigger": "predominancia_outro_tipo_textual"
+   },
+   "text": "ATENÇÃO! Será atribuída nota 0 (zero) à redação que apresentar predominância de características de outro tipo textual, mesmo que atenda às exigências dos outros critérios de avaliação. Já redações que apresentem muitas características de outro tipo textual em meio a um texto predominantemente dissertativo-argumentativo não receberão a nota zero total, mas serão penalizadas na Competência II. Portanto, você não deve, por exemplo, elaborar um poema ou reduzir o seu texto à narração de uma história ou a um depoimento de experiência pessoal, ainda que aborde o tema de forma completa. No processo argumentativo, é possível apresentar trechos pontuais narrando acontecimentos que justificam o ponto de vista, mas o texto não pode se reduzir a uma narração devido ao fato de esta não apresentar as características do tipo textual solicitado."
+  },
+  {
+   "id": "cap.II.03",
+   "kind": "score_effect",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     29,
+     29
+    ],
+    "printedPages": [
+     "27",
+     "27"
+    ],
+    "year": 2026
+   },
+   "structured": {
+    "appliesTo": [
+     "I",
+     "II",
+     "III",
+     "IV",
+     "V"
+    ],
+    "effect": "total_zero",
+    "maxScore": 0,
+    "trigger": "fuga_ao_tema_ou_tipo_textual"
+   },
+   "text": "ATENÇÃO! Se a sua redação apresentar fuga ao tema ou não atender ao tipo dissertativo-argumentativo, ela não será avaliada em nenhuma das competências e a sua nota final na prova de redação será 0 (zero)."
+  },
+  {
+   "id": "cap.V.02",
+   "kind": "score_effect",
+   "source": {
+    "docId": "cartilha-2026",
+    "file": "cartilha_enem_2026.pdf",
+    "pdfPages": [
+     40,
+     40
+    ],
+    "printedPages": [
+     "38",
+     "38"
+    ],
+    "year": 2026
+   },
+   "structured": {
+    "appliesTo": [
+     "V"
+    ],
+    "effect": "competency_zero",
+    "maxScore": 0,
+    "trigger": "desrespeito_direitos_humanos"
+   },
+   "text": "ATENÇÃO! Propostas que desrespeitem os direitos humanos receberão nota 0 (zero) na Competência V.."
+  }
+ ],
+ "scale": {
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencyScores": [
+   0,
+   40,
+   80,
+   120,
+   160,
+   200
+  ],
+  "totalRange": [
+   0,
+   1000
+  ]
+ },
+ "schemaVersion": 1
+}

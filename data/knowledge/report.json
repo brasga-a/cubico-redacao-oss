@@ -1,0 +1,1836 @@
+{
+ "documents": {
+  "2018": {
+   "essays": 9,
+   "pageCount": 52,
+   "theme": "Desafios para a formação educacional de surdos no Brasil",
+   "validation": {
+    "checks": [
+     {
+      "detail": "encontradas: ['I', 'II', 'III', 'IV', 'V']",
+      "id": "competencies_I_to_V",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_I",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_I_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_II",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_II_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_III",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_III_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_IV",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_IV_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_V",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_V_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "9 redações",
+      "id": "essays_found",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=5 comentário=7",
+      "id": "essay_01_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "5 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_01_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.31, comentário desde p.32",
+      "id": "essay_01_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_02_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_02_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.33, comentário desde p.34",
+      "id": "essay_02_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_03_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_03_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.35, comentário desde p.36",
+      "id": "essay_03_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=7",
+      "id": "essay_04_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_04_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.37, comentário desde p.38",
+      "id": "essay_04_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_05_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_05_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.39, comentário desde p.40",
+      "id": "essay_05_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_06_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_06_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.41, comentário desde p.42",
+      "id": "essay_06_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_07_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_07_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.43, comentário desde p.44",
+      "id": "essay_07_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=5 comentário=6",
+      "id": "essay_08_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "5 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_08_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.45, comentário desde p.46",
+      "id": "essay_08_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=7 comentário=7",
+      "id": "essay_09_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "7 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_09_paragraph_count",
+      "status": "warning"
+     },
+     {
+      "detail": "redação até p.48, comentário desde p.48",
+      "id": "essay_09_order",
+      "status": "passed"
+     },
+     {
+      "detail": "0 chunks sem proveniência",
+      "id": "provenance_complete",
+      "status": "passed"
+     },
+     {
+      "detail": "tema: 'Desafios para a formação educacional de surdos no Brasil'",
+      "id": "theme_found",
+      "status": "passed"
+     },
+     {
+      "detail": "ok",
+      "id": "header_year_consistent",
+      "status": "passed"
+     },
+     {
+      "detail": "0 chunks parciais ficam fora do índice",
+      "id": "partial_chunks_quarantined",
+      "status": "passed"
+     },
+     {
+      "detail": "páginas com OCR (não validado): [30]",
+      "id": "ocr_not_validated",
+      "status": "warning"
+     }
+    ],
+    "failed": 0,
+    "status": "passed_with_warnings",
+    "warnings": 2
+   }
+  },
+  "2019": {
+   "essays": 7,
+   "pageCount": 49,
+   "theme": "Manipulação do comportamento do usuário pelo controle de dados na internet",
+   "validation": {
+    "checks": [
+     {
+      "detail": "encontradas: ['I', 'II', 'III', 'IV', 'V']",
+      "id": "competencies_I_to_V",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_I",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_I_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_II",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_II_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_III",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_III_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_IV",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_IV_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_V",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_V_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "7 redações",
+      "id": "essays_found",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=14",
+      "id": "essay_01_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_01_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.33, comentário desde p.34",
+      "id": "essay_01_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=5 comentário=14",
+      "id": "essay_02_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "5 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_02_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.35, comentário desde p.36",
+      "id": "essay_02_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_03_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_03_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.37, comentário desde p.38",
+      "id": "essay_03_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=3 comentário=4",
+      "id": "essay_04_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "3 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_04_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.39, comentário desde p.40",
+      "id": "essay_04_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=5 comentário=5",
+      "id": "essay_05_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "5 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_05_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.41, comentário desde p.42",
+      "id": "essay_05_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=15",
+      "id": "essay_06_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_06_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.43, comentário desde p.44",
+      "id": "essay_06_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_07_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_07_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.45, comentário desde p.46",
+      "id": "essay_07_order",
+      "status": "passed"
+     },
+     {
+      "detail": "0 chunks sem proveniência",
+      "id": "provenance_complete",
+      "status": "passed"
+     },
+     {
+      "detail": "tema: 'Manipulação do comportamento do usuário pelo controle de dados na internet'",
+      "id": "theme_found",
+      "status": "passed"
+     },
+     {
+      "detail": "ok",
+      "id": "header_year_consistent",
+      "status": "passed"
+     },
+     {
+      "detail": "0 chunks parciais ficam fora do índice",
+      "id": "partial_chunks_quarantined",
+      "status": "passed"
+     },
+     {
+      "detail": "nenhum OCR",
+      "id": "ocr_not_validated",
+      "status": "passed"
+     }
+    ],
+    "failed": 0,
+    "status": "passed",
+    "warnings": 0
+   }
+  },
+  "2020": {
+   "essays": 7,
+   "pageCount": 52,
+   "theme": null,
+   "validation": {
+    "checks": [
+     {
+      "detail": "encontradas: ['I', 'II', 'III', 'IV', 'V']",
+      "id": "competencies_I_to_V",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_I",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_I_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_II",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_II_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_III",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_III_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_IV",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_IV_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_V",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_V_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "7 redações",
+      "id": "essays_found",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=5 comentário=5",
+      "id": "essay_01_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "5 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_01_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.35, comentário desde p.36",
+      "id": "essay_01_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_02_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_02_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.37, comentário desde p.38",
+      "id": "essay_02_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_03_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_03_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.39, comentário desde p.40",
+      "id": "essay_03_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_04_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_04_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.41, comentário desde p.42",
+      "id": "essay_04_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_05_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_05_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.43, comentário desde p.44",
+      "id": "essay_05_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_06_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_06_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.45, comentário desde p.46",
+      "id": "essay_06_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_07_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_07_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.47, comentário desde p.48",
+      "id": "essay_07_order",
+      "status": "passed"
+     },
+     {
+      "detail": "0 chunks sem proveniência",
+      "id": "provenance_complete",
+      "status": "passed"
+     },
+     {
+      "detail": "tema: None",
+      "id": "theme_found",
+      "status": "warning"
+     },
+     {
+      "detail": "ok",
+      "id": "header_year_consistent",
+      "status": "passed"
+     },
+     {
+      "detail": "0 chunks parciais ficam fora do índice",
+      "id": "partial_chunks_quarantined",
+      "status": "passed"
+     },
+     {
+      "detail": "páginas com OCR (não validado): [19, 34]",
+      "id": "ocr_not_validated",
+      "status": "warning"
+     }
+    ],
+    "failed": 0,
+    "status": "passed_with_warnings",
+    "warnings": 2
+   }
+  },
+  "2022": {
+   "essays": 7,
+   "pageCount": 46,
+   "theme": "Invisibilidade e registro civil: garantia de acesso à cidadania no Brasil",
+   "validation": {
+    "checks": [
+     {
+      "detail": "encontradas: ['I', 'II', 'III', 'IV', 'V']",
+      "id": "competencies_I_to_V",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_I",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_I_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_II",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_II_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_III",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_III_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_IV",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_IV_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_V",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_V_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "7 redações",
+      "id": "essays_found",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_01_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_01_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.29, comentário desde p.30",
+      "id": "essay_01_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_02_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_02_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.31, comentário desde p.31",
+      "id": "essay_02_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_03_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_03_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.33, comentário desde p.33",
+      "id": "essay_03_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_04_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_04_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.35, comentário desde p.35",
+      "id": "essay_04_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_05_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_05_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.37, comentário desde p.37",
+      "id": "essay_05_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=5 comentário=5",
+      "id": "essay_06_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "5 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_06_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.39, comentário desde p.39",
+      "id": "essay_06_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_07_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_07_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.41, comentário desde p.41",
+      "id": "essay_07_order",
+      "status": "passed"
+     },
+     {
+      "detail": "0 chunks sem proveniência",
+      "id": "provenance_complete",
+      "status": "passed"
+     },
+     {
+      "detail": "tema: 'Invisibilidade e registro civil: garantia de acesso à cidadania no Brasil'",
+      "id": "theme_found",
+      "status": "passed"
+     },
+     {
+      "detail": "ok",
+      "id": "header_year_consistent",
+      "status": "passed"
+     },
+     {
+      "detail": "0 chunks parciais ficam fora do índice",
+      "id": "partial_chunks_quarantined",
+      "status": "passed"
+     },
+     {
+      "detail": "páginas com OCR (não validado): [15]",
+      "id": "ocr_not_validated",
+      "status": "warning"
+     }
+    ],
+    "failed": 0,
+    "status": "passed_with_warnings",
+    "warnings": 1
+   }
+  },
+  "2023": {
+   "essays": 10,
+   "pageCount": 52,
+   "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+   "validation": {
+    "checks": [
+     {
+      "detail": "encontradas: ['I', 'II', 'III', 'IV', 'V']",
+      "id": "competencies_I_to_V",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_I",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_I_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_II",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_II_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_III",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_III_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_IV",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_IV_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_V",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_V_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "10 redações",
+      "id": "essays_found",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_01_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_01_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.28, comentário desde p.28",
+      "id": "essay_01_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=7",
+      "id": "essay_02_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_02_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.30, comentário desde p.31",
+      "id": "essay_02_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_03_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_03_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.33, comentário desde p.33",
+      "id": "essay_03_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=7",
+      "id": "essay_04_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_04_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.35, comentário desde p.36",
+      "id": "essay_04_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_05_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_05_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.38, comentário desde p.39",
+      "id": "essay_05_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_06_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_06_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.40, comentário desde p.41",
+      "id": "essay_06_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_07_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_07_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.42, comentário desde p.43",
+      "id": "essay_07_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=4",
+      "id": "essay_08_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_08_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.44, comentário desde p.45",
+      "id": "essay_08_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=5",
+      "id": "essay_09_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_09_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.46, comentário desde p.46",
+      "id": "essay_09_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=5 comentário=5",
+      "id": "essay_10_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "5 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_10_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.48, comentário desde p.49",
+      "id": "essay_10_order",
+      "status": "passed"
+     },
+     {
+      "detail": "0 chunks sem proveniência",
+      "id": "provenance_complete",
+      "status": "passed"
+     },
+     {
+      "detail": "tema: 'Desafios para a valorização de comunidades e povos tradicionais no Brasil'",
+      "id": "theme_found",
+      "status": "passed"
+     },
+     {
+      "detail": "ok",
+      "id": "header_year_consistent",
+      "status": "passed"
+     },
+     {
+      "detail": "1 chunks parciais ficam fora do índice",
+      "id": "partial_chunks_quarantined",
+      "status": "passed"
+     },
+     {
+      "detail": "nenhum OCR",
+      "id": "ocr_not_validated",
+      "status": "passed"
+     }
+    ],
+    "failed": 0,
+    "status": "passed",
+    "warnings": 0
+   }
+  },
+  "2024": {
+   "essays": 10,
+   "pageCount": 70,
+   "theme": "Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil",
+   "validation": {
+    "checks": [
+     {
+      "detail": "encontradas: ['I', 'II', 'III', 'IV', 'V']",
+      "id": "competencies_I_to_V",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_I",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis ilegíveis na extração: [80, 40]",
+      "id": "levels_I_readable",
+      "status": "warning"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_II",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_II_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_III",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_III_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_IV",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_IV_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_V",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_V_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "10 redações",
+      "id": "essays_found",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=8",
+      "id": "essay_01_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_01_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.37, comentário desde p.38",
+      "id": "essay_01_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_02_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_02_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.40, comentário desde p.41",
+      "id": "essay_02_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_03_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_03_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.43, comentário desde p.44",
+      "id": "essay_03_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_04_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_04_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.46, comentário desde p.47",
+      "id": "essay_04_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=5 comentário=6",
+      "id": "essay_05_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "5 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_05_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.49, comentário desde p.50",
+      "id": "essay_05_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_06_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_06_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.52, comentário desde p.53",
+      "id": "essay_06_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_07_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_07_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.55, comentário desde p.56",
+      "id": "essay_07_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_08_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_08_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.58, comentário desde p.59",
+      "id": "essay_08_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_09_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_09_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.61, comentário desde p.62",
+      "id": "essay_09_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=7",
+      "id": "essay_10_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_10_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.64, comentário desde p.65",
+      "id": "essay_10_order",
+      "status": "passed"
+     },
+     {
+      "detail": "0 chunks sem proveniência",
+      "id": "provenance_complete",
+      "status": "passed"
+     },
+     {
+      "detail": "tema: 'Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil'",
+      "id": "theme_found",
+      "status": "passed"
+     },
+     {
+      "detail": "ok",
+      "id": "header_year_consistent",
+      "status": "passed"
+     },
+     {
+      "detail": "15 chunks parciais ficam fora do índice",
+      "id": "partial_chunks_quarantined",
+      "status": "passed"
+     },
+     {
+      "detail": "nenhum OCR",
+      "id": "ocr_not_validated",
+      "status": "passed"
+     }
+    ],
+    "failed": 0,
+    "status": "passed_with_warnings",
+    "warnings": 1
+   }
+  },
+  "2025": {
+   "essays": 10,
+   "pageCount": 78,
+   "theme": "Desafios para a valorização da herança africana no Brasil",
+   "validation": {
+    "checks": [
+     {
+      "detail": "encontradas: ['I', 'II', 'III', 'IV', 'V']",
+      "id": "competencies_I_to_V",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_I",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis ilegíveis na extração: [80, 40]",
+      "id": "levels_I_readable",
+      "status": "warning"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_II",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_II_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_III",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_III_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_IV",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_IV_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_V",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_V_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "10 redações",
+      "id": "essays_found",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_01_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_01_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.43, comentário desde p.44",
+      "id": "essay_01_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_02_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_02_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.46, comentário desde p.47",
+      "id": "essay_02_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_03_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_03_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.49, comentário desde p.50",
+      "id": "essay_03_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=8",
+      "id": "essay_04_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_04_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.52, comentário desde p.53",
+      "id": "essay_04_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_05_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_05_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.55, comentário desde p.56",
+      "id": "essay_05_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_06_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_06_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.58, comentário desde p.59",
+      "id": "essay_06_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_07_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_07_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.61, comentário desde p.62",
+      "id": "essay_07_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_08_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_08_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.64, comentário desde p.65",
+      "id": "essay_08_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=7",
+      "id": "essay_09_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_09_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.67, comentário desde p.68",
+      "id": "essay_09_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=5 comentário=7",
+      "id": "essay_10_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "5 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_10_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.70, comentário desde p.71",
+      "id": "essay_10_order",
+      "status": "passed"
+     },
+     {
+      "detail": "0 chunks sem proveniência",
+      "id": "provenance_complete",
+      "status": "passed"
+     },
+     {
+      "detail": "tema: 'Desafios para a valorização da herança africana no Brasil'",
+      "id": "theme_found",
+      "status": "passed"
+     },
+     {
+      "detail": "ok",
+      "id": "header_year_consistent",
+      "status": "passed"
+     },
+     {
+      "detail": "12 chunks parciais ficam fora do índice",
+      "id": "partial_chunks_quarantined",
+      "status": "passed"
+     },
+     {
+      "detail": "nenhum OCR",
+      "id": "ocr_not_validated",
+      "status": "passed"
+     }
+    ],
+    "failed": 0,
+    "status": "passed_with_warnings",
+    "warnings": 1
+   }
+  },
+  "2026": {
+   "essays": 10,
+   "pageCount": 82,
+   "theme": "Perspectivas acerca do envelhecimento na sociedade brasileira",
+   "validation": {
+    "checks": [
+     {
+      "detail": "encontradas: ['I', 'II', 'III', 'IV', 'V']",
+      "id": "competencies_I_to_V",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_I",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_I_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_II",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_II_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_III",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_III_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_IV",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_IV_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "níveis: [200, 160, 120, 80, 40, 0]",
+      "id": "levels_V",
+      "status": "passed"
+     },
+     {
+      "detail": "todos legíveis",
+      "id": "levels_V_readable",
+      "status": "passed"
+     },
+     {
+      "detail": "10 redações",
+      "id": "essays_found",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=5 comentário=6",
+      "id": "essay_01_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "5 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_01_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.44, comentário desde p.45",
+      "id": "essay_01_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_02_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_02_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.47, comentário desde p.48",
+      "id": "essay_02_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=6",
+      "id": "essay_03_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_03_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.50, comentário desde p.50",
+      "id": "essay_03_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=8",
+      "id": "essay_04_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_04_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.52, comentário desde p.53",
+      "id": "essay_04_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=8",
+      "id": "essay_05_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_05_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.56, comentário desde p.56",
+      "id": "essay_05_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=11",
+      "id": "essay_06_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_06_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.59, comentário desde p.60",
+      "id": "essay_06_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=8",
+      "id": "essay_07_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_07_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.62, comentário desde p.63",
+      "id": "essay_07_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=6 comentário=8",
+      "id": "essay_08_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "6 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_08_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.67, comentário desde p.67",
+      "id": "essay_08_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=7",
+      "id": "essay_09_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_09_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.70, comentário desde p.71",
+      "id": "essay_09_order",
+      "status": "passed"
+     },
+     {
+      "detail": "autoria=True parágrafos=4 comentário=7",
+      "id": "essay_10_paired",
+      "status": "passed"
+     },
+     {
+      "detail": "4 parágrafos extraídos (esperado 3-6; confira a quebra de parágrafos)",
+      "id": "essay_10_paragraph_count",
+      "status": "passed"
+     },
+     {
+      "detail": "redação até p.75, comentário desde p.75",
+      "id": "essay_10_order",
+      "status": "passed"
+     },
+     {
+      "detail": "0 chunks sem proveniência",
+      "id": "provenance_complete",
+      "status": "passed"
+     },
+     {
+      "detail": "tema: 'Perspectivas acerca do envelhecimento na sociedade brasileira'",
+      "id": "theme_found",
+      "status": "passed"
+     },
+     {
+      "detail": "cabeçalho com ano diferente de 2026: ['2025']",
+      "id": "header_year_consistent",
+      "status": "warning"
+     },
+     {
+      "detail": "0 chunks parciais ficam fora do índice",
+      "id": "partial_chunks_quarantined",
+      "status": "passed"
+     },
+     {
+      "detail": "nenhum OCR",
+      "id": "ocr_not_validated",
+      "status": "passed"
+     }
+    ],
+    "failed": 0,
+    "status": "passed_with_warnings",
+    "warnings": 1
+   }
+  }
+ },
+ "pipelineVersion": 1,
+ "stats": {
+  "essays": 70,
+  "indexed": 536,
+  "total": 761
+ }
+}

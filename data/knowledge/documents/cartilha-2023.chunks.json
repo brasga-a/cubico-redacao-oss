@@ -1,0 +1,2908 @@
+[
+ {
+  "category": "orientacao",
+  "checksum": "9895d9b6fe1683f4",
+  "competencies": [
+   "V",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0001",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   6,
+   6
+  ],
+  "printedPages": [
+   "4",
+   "4"
+  ],
+  "quality": "partial",
+  "section": "APRESENTAÇÃO",
+  "text": "Caro participante,\nVocê está se preparando para realizar o Enem 2023, que é constituído por quatro provas objetivas e uma prova de redação.\nA seguir, vamos esclarecer algumas dúvidas sobre o processo de avaliação. A prova de redação exigirá de você a produção de um texto em prosa, do tipo dissertativo-argumentativo, sobre um tema de ordem social, científica, cultural ou política. Os aspectos a serem avaliados relacionam-se às competências que devem ter sido desenvolvidas durante os anos de escolaridade. Nessa redação, você deverá defender um ponto de vista — uma opinião a respeito do tema proposto —, apoiado em argumentos consistentes, estruturados com coerência e coesão, formando uma unidade textual. Seu texto deverá ser redigido de acordo com a modalidade escrita formal da língua portuguesa. Você também deverá elaborar uma proposta de intervenção social para o problema apresentado no desenvolvimento do texto. Essa proposta deve respeitar os direitos humanos.\nTEMA\n\nPONTO DE VISTA\n\nARGUMENTOS\n\nPROPOSTA DE INTERVENÇÃO",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "APRESENTAÇÃO",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "99f72da936f0fff1",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0002",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   7,
+   7
+  ],
+  "printedPages": [
+   "5",
+   "5"
+  ],
+  "quality": "ok",
+  "section": "APRESENTAÇÃO",
+  "text": "O texto produzido por você será avaliado por, pelo menos, dois professores graduados em Letras ou Linguística, de forma independente, sem que um conheça a nota atribuída pelo outro.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "QUEM VAI AVALIAR A REDAÇÃO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "39c6c6cc2cda6db2",
+  "competencies": [
+   "I",
+   "II",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0003",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   7,
+   7
+  ],
+  "printedPages": [
+   "5",
+   "5"
+  ],
+  "quality": "ok",
+  "section": "APRESENTAÇÃO",
+  "text": "Os dois professores avaliarão seu desempenho de acordo com os critérios do quadro a seguir.\nCompetência I\nDemonstrar domínio da modalidade escrita formal da língua portuguesa.\nCompetência II\nCompreender a proposta de redação e aplicar conceitos das várias áreas de conhecimento para desenvolver o tema, dentro dos limites estruturais do texto dissertativo-argumentativo em prosa.\nCompetência III\nSelecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista.\nCompetência IV\nDemonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação.\nCompetência V\nElaborar proposta de intervenção para o problema abordado, respeitando os direitos humanos.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "COMO A REDAÇÃO SERÁ AVALIADA?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "ac5eed92f7e6dfa5",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0004",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   7,
+   7
+  ],
+  "printedPages": [
+   "5",
+   "5"
+  ],
+  "quality": "ok",
+  "section": "APRESENTAÇÃO",
+  "text": "Cada avaliador atribuirá uma nota entre 0 e 200 pontos para cada uma das cinco competências. A soma desses pontos comporá a nota total de cada avaliador, que pode chegar a 1.000 pontos. A nota final do participante será a média aritmética das notas totais atribuídas pelos dois avaliadores.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "COMO SERÁ ATRIBUÍDA A NOTA À REDAÇÃO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "f98f3c466671c3a0",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0005",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   7,
+   7
+  ],
+  "printedPages": [
+   "5",
+   "5"
+  ],
+  "quality": "ok",
+  "section": "APRESENTAÇÃO",
+  "text": "Considera-se discrepância quando as notas atribuídas pelos avaliadores:\n- diferirem em mais de 100 pontos no total; ou\n- obtiverem diferença superior a 80 pontos em qualquer uma das competências.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "O QUE É CONSIDERADO DISCREPÂNCIA?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "e358198e57c0aae3",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0006",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   7,
+   7
+  ],
+  "printedPages": [
+   "5",
+   "5"
+  ],
+  "quality": "ok",
+  "section": "APRESENTAÇÃO",
+  "text": "- A redação será avaliada, de forma independente, por um terceiro avaliador.\n- A nota final será a média aritmética das duas notas totais que mais se aproximarem.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "QUAL A SOLUÇÃO PARA O CASO DE HAVER DISCREPÂNCIA ENTRE AS DUAS AVALIAÇÕES INICIAIS?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "cab852ef821edf66",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0007",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   8,
+   8
+  ],
+  "printedPages": [
+   "6",
+   "6"
+  ],
+  "quality": "ok",
+  "section": "APRESENTAÇÃO",
+  "text": "A redação será avaliada por uma banca composta por três professores, a qual atribuirá a nota final do participante.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "E SE A DISCREPÂNCIA AINDA CONTINUAR DEPOIS DA TERCEIRA AVALIAÇÃO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "264f078d59201381",
+  "competencies": [
+   "II",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0008",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   8,
+   8
+  ],
+  "printedPages": [
+   "6",
+   "6"
+  ],
+  "quality": "ok",
+  "section": "APRESENTAÇÃO",
+  "text": "A redação receberá nota 0 (zero) se apresentar uma das características a seguir:\n- fuga total ao tema;\n- não obediência ao tipo dissertativo-argumentativo;\n- extensão de até 7 (sete) linhas manuscritas, qualquer que seja o conteúdo, ou extensão de até 10 (dez) linhas escritas no sistema braille;\n- cópia de texto(s) da Prova de Redação e/ou do Caderno de Questões sem que haja pelo menos 8 linhas de produção própria do participante;\n- desenhos e outras formas propositais de anulação em qualquer parte da Folha de Redação (incluindo os números das linhas na margem esquerda);\n- números ou sinais gráficos sem função evidente em qualquer parte do texto ou da Folha de Redação (incluindo os números das linhas na margem esquerda);\n- parte deliberadamente desconectada do tema proposto;\n- impropérios e outros termos ofensivos, ainda que façam parte do projeto de texto;\n- assinatura, nome, iniciais, apelido, codinome ou rubrica fora do local devidamente designado para a assinatura do participante;\n- texto predominante ou integralmente escrito em língua estrangeira;\n- Folha de Redação em branco, mesmo que haja texto escrito nas Folhas de Rascunho;\n- texto ilegível, que impossibilite sua leitura por dois avaliadores independentes.\nATENÇÃO!\n- Procure escrever sua redação com letra legível, para evitar dúvidas no momento da avaliação. Uma redação incompreensível, devido à letra ilegível, poderá receber nota zero.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "QUAIS AS RAZÕES PARA SE ATRIBUIR NOTA 0(ZERO) A UMA REDAÇÃO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "c9f8afdc925279c8",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0009",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   8,
+   8
+  ],
+  "printedPages": [
+   "6",
+   "6"
+  ],
+  "quality": "ok",
+  "section": "APRESENTAÇÃO",
+  "text": "- Não faça destaques no título ou marcas de finalização do texto que possam ser considerados desenhos ou formas de identificação.\n- Assine apenas no local destinado a isso na folha da redação, não se identifique em seu texto de forma alguma.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "QUAIS AS RAZÕES PARA SE ATRIBUIR NOTA 0(ZERO) A UMA REDAÇÃO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "a89aa2b7fed062c4",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0010",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   9,
+   9
+  ],
+  "printedPages": [
+   "7",
+   "7"
+  ],
+  "quality": "ok",
+  "section": "APRESENTAÇÃO",
+  "text": "Para efeito de avaliação e de contagem do mínimo de linhas escritas, os trechos que apresentarem cópia de texto(s) da Prova de Redação e/ou do Caderno de Questões serão desconsiderados em relação ao total de linhas escritas, valendo somente as que foram produzidas pelo participante. São consideradas linhas com cópia aquelas compostas, integral ou parcialmente, por trechos retirados da proposta da Prova de Redação e/ou do Caderno de Questões.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "COMO SÃO AVALIADOS OS TRECHOS COM CÓPIA NA REDAÇÃO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "2013699e0fca319e",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0011",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   9,
+   9
+  ],
+  "printedPages": [
+   "7",
+   "7"
+  ],
+  "quality": "ok",
+  "section": "APRESENTAÇÃO",
+  "text": "As partes deliberadamente desconectadas do tema proposto consistem em reflexões do participante sobre o próprio processo de escrita, sobre a prova ou sobre o próprio desempenho dele no exame. Ainda se configuram como partes deliberadamente desconectadas do texto: a escrita de bilhetes destinados, por exemplo, à banca avaliadora; mensagens políticas ou de protesto; orações, mensagens religiosas; frases desconectadas do corpo do texto, ou seja, que não mantenham relação com o tema ou com a argumentação do participante; trechos de música, de hino, de poema ou de qualquer texto, desde que estejam desarticulados da argumentação feita na redação. Isso quer dizer que a presença de uma mensagem de protesto em um texto, por exemplo, não é, automaticamente, avaliada como parte desconectada. Isso vai depender se essa mensagem está, ou não, devidamente articulada à argumentação construída ao longo da redação. Em suma, para ter sua redação anulada por esse critério, é preciso que você insira, de forma proposital, pontual e desarticulada, elementos estranhos ao tema e ao seu projeto de texto e/ou que atentem contra a seriedade do exame.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "O QUE SÃO PARTES DELIBERADAMENTE DESCONECTADAS DO TEMA PROPOSTO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "61aa50178b708a9b",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0012",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   9,
+   9
+  ],
+  "printedPages": [
+   "7",
+   "7"
+  ],
+  "quality": "ok",
+  "section": "APRESENTAÇÃO",
+  "text": "O título é um elemento opcional na produção da sua redação. Assim, embora seja considerado linha escrita, não é avaliado em qualquer aspecto relacionado às competências da matriz de referência. No entanto, o título pode levar à atribuição da nota zero à redação caso apresente alguma característica passível de anulação (por exemplo: desenhos, sinais gráficos sem função evidente, impropérios etc.).",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "COMO O TÍTULO DA REDAÇÃO É AVALIADO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "104ea3db70345286",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0013",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   9,
+   9
+  ],
+  "printedPages": [
+   "7",
+   "7"
+  ],
+  "quality": "ok",
+  "section": "APRESENTAÇÃO",
+  "text": "Serão adotados mecanismos de avaliação coerentes com o aprendizado da língua portuguesa como segunda língua, de acordo com o Decreto nº 5.626, de 22 de dezembro de 2005. Em 2023, mais uma vez, disponibilizamos um documento especialmente dedicado aos participantes surdos ou com deficiência auditiva, em que serão apresentadas as especificidades da avaliação das redações desse público.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "COMO SERÁ AVALIADA A REDAÇÃO DE PARTICIPANTES SURDOS OU COM DEFICIÊNCIA AUDITIVA?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "5647e6135b18801f",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0014",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   10,
+   10
+  ],
+  "printedPages": [
+   "8",
+   "8"
+  ],
+  "quality": "ok",
+  "section": "APRESENTAÇÃO",
+  "text": "Serão adotados critérios de avaliação que levem em conta questões linguísticas específicas relacionadas à dislexia. Em 2023, mais uma vez, disponibilizamos um documento especialmente dedicado aos participantes com dislexia, em que serão apresentadas as especificidades da avaliação das redações desse público.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "COMO SERÁ AVALIADA A REDAÇÃO DE PARTICIPANTES COM DISLEXIA?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "144971b6a297dab3",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0015",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   10,
+   11
+  ],
+  "printedPages": [
+   "8",
+   "9"
+  ],
+  "quality": "ok",
+  "section": "APRESENTAÇÃO",
+  "text": "Desde 2020, as redações dos participantes que apresentam transtornos do espectro autista são avaliadas por uma banca especializada. Serão adotados critérios de avaliação que levem em conta questões linguísticas específicas relacionadas ao autismo, em conformidade com o inciso VI do art. 30 da Lei nº 13.146, de 6 de junho de 2015. Em 2023, de forma inédita, elaboramos um documento especialmente dedicado aos participantes com Transtorno do Espectro Autista (TEA).\nApresentamos, a seguir, o detalhamento das cinco competências a serem avaliadas na sua redação. Nosso objetivo é explicitar os critérios de avaliação, de modo a ajudar na sua preparação para o exame. Ainda que entendamos que o texto é uma unidade de sentido em que todos os aspectos se inter-relacionam para construir a textualidade, a avaliação dos textos é separada por competências, o que torna o processo mais objetivo.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "COMO SERÁ AVALIADA A REDAÇÃO DE PARTICIPANTES COM TRANSTORNO DO ESPECTRO AUTISTA?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "58cae525a12f9131",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0016",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   11,
+   11
+  ],
+  "printedPages": [
+   "9",
+   "9"
+  ],
+  "quality": "ok",
+  "section": "1.1 COMPETÊNCIA I",
+  "text": "A Competência I avalia se o participante domina a modalidade escrita formal da língua portuguesa, o que inclui o conhecimento das convenções da escrita, dentre as quais se encontram as regras de ortografia e de acentuação gráfica regidas pelo atual Acordo Ortográfico.\nAlém disso, o domínio da modalidade escrita formal será observado na adequação do seu texto em relação tanto às regras gramaticais quanto à construção sintática.\nPara que você tenha mais clareza a respeito das expectativas em relação a um concluinte do ensino médio em termos de domínio da modalidade escrita formal, apresentamos, a seguir, os principais aspectos que guiam o olhar do avaliador no momento de definir o nível em que seu texto se encontra na Competência I.\nEm primeiro lugar, você deve se atentar ao fato de que a escrita formal é a modalidade da língua associada a textos do tipo dissertativo-argumentativo. Assim, você será alertado sobre a obrigatoriedade de usar a modalidade formal já na proposta de redação: “A partir da leitura dos textos motivadores e com base nos conhecimentos construídos ao longo de sua formação, redija texto dissertativo-argumentativo",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.1 COMPETÊNCIA I",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "24df851b0122d3cd",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0017",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   11,
+   11
+  ],
+  "printedPages": [
+   "9",
+   "9"
+  ],
+  "quality": "ok",
+  "section": "1.1 COMPETÊNCIA I",
+  "text": "Desse modo, o avaliador corrigirá sua redação, nessa Competência, considerando os possíveis problemas de construção sintática e a presença de desvios (de convenções da escrita, gramaticais, de escolha de registro e de escolha vocabular).",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "em modalidade escrita formal da língua portuguesa sobre o tema...”.",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "f44ed077e5def6ad",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0018",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   12,
+   12
+  ],
+  "printedPages": [
+   "10",
+   "10"
+  ],
+  "quality": "ok",
+  "section": "1.1 COMPETÊNCIA I",
+  "text": "A estrutura sintática é objeto de avaliação da Competência I, juntamente aos desvios, uma vez que esse aspecto também faz parte das regras da língua portuguesa – aquelas que dizem respeito à construção das frases do texto. Uma estrutura sintática convencional pressupõe a existência de determinados elementos oracionais, que se organizam na frase e garantem a fluidez da leitura e a apresentação clara das ideias do participante, organizadas em períodos bem estruturados e completos. Além disso, por se tratar de um texto dissertativo- argumentativo, o qual deve ser escrito na modalidade formal da língua portuguesa, espera-se, para que uma redação receba a nota máxima na Competência I, que os períodos apresentem complexidade em sua construção, com orações subordinadas e intercaladas. Já os textos com falhas relacionadas à estrutura sintática geralmente apresentam períodos truncados e justaposição de palavras, ausência de termos ou excesso de palavras (elementos sintáticos). Esses problemas são caracterizados, normalmente, por um ponto final separando duas orações que deveriam constituir um mesmo período (truncamento), ou uma vírgula no lugar de um ponto final que deveria indicar o fim da frase ( justaposição), o que interfere na qualidade da estrutura sintática. A frequência com que essas falhas ocorrem no texto e o quanto elas prejudicam sua compreensão como um todo é o que ajudará a definir o nível em que uma redação deve ser avaliada na Competência I. Quanto aos desvios, você deve estar atento aos seguintes aspectos:",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "1ac7c1e528308f43",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0019",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   12,
+   12
+  ],
+  "printedPages": [
+   "10",
+   "10"
+  ],
+  "quality": "ok",
+  "section": "1.1 COMPETÊNCIA I",
+  "text": "- convenções da escrita: acentuação, ortografia, uso de hífen, emprego de letras maiúsculas e minúsculas e separação silábica (translineação);\n- gramaticais: regência verbal e nominal, concordância verbal e nominal, tempos e modos verbais, pontuação, paralelismo sintático, emprego de pronomes e crase;\n- escolha de registro: adequação à modalidade escrita formal, isto é, ausência de uso de registro informal e/ou de marcas de oralidade;\n- escolha vocabular: emprego de vocabulário preciso, o que significa que as palavras selecionadas são usadas em seu sentido correto e são apropriadas ao contexto em que aparecem.\nO quadro a seguir apresenta os seis níveis de desempenho que serão utilizados para avaliar a Competência I nas redações do Enem 2023.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "a8d25c3466e7c4ce",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0020",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   13,
+   13
+  ],
+  "printedPages": [
+   "11",
+   "11"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA II",
+  "text": "O segundo aspecto a ser avaliado no seu texto é a compreensão da proposta de redação, composta por um tema específico a ser desenvolvido na forma de texto dissertativo-argumentativo — ou seja, a proposta exige que o participante escreva um texto dissertativo-argumentativo, que é um texto em que se demonstra, por meio de argumentação, a assertividade de uma ideia ou de um ponto de vista. É mais do que uma simples exposição de ideias; por isso, você deve evitar elaborar um texto de caráter apenas expositivo, devendo assumir claramente um ponto de vista. Além disso, é preciso que o ponto de vista que você irá defender esteja relacionado ao tema definido na proposta. Assim, você atenderá às exigências expressas pela Competência II da matriz de avaliação do Enem. Trata-se, portanto, de uma competência que avalia as habilidades integradas de leitura e de escrita.\nO tema constitui o núcleo das ideias sobre as quais o ponto de vista se organiza e é caracterizado por ser uma delimitação de um assunto mais abrangente. Por isso, é preciso atender ao recorte temático definido para evitar tangenciá-lo (abordar parcialmente o tema) ou, ainda pior, desenvolver um tema distinto do determinado pela proposta.\nOutro aspecto avaliado na Competência II é a presença de repertório sociocultural, que se configura como uma informação, um fato, uma citação ou uma experiência vivida que, de alguma forma, contribui como argumento para a discussão proposta.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.2 COMPETÊNCIA II",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "941c9eae35651f46",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0021",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   13,
+   13
+  ],
+  "printedPages": [
+   "11",
+   "11"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA II",
+  "text": "A partir dessas considerações, seguem algumas recomendações para atender plenamente às expectativas em relação à Competência II:\n- leia com atenção a proposta da redação e os textos motivadores, para compreender bem o que está sendo solicitado;\n- reflita sobre o tema proposto para definir qual será o foco da sua discussão, isto é, para decidir como abordá-lo, qual será o ponto de vista adotado e como defendê-lo;\n- não copie trechos dos textos motivadores. A recorrência de cópia é avaliada negativamente e fará com que sua redação tenha uma pontuação mais baixa ou até mesmo seja anulada por causa do critério Cópia;\n- evite ficar preso às ideias desenvolvidas nos textos motivadores. Você pode se apropriar dessas ideias para construir sua argumentação, mas não deve se esquecer de utilizar informações que extrapolem a prova de redação e sejam relacionadas a uma área do conhecimento (repertório sociocultural);\n- selecione, a partir de seus conhecimentos próprios, e não apenas dos textos motivadores, informações de áreas do conhecimento pertinentes ao tema e articule-as de modo produtivo no seu texto, evidenciando que elas servem a um propósito muito bem definido: ajudá-lo a validar seu ponto de vista. Informações e citações soltas no texto, por mais variadas e interessantes que sejam, perdem sua relevância quando não associadas produtivamente à defesa do ponto de vista desenvolvido em seu texto;",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.2 COMPETÊNCIA II",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "856d34f4e95ccde9",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0022",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   13,
+   14
+  ],
+  "printedPages": [
+   "11",
+   "12"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA II",
+  "text": "- mantenha-se dentro dos limites do tema proposto, tomando cuidado para não se afastar do seu foco. Esse é um dos principais problemas identificados nas redações. Nesse caso, duas situações podem ocorrer: fuga total ou tangenciamento ao tema.\nNas modalidades do Enem Impresso e Digital de 2022, o tema se referia à discussão sobre “Desafios para a valorização de comunidades e povos tradicionais no Brasil”, uma questão de grande relevância social no país. A proposta de redação aplicada foi a seguinte:",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.2 COMPETÊNCIA II",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "b9d7c2817671d0ce",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0023",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   15,
+   15
+  ],
+  "printedPages": [
+   "13",
+   "13"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA II",
+  "text": "Com base no recorte temático definido pela proposta, o participante precisaria considerar as várias dimensões do tema contidas nos textos motivadores. O Texto I traz o trecho de uma reportagem com a definição sobre quais são os povos e as comunidades tradicionais existentes no Brasil e como se relacionam com a natureza; o Texto II é um infográfico intitulado “Povos tradicionais do Brasil”, em que há dados referentes à distribuição de famílias pertencentes a essas comunidades por estados no Brasil; o Texto III é um texto explicativo sobre a criação, em 2006, da Comissão Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais. Como resultado dessa Comissão, foi instituída a Política Nacional de Desenvolvimento Sustentável de Povos e Comunidades Tradicionais, por meio do Decreto nº 6.040, de 7 de fevereiro de 2007; por fim, o Texto IV é constituído por recortes da Carta da Amazônia 2021, direcionada aos participantes da 26ª Conferência das Nações Unidas sobre Mudanças Climáticas e à comunidade em geral. As entidades signatárias dessa carta são representantes de povos e comunidades tradicionais, bem como de movimentos sociais e ambientais protetores da região amazônica.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.2 COMPETÊNCIA II",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "5a87ffa4605b5332",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0024",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   15,
+   15
+  ],
+  "printedPages": [
+   "13",
+   "13"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA II",
+  "text": "Considera-se que uma redação tenha fugido ao tema quando nem o assunto mais amplo nem o tema específico proposto tenham sido desenvolvidos.\nNo Enem 2022, a abordagem do tema foi considerada completa quando o participante mencionava os desafios para a valorização das comunidades/povos tradicionais (seja pela menção direta a esses termos da frase temática, seja pela menção a quaisquer de seus termos/ ideias equivalentes). Sendo assim, recebeu a rubrica fuga ao tema a redação que:\n- não mencionou, em momento algum, comunidade/povos tradicionais ou quaisquer de seus termos/ideias equivalentes;\n- não utilizou o(s) termo(s) “comunidade[s]” e/ou “povo[s]”, especificamente (nesse caso não são aceitos seus sinônimos), sem o adjetivo “tradicionais”, mencionando os desafios para a valorização dessas comunidades/povos;\n- utilizou o(s) termo(s) “comunidade[s]” e/ou “povo[s]”, especificamente, sem o adjetivo “tradicionais”, mas não mencionou os desafios para a valorização dessas comunidades/povos.\nATENÇÃO!",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "O QUE É FUGA TOTAL AO TEMA?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "f4d86c2d7d7f21d7",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0025",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   15,
+   15
+  ],
+  "printedPages": [
+   "13",
+   "13"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA II",
+  "text": "Para evitar que você receba nota zero, em seu texto, por fuga ao tema, é importante que você desenvolva uma discussão dentro dos limites do tema definido pela proposta. Mencioná-lo apenas no título, por exemplo, ou deixá-lo subentendido, supondo que a banca vai saber sobre o que você está falando, não é suficiente. Lembre-se de que sua redação deve ser compreendida até mesmo por um leitor que não tenha tido acesso à proposta de redação na qual ela foi baseada. Por isso, muita atenção à abordagem do tema, que deve ser clara e explícita.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "O QUE É FUGA TOTAL AO TEMA?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "9da78d7a8f1148a3",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0026",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   15,
+   16
+  ],
+  "printedPages": [
+   "13",
+   "14"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA II",
+  "text": "Considera-se tangenciamento ao tema uma abordagem parcial baseada somente no assunto mais amplo a que o tema está vinculado.\nNo Enem 2022, foi configurado como tangenciamento ao tema o encaminhamento que\n- abordou APENAS comunidades/povos tradicionais ou quaisquer de seus termos/ ideias equivalentes, SEM MENÇÃO a desafios para a valorização desses povos ou a quaisquer de seus termos/ideias equivalentes;\n- utilizou o(s) termo(s) “comunidade[s]” e/ou “povo[s]”, especificamente (nesse caso não são aceitos seus sinônimos), SEM o adjetivo “tradicionais”, desde que mencione os desafios para a valorização dessas comunidades/povos [SALVAMENTO].\nATENÇÃO!\nConforme previsto na matriz de referência de redação do Enem, o tangenciamento ao tema, avaliado na Competência II, afeta também a avaliação das Competências III e V, impedindo que a redação receba nota acima de 40 pontos em todas essas competências.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "O QUE É TANGENCIAR O TEMA?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "87716a05df1365af",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0027",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   16,
+   16
+  ],
+  "printedPages": [
+   "14",
+   "14"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA II",
+  "text": "Não atende ao tipo textual a redação em que há predominância de características de outro tipo textual, como o narrativo ou o descritivo, por exemplo.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "O QUE É NÃO ATENDER AO TIPO TEXTUAL?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "2c04846acac5847a",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0028",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   16,
+   16
+  ],
+  "printedPages": [
+   "14",
+   "14"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA II",
+  "text": "O texto do tipo dissertativo-argumentativo é aquele que se organiza na defesa de um ponto de vista sobre determinado assunto. É fundamentado com argumentos, a fim de influenciar a opinião do leitor, tentando convencê-lo de que a ideia defendida está correta. É preciso, portanto, expor e explicar ideias. Por isso, há uma dupla natureza nesse tipo textual: é argumentativo porque defende um ponto de vista, uma opinião, e é dissertativo porque utiliza explicações para justificá-lo.\nO objetivo desse texto é, em última análise, convencer o leitor de que o ponto de vista é acertado e relevante. Para tanto, mobiliza informações, fatos e opiniões, à luz de um raciocínio coerente e consistente.\nATENÇÃO!",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "O QUE É UM TEXTO DISSERTATIVO-ARGUMENTATIVO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "b456478312fc3e68",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0029",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   16,
+   17
+  ],
+  "printedPages": [
+   "14",
+   "15"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA II",
+  "text": "Será atribuída nota zero à redação que apresentar predominância de características de outro tipo textual, mesmo que atenda às exigências dos outros critérios de avaliação. Já redações que apresentam muitas características de outro tipo textual em meio a um texto predominantemente dissertativo-argumentativo não receberão a nota zero total, mas serão penalizadas na Competência II. Portanto, você não deve, por exemplo, elaborar um poema ou reduzir o seu texto à narração de uma história ou a um depoimento de experiência pessoal, ainda que aborde o tema de forma completa. No processo argumentativo, é possível apresentar trechos pontuais narrando acontecimentos que justificam o ponto de vista, mas o texto não pode se reduzir a uma narração, por esta não apresentar as características do tipo textual solicitado.\nO quadro a seguir apresenta os seis níveis de desempenho que serão utilizados para avaliar a Competência II nas redações do Enem 2023:\nATENÇÃO!\nSe sua redação apresentar fuga ao tema ou não atender ao tipo dissertativo-argumentativo, ela não será avaliada em nenhuma das competências, e sua nota final na prova de redação será zero.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "O QUE É UM TEXTO DISSERTATIVO-ARGUMENTATIVO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "d5e8a8e51b33a03a",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0030",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   17,
+   17
+  ],
+  "printedPages": [
+   "15",
+   "15"
+  ],
+  "quality": "ok",
+  "section": "1.3 COMPETÊNCIA III",
+  "text": "O terceiro aspecto a ser avaliado é a forma como você, em seu texto, seleciona, relaciona, organiza e interpreta informações, fatos, opiniões e argumentos em defesa do ponto de vista escolhido. É preciso, então, elaborar um texto que apresente, claramente, uma ideia a ser defendida e os argumentos que justifiquem a posição assumida por você em relação à temática da proposta de redação.\nA Competência III trata da inteligibilidade do seu texto, ou seja, de sua coerência e da plausibilidade entre as ideias apresentadas, o que está alicerçado no planejamento prévio à escrita, isto é, na elaboração",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.3 COMPETÊNCIA III",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "79775779339ebb51",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0031",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   17,
+   17
+  ],
+  "printedPages": [
+   "15",
+   "15"
+  ],
+  "quality": "ok",
+  "section": "1.3 COMPETÊNCIA III",
+  "text": "A inteligibilidade da sua redação depende, portanto, dos seguintes fatores:\n- seleção de argumentos;\n- relação de sentido entre as partes do texto;\n- progressão adequada ao desenvolvimento do tema, revelando que a redação foi planejada e que as ideias desenvolvidas são, pouco a pouco, apresentadas de forma organizada;\n- desenvolvimento dos argumentos, com a explicitação da relevância das ideias apresentadas para a defesa do ponto de vista definido.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "de um projeto de texto.",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "61ccf086c34703e9",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0032",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   18,
+   18
+  ],
+  "printedPages": [
+   "16",
+   "16"
+  ],
+  "quality": "ok",
+  "section": "1.3 COMPETÊNCIA III",
+  "text": "Projeto de texto é o planejamento prévio à escrita da redação. É o esquema que se deixa perceber pela organização estratégica dos argumentos presentes no texto. É nele que são definidos quais os argumentos que serão mobilizados para a defesa do ponto de vista e qual a melhor ordem para apresentá-los, de modo a garantir que o texto final seja articulado, claro e coerente. Assim, o texto que atende às expectativas referentes à Competência III é aquele no qual é possível perceber a presença implícita de um projeto de texto, ou seja, aquele em que é claramente identificável a estratégia escolhida para defender o ponto de vista.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "O QUE É PROJETO DE TEXTO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "65c4747d528aa56c",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0033",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   18,
+   18
+  ],
+  "printedPages": [
+   "16",
+   "16"
+  ],
+  "quality": "ok",
+  "section": "1.3 COMPETÊNCIA III",
+  "text": "O desenvolvimento é a fundamentação dos argumentos apresentados ao longo da sua redação, ou seja, a forma como você explicita e explica as informações, fatos e opiniões que apresenta ao leitor. Um bom desenvolvimento pode ser feito por meio de exemplos, definições, comparações, analogias, estatísticas e de muitas outras formas. De qualquer modo, ele precisa sempre ser relacionado ao ponto de vista que orienta seu projeto de texto, a fim de que nenhuma informação pareça solta ou confusa. Por haver um número limite de linhas, a seleção de informações a serem utilizadas em seu projeto de texto deve ser feita com cuidado. É preciso escolher os melhores argumentos e fazer todos os desdobramentos necessários das informações, fatos e opiniões, para que não fiquem lacunas de sentido a serem preenchidas pelo leitor.\nSeguem algumas recomendações para atender plenamente às expectativas em relação à Competência III:\n- a partir do tema apresentado na prova de redação, defina qual será o ponto de vista que você vai defender em seu texto;\n- reúna todas as ideias que lhe ocorrerem sobre o tema e depois selecione as que forem pertinentes para a defesa do seu ponto de vista, procurando organizá-las em uma estrutura coerente para usá-las no desenvolvimento do seu texto;\n- verifique se as informações, os fatos, as opiniões e os argumentos selecionados são pertinentes para a defesa do seu ponto de vista;",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "O QUE É DESENVOLVIMENTO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "e2bdf21b211d7bea",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0034",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   18,
+   19
+  ],
+  "printedPages": [
+   "16",
+   "17"
+  ],
+  "quality": "ok",
+  "section": "1.3 COMPETÊNCIA III",
+  "text": "- na organização das ideias selecionadas para serem abordadas em seu texto, procure definir uma ordem que possibilite ao leitor acompanhar o seu raciocínio facilmente, o que significa que a progressão textual deve ser fluente e articulada com o projeto do texto;\n- examine com atenção a introdução e a conclusão, para garantir que a coerência foi mantida entre o início e o final da redação;\n- observe se os argumentos apresentados convergem para a defesa de seu ponto de vista. Além disso, verifique se todos eles estão bem desenvolvidos e não deixam lacunas de sentido para serem preenchidas pelo leitor;\n- evite apresentar informações, fatos e opiniões soltos no texto, sem desenvolvimento e sem articulação com as outras ideias apresentadas.\nATENÇÃO!\nLembre-se de que há uma limitação no número de linhas e, por esse motivo, seu texto deve ser constituído apenas por informações, fatos, opiniões e argumentos que sejam pertinentes para a defesa do seu ponto de vista. Evite perder tempo (e linhas em sua redação) com informações irrelevantes, repetidas ou excessivas e não se esqueça de reler seu texto com atenção antes de finalizá-lo.\nResumindo: na organização do texto dissertativo-argumentativo, você deve procurar atender às seguintes exigências:\n- apresentação clara do ponto de vista e seleção dos argumentos que o sustentam;",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "O QUE É DESENVOLVIMENTO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "9aae6e1048cde9e4",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0035",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   19,
+   19
+  ],
+  "printedPages": [
+   "17",
+   "17"
+  ],
+  "quality": "ok",
+  "section": "1.3 COMPETÊNCIA III",
+  "text": "- encadeamento das ideias, de modo que cada parágrafo apresente informações coerentes com o que foi apresentado anteriormente, sem repetições desnecessárias ou saltos temáticos (mudanças abruptas sobre o que está sendo discutido);\n- desenvolvimento dessas ideias por meio da explicitação, explicação ou exemplificação de informações, fatos e opiniões, de modo a justificar, para o leitor, o ponto de vista escolhido.\nO quadro a seguir apresenta os seis níveis de desempenho que serão utilizados para avaliar a Competência III nas redações do Enem 2023.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "O QUE É DESENVOLVIMENTO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "32d0ede81a1c00d1",
+  "competencies": [
+   "IV"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0036",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   20,
+   20
+  ],
+  "printedPages": [
+   "18",
+   "18"
+  ],
+  "quality": "ok",
+  "section": "1.4 COMPETÊNCIA IV",
+  "text": "Os aspectos a serem avaliados nesta Competência dizem respeito à estruturação lógica e formal entre as partes da redação. A organização textual exige que as frases e os parágrafos estabeleçam entre si uma relação que garanta a sequenciação coerente do texto e a interdependência entre as ideias. Essa articulação é feita mobilizando-se recursos coesivos, em especial operadores argumentativos, que são os principais termos responsáveis pelas relações semânticas construídas ao longo do texto dissertativo-argumentativo, por exemplo, relações de igualdade (assim como, outrossim...), de adversidade (entretanto, porém...), de causa/consequência (por isso, assim...), de conclusão (enfim, portanto...), entre muitos outros. Certas preposições, conjunções, alguns advérbios e locuções adverbiais são responsáveis pela coesão do texto, porque estabelecem uma inter-relação entre orações, frases e parágrafos, além de pronomes e expressões referenciais, conforme explicaremos adiante, no item “referenciação”.\nAssim, na produção da sua redação, você deve utilizar variados recursos linguísticos que garantam as relações de continuidade essenciais à elaboração de um texto coeso. Na avaliação da Competência IV, serão considerados, portanto, os mecanismos linguísticos que promovem o encadeamento textual.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.4 COMPETÊNCIA IV",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "c89033779b7c1abe",
+  "competencies": [
+   "IV"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0037",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   20,
+   20
+  ],
+  "printedPages": [
+   "18",
+   "18"
+  ],
+  "quality": "ok",
+  "section": "1.4 COMPETÊNCIA IV",
+  "text": "Você viu que as Competências III e IV consideram a construção da argumentação ao longo do texto, porém avaliam aspectos diferentes. Na Competência III, avalia-se a capacidade de o participante “selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista”, ou seja, trata-se da estrutura mais profunda do texto. Já a coesão, observada na Competência IV, atua na superfície textual, isto é, avaliam-se as marcas linguísticas que ajudam o leitor a chegar à compreensão profunda do texto.\nDesse modo, você deve, na construção de seu texto, demonstrar conhecimento sobre os mecanismos linguísticos necessários para um adequado encadeamento textual, considerando os recursos coesivos que garantem a conexão de ideias tanto entre os parágrafos quanto dentro deles.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.4 COMPETÊNCIA IV",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "defa9883886d8026",
+  "competencies": [
+   "IV"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0038",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   20,
+   21
+  ],
+  "printedPages": [
+   "18",
+   "19"
+  ],
+  "quality": "ok",
+  "section": "1.4 COMPETÊNCIA IV",
+  "text": "Para garantir a coesão textual, devem ser observados determinados princípios em diferentes níveis:\n- estruturação dos parágrafos – um parágrafo é uma unidade textual formada por uma ideia principal à qual se ligam ideias secundárias. No texto dissertativo-argumentativo, os parágrafos podem ser desenvolvidos por comparação, por causa-consequência, por exemplificação, por detalhamento, entre outras possibilidades. Deve haver articulação explícita entre um parágrafo e outro;\n- estruturação dos períodos – pela própria especificidade do texto dissertativo-argumentativo, os períodos do texto são, normalmente, estruturados de modo complexo, formados por duas ou mais orações, para que se possam expressar as ideias de causa/consequência, contradição, temporalidade, comparação, conclusão, entre outras;\n- referenciação – pessoas, coisas, lugares e fatos são apresentados e, depois, retomados, à medida que o texto vai progredindo. Esse processo pode ser realizado mediante o uso de pronomes, advérbios, artigos, sinônimos, antônimos, hipônimos, hiperônimos, além de expressões resumitivas, metafóricas ou metadiscursivas.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "COMO GARANTIR A COESÃO DO TEXTO?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "594933198485ed3d",
+  "competencies": [
+   "IV"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0039",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   21,
+   21
+  ],
+  "printedPages": [
+   "19",
+   "19"
+  ],
+  "quality": "ok",
+  "section": "1.4 COMPETÊNCIA IV",
+  "text": "- Procure utilizar as seguintes estratégias de coesão para se referir a elementos que já apareceram no texto:\n- a) substituição de termos ou expressões por pronomes pessoais, possessivos e demonstrativos, advérbios que indicam localização, artigos;\n- b) substituição de termos ou expressões por sinônimos, hipônimos, hiperônimos ou expressões resumitivas;\n- c) substituição de verbos, substantivos, períodos ou fragmentos do texto por conectivos ou expressões que retomem o que foi dito;\n- d) elipse ou omissão de elementos que já tenham sido citados ou que sejam facilmente identificáveis.\n- Utilize operadores argumentativos para relacionar orações, frases e parágrafos de forma expressiva ao longo do texto.\n- Verifique se o elemento coesivo utilizado estabelece a relação de sentido pretendida.\nResumindo: na elaboração da redação, você deve evitar:\n- ausência de articulação entre orações, frases e parágrafos;\n- ausência de paragrafação (texto elaborado em um único parágrafo);\n- emprego de conector (preposição, conjunção, pronome relativo, alguns advérbios e locuções adverbiais) que não estabeleça relação lógica entre dois trechos do texto e prejudique a compreensão da mensagem;\n- repetição ou substituição inadequada de palavras sem se valer dos recursos oferecidos pela língua (pronome, advérbio, artigo, sinônimo).\nATENÇÃO!",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "RECOMENDAÇÕES",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "29c77d6267f6aa69",
+  "competencies": [
+   "IV"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0040",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   21,
+   22
+  ],
+  "printedPages": [
+   "19",
+   "20"
+  ],
+  "quality": "ok",
+  "section": "1.4 COMPETÊNCIA IV",
+  "text": "Não utilize elementos coesivos de forma artificial ou excessiva, apenas porque é um dos critérios avaliados na prova de redação ou porque seu texto vai parecer mais bem escrito. Uma boa coesão não depende da mera presença de conectivos no texto, muito menos de serem utilizados em grande quantidade — é preciso que esses recursos estabeleçam relações lógicas adequadas entre as ideias apresentadas.\nO quadro a seguir apresenta os seis níveis de desempenho que serão utilizados para avaliar a Competência IV nas redações do Enem 2023.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "RECOMENDAÇÕES",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "02a3c2a06a5a9dc9",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0041",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   22,
+   22
+  ],
+  "printedPages": [
+   "20",
+   "20"
+  ],
+  "quality": "ok",
+  "section": "1.5 COMPETÊNCIA V",
+  "text": "O quinto aspecto a ser avaliado no seu texto é a apresentação de uma proposta de intervenção para o problema abordado, respeitando-se os Direitos Humanos. Propor uma intervenção para o problema apresentado pelo tema significa sugerir uma iniciativa que busque enfrentá-lo.\nA elaboração de uma proposta de intervenção, na prova de redação do Enem, representa uma ocasião para que você demonstre seu preparo para exercitar a cidadania e atuar na realidade, em consonância com os direitos humanos. Portanto, você deve usar os conhecimentos desenvolvidos ao longo de sua formação para a produção de um texto no qual, além de se posicionar de maneira crítica e argumentar a favor de um ponto de vista, você possa indicar uma iniciativa que interfira no problema discutido em sua redação.\nA proposta de intervenção precisa estar relacionada ao tema e integrada ao seu projeto de texto. Considerando seu planejamento de escrita (avaliado na Competência III), sua proposta deve ser coerente em relação ao ponto de vista desenvolvido e aos argumentos utilizados, já que expressa sua visão, como autor, das possíveis soluções para a questão discutida. Assim, é necessário que a intervenção apontada responda aos problemas abordados por você, mostrando-se articulada ao seu projeto de texto.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.5 COMPETÊNCIA V",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "8a60e5596059b6da",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0042",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   22,
+   23
+  ],
+  "printedPages": [
+   "20",
+   "21"
+  ],
+  "quality": "ok",
+  "section": "1.5 COMPETÊNCIA V",
+  "text": "Ao redigir seu texto, busque apresentar uma proposta concreta, específica ao tema e consistente com o desenvolvimento de suas ideias. Para construir uma proposta muito bem elaborada, você deve não apenas propor uma ação interventiva, mas também o ator social competente para a executar, de acordo com o âmbito da ação escolhida: individual, familiar, comunitário, social, político, governamental. Além disso, você deve determinar o meio de execução da ação e o seu efeito ou a sua finalidade, bem como incluir algum outro detalhamento.\nAo elaborar sua proposta, procure responder às seguintes perguntas:\n1. O que é possível apresentar como solução para o problema? 2. Quem deve executá-la? 3. Como viabilizar essa solução? 4. Qual efeito ela pode alcançar? 5. Que outra informação pode ser acrescentada para detalhar a proposta?\nResumindo: seu texto será avaliado com base na composição da proposta que você apresentar.\nATENÇÃO!",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.5 COMPETÊNCIA V",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "4d8a33448f05d690",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0043",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   23,
+   23
+  ],
+  "printedPages": [
+   "21",
+   "21"
+  ],
+  "quality": "ok",
+  "section": "1.5 COMPETÊNCIA V",
+  "text": "Existem várias formas de propor uma intervenção, e você deve explorar aquela que mais se adéque ao tema e ao seu projeto de texto. Contudo, fique atento para que sua proposta esteja explícita. Apenas constatar a falta de uma ação ou de um projeto (como em “faltam investimentos em x”) ainda não é suficiente para configurar uma proposta de intervenção. Além disso, evite propostas vagas, genéricas ou incompatíveis com a discussão, bem como estruturas que não permitam ter certeza de que você está propondo, de fato, uma intervenção (como em “se x for feito, o resultado poderá ser y”). Em suma, você deve ser claro ao apresentar seu desejo de intervir na realidade, e sua proposta deve contemplar a situação problematizada em seu texto.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.5 COMPETÊNCIA V",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "5c1236bf29645b06",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0044",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   23,
+   23
+  ],
+  "printedPages": [
+   "21",
+   "21"
+  ],
+  "quality": "ok",
+  "section": "1.5 COMPETÊNCIA V",
+  "text": "A prova de redação do Enem sempre assinalou a necessidade de o participante respeitar os direitos humanos, e essa determinação está na matriz de referência da redação do Enem. Conforme a matriz, as redações que apresentarem propostas de intervenção que desrespeitem os direitos humanos serão penalizadas na Competência V.\nPode-se dizer que determinadas ideias e ações serão sempre avaliadas como contrárias aos direitos humanos, tais como: defesa de tortura, mutilação, execução sumária e qualquer forma de “justiça com as próprias mãos”; incitação a qualquer tipo de violência motivada por questões de raça, etnia, gênero, credo, opinião política, condição física, origem geográfica ou socioeconômica; explicitação de qualquer forma de discurso de ódio (voltado contra grupos sociais específicos).\nPara a avaliação das redações, são considerados os seguintes princípios norteadores dos direitos humanos, pautados no artigo 3º da Resolução nº 1, de 30 de maio de 2012, a qual estabelece as Diretrizes Nacionais para a Educação em Direitos Humanos:\n- Dignidade humana.\n- Igualdade de direitos.\n- Reconhecimento e valorização das diferenças e diversidades.\n- Laicidade do Estado.\n- Democracia na educação.\n- Transversalidade, vivência e globalidade.\n- Sustentabilidade socioambiental.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "O QUE É CONSIDERADO DESRESPEITO AOS DIREITOS HUMANOS?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "c483b20b3536594f",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0045",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   24,
+   24
+  ],
+  "printedPages": [
+   "22",
+   "22"
+  ],
+  "quality": "ok",
+  "section": "1.5 COMPETÊNCIA V",
+  "text": "Há, também, algumas ideias e ações contrárias aos direitos humanos que estão mais diretamente relacionadas ao tema da prova. Assim, com relação ao tema de redação proposto na edição do Enem 2022, “Desafios para a valorização de comunidades e povos tradicionais no Brasil”, foram consideradas propostas que desrespeitaram os direitos humanos as que negavam quaisquer dos direitos humanos, que discriminavam qualquer grupo de indivíduos ou que sugeriam qualquer ação que feria a dignidade da pessoa humana.\nEm resumo, na prova de redação do Enem, quaisquer que sejam os temas propostos para o desenvolvimento do texto dissertativo-argumentativo, constituem desrespeito aos direitos humanos propostas que incitam as pessoas à violência, ou seja, aquelas em que transparece a ação de indivíduos na administração da punição — por exemplo, as que defendem a “justiça com as próprias mãos”. Por outro lado, não caracterizam desrespeito aos direitos humanos as propostas de pena de morte ou prisão perpétua, desde que confiram ao Estado a administração da punição ao agressor. Quando o Estado executa uma punição, ela não depende mais de indivíduos, configurando-se como contratos sociais cujos efeitos todos devem conhecer e respeitar em uma sociedade.\nO quadro a seguir apresenta os seis níveis de desempenho que serão utilizados para avaliar a Competência V nas redações do Enem 2023.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "O QUE É CONSIDERADO DESRESPEITO AOS DIREITOS HUMANOS?",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "0431b74856be9eac",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0046",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   24,
+   25
+  ],
+  "printedPages": [
+   "22",
+   "23"
+  ],
+  "quality": "ok",
+  "section": "1.6 RECOMENDAÇÕES GERAIS",
+  "text": "Para alcançar bom desempenho na prova de redação do Enem, você deve, antes de escrever seu texto, fazer uma leitura cuidadosa da proposta apresentada, dos textos motivadores e das instruções, a fim de que possa compreender perfeitamente o que está sendo solicitado.\nNessa primeira parte da proposta, você\ntem\nacesso\na\nalgumas informações de ordem prática, como número máximo de linhas, espaço para rascunho etc. Além disso, há um resumo dos critérios de anulação. A lista completa de critérios de anulação está disponível nesta Cartilha, no tópico: “Quais as razões para se atribuir nota 0 (zero) a uma redação?”\nO tema da redação sempre vem acompanhado, na proposta, de textos motivadores. Em geral, são textos, em linguagem verbal e em linguagem não verbal (imagem), que remetem ao tema proposto, a fim de orientar sua reflexão. A seguir, elencamos algumas ações importantes para que você faça o melhor uso possível dos textos motivadores: 1.Ler\nos\ntextos\nmotivadores, observando as palavras ou os fragmentos\nque\nindicam\no posicionamento dos autores e a situação-problema central da proposta; 2.Identificar,\nem\ncada\ntexto motivador, se for o caso, o ponto de vista e os argumentos apresentados pelos autores; 3.Refletir sobre o posicionamento dos autores dos textos motivadores e definir, com muita clareza, qual será o seu posicionamento. A partir das ideias presentes nos textos motivadores, elencar outras informações, com base em seu conhecimento\nde\nmundo,",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.6 RECOMENDAÇÕES GERAIS",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "b760c8231906e03a",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0047",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   25,
+   26
+  ],
+  "printedPages": [
+   "23",
+   "24"
+  ],
+  "quality": "ok",
+  "section": "1.6 RECOMENDAÇÕES GERAIS",
+  "text": "que podem contribuir para defender o posicionamento que você escolheu.\nEssa última parte da proposta é mais curta, porém há muitas informações e instruções importantes para que você elabore uma redação dentro dos critérios avaliados no Enem.\nA seguir, será apresentada uma leitura guiada da proposta de redação do Enem Impresso e do Digital 2022, com diversas dicas e pontos de atenção, para que você relembre e sintetize aquilo que já foi estudado até aqui nesta Cartilha.\n1\nOs textos motivadores ajudam você a refletir sobre a temática proposta e podem ser de grande ajuda, em especial se for um tema sobre o qual você não tenha tanto domínio. Porém fica evidente, nessa instrução da proposta de redação, que você deve se basear nos “conhecimentos construídos ao longo de sua formação”, ou seja, sua redação precisa articular informações e ideias que extrapolem os textos motivadores. Nesta Cartilha, chamamos isso de repertório sociocultural.\n2\nA tipologia textual definida pela proposta é o texto dissertativo-argumentativo. Com base na situação-problema, você deverá expressar sua opinião, ou seja, apresentar um ponto de vista. Para isso, inicie o texto apresentando seu ponto de vista, desenvolva justificativas para comprovar esse ponto de vista e elabore uma conclusão que dê um fechamento à discussão proposta no texto, compondo o processo argumentativo. Se sua redação não atender a essa tipologia textual, ela será anulada por completo.\n3",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.6 RECOMENDAÇÕES GERAIS",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "b82b53ed6b37cb49",
+  "competencies": [
+   "II",
+   "III",
+   "V"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0048",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   26,
+   26
+  ],
+  "printedPages": [
+   "24",
+   "24"
+  ],
+  "quality": "ok",
+  "section": "1.6 RECOMENDAÇÕES GERAIS",
+  "text": "O texto deverá ser redigido de acordo com a modalidade escrita formal da língua portuguesa. Assim, fique atento à estrutura dos períodos, à acentuação e à ortografia das palavras, ao emprego adequado do hífen e das letras maiúsculas e minúsculas, à separação silábica (translineação), à regência e à concordância (nominais e verbais), à pontuação, ao paralelismo sintático, ao emprego dos pronomes e da crase, à adequação à escrita formal da língua portuguesa, sem informalidades e marcas de oralidade, bem como à adequação vocabular. Além disso, lembre-se de que a grafia das palavras deve seguir o Novo Acordo Ortográfico.\n4\nA frase temática (\"Desafios para a valorização de comunidades e povos tradicionais no Brasil\") é um dos elementos mais importantes da proposta de redação. Lembre-se de que a sua redação deve abordar todos os elementos dessa frase. Uma abordagem parcial do tema, chamada de tangenciamento, fará com que sua redação seja avaliada com, no máximo, 40 pontos de 200 na Competência II. Além disso, um texto tangente também sofre penalizações nas Competências III e V. A fuga ao tema, que é quando nem o assunto mais geral da frase temática é abordado, leva à anulação da sua redação.\n5",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.6 RECOMENDAÇÕES GERAIS",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "92c701e2bb124496",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0049",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   26,
+   27
+  ],
+  "printedPages": [
+   "24",
+   "25"
+  ],
+  "quality": "ok",
+  "section": "1.6 RECOMENDAÇÕES GERAIS",
+  "text": "A proposta de intervenção deve claramente indicar uma ação a ser realizada para resolver a situação-problema discutida no texto. Além disso, essa ação/ solução deve ser composta pelos agentes sociais responsáveis por sua execução, pelo modo como ela será posta em prática e pelo seu efeito pretendido, além de apresentar um detalhamento que complemente algum desses elementos já mencionados (exemplificação, explicação etc.) O respeito aos direitos humanos também é imprescindível para que a proposta de intervenção não seja avaliada no nível 0 da Competência V.\n6\nÉ importante definir um projeto de texto em que seja planejada a organização estratégica da sua redação, a fim de defender o ponto de vista por você escolhido. Algumas estratégias argumentativas que podem ser utilizadas: exemplos, dados estatísticos, pesquisas, fatos comprováveis, citações ou depoimentos de pessoas especializadas no assunto, pequenas narrativas ilustrativas, alusões históricas e comparações entre fatos, situações, épocas ou lugares distintos. Para ligar todas essas ideias, é preciso se valer de recursos coesivos que deixem explícitas as relações entre as partes do texto.\nPara esta Cartilha, foram selecionadas e comentadas algumas redações que receberam a pontuação máxima – 1.000 pontos – na edição de 2022 do Enem Impresso, por terem cumprido todas as exigências relativas às cinco competências.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.6 RECOMENDAÇÕES GERAIS",
+  "year": 2023
+ },
+ {
+  "category": "orientacao",
+  "checksum": "fcfa44745c0ae0ca",
+  "competencies": [
+   "V",
+   "II",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "id": "2023.orie.0050",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   27,
+   27
+  ],
+  "printedPages": [
+   "25",
+   "25"
+  ],
+  "quality": "ok",
+  "section": "1.6 RECOMENDAÇÕES GERAIS",
+  "text": "Esses textos contêm: uma proposta de intervenção para o problema abordado, respeitando os direitos humanos (Competência V); apresentam as características textuais fundamentais, como o estabelecimento de coesão, coerência, informatividade, sequenciação, entre outras (Competências II, III e IV); e demonstram domínio da modalidade escrita formal da língua portuguesa (Competência I). Esse domínio pode ser comprovado pelo cumprimento dos princípios de organização frasal, pela adequação às convenções da escrita, às regras gramaticais e à escolha vocabular, bem como pela utilização de linguagem formal, apropriada ao registro esperado no texto dissertativo-argumentativo. Desvios gramaticais ou de convenções da escrita foram aceitos somente como excepcionalidade e quando não caracterizaram reincidência.\nSeguem os textos Nota 1.000 com seus respectivos comentários.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "1.6 RECOMENDAÇÕES GERAIS",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "e12a2b9bbde92631",
+  "commentChunkIds": [
+   "2023.essay.01.comment.01",
+   "2023.essay.01.comment.02",
+   "2023.essay.01.comment.03",
+   "2023.essay.01.comment.04"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2023",
+  "essayAuthor": "NICOLE CARVALHO ALMEIDA",
+  "essayId": "2023.essay.01",
+  "examYear": 2022,
+  "id": "2023.essay.01",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   28,
+   28
+  ],
+  "printedPages": [
+   "26",
+   "26"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "No Brasil, o Artigo 1º da Constituição Federal de 1988 delibera a garantia da cidadania e da integridade da pessoa humana como fundamento para a instituição do Estado Democrático de Direito, no qual deve-se assegurar o bem-estar coletivo. No entanto, hodiernamente, não há o cumprimento efetivo dessa premissa para a totalidade dos cidadãos, haja vista os empecilhos no que tange à valorização de comunidades e povos tradicionais no país. Nesse viés, torna-se essencial analisar duas vertentes relacionadas à problemática: a inferiorização desses grupos bem como a perspectiva do mercado nacional.\n\nSob esse prisma, é primordial destacar a discriminação contra esses indivíduos no Brasil. Nesse sentido, de acordo com o sociólogo canadense Erving Goffman, o estigma caracteriza-se por atributos profundamente depreciativos estabelecidos pelo meio social. Nesse contexto, observa-se a maneira como os povos tradicionais, a exemplo dos quilombolas e dos ciganos, sofrem a estigmatização na sociedade brasileira, pois são, muitas vezes, considerados sujeitos sem utilidade para o crescimento econômico do país, uma vez que as práticas de subsistência são comuns nessas comunidades. Dessa forma, ocorre a marginalização desses grupos, fato o qual os distancia da valorização no país.\n\nOutrossim, é relevante ressaltar a perspectiva mercadológica brasileira como fator agravante dessa realidade. Nessa conjuntura, segundo a obra “O Capital”, escrita pelos filósofos economistas Karl Marx e Friedrich Engels, o capitalismo prioriza a lucratividade em detrimento de valores. Nesse cenário, diversas empresas, no Brasil, estruturadas em base capitalista, atuam a partir de mecanismos de financiamento e apoio às legislações que incentivam a exploração de territórios ambientais habitados por povos tradicionais, como a região amazônica, sem levar em consideração a defesa da sociobiodiversidade nessas comunidades. Desse modo, há a manutenção de ações as quais visam somente ao lucro no mercado corporativo e são coniventes com processos de apropriação bem como de desvalorização dos nichos sociais de populações tradicionais no país.\n\nPortanto, são necessárias intervenções capazes de fomentar a valorização desses indivíduos na sociedade brasileira. Para tanto, cabe ao Ministério da Educação promover a mudança das concepções discriminatórias contra as comunidades tradicionais, por meio da realização de palestras periódicas nas escolas, ministradas por sociólogos e antropólogos, as quais conscientizem os sujeitos acerca da importância desses povos para o país, a fim de minimizar o preconceito nesse âmbito. Além disso, é dever do Ministério da Economia impor sanções às empresas que explorem os territórios habitados por essas comunidades, com o intuito de desestimular tais ações. A partir dessas medidas, a desvalorização das populações tradicionais poderá ser superada no Brasil.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Redação 1 — NICOLE CARVALHO ALMEIDA",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "c0919520c5a6ff8d",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "NICOLE CARVALHO ALMEIDA",
+  "essayId": "2023.essay.01",
+  "examYear": 2022,
+  "id": "2023.essay.01.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.01",
+  "pdfPages": [
+   28,
+   28
+  ],
+  "printedPages": [
+   "26",
+   "26"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "A participante demonstra excelente domínio da modalidade escrita formal da língua portuguesa, com períodos sintaticamente bem estruturados, e o texto apresenta apenas um desvio: o emprego de ênclise em oração subordinada iniciada por pronome relativo, conforme se constata no trecho “no qual deve-se assegurar o bem-estar coletivo”.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 1 — NICOLE CARVALHO ALMEIDA (1/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "407cd38ba3f8a278",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "NICOLE CARVALHO ALMEIDA",
+  "essayId": "2023.essay.01",
+  "examYear": 2022,
+  "id": "2023.essay.01.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.01",
+  "pdfPages": [
+   29,
+   29
+  ],
+  "printedPages": [
+   "27",
+   "27"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "A redação da participante demonstra excelente domínio do texto dissertativo-argumentativo, contemplando os princípios da estruturação do texto dissertativo-argumentativo, com discussão, desenvolvimento com justificativas que comprovam seu ponto de vista e, encerrando com uma conclusão. O tema, “Desafios para a valorização de comunidades e povos tradicionais no Brasil”, é abordado no primeiro parágrafo, quando a participante afirma que não há, efetivamente, “o cumprimento efetivo da premissa do Artigo 1º da Constituição Federal de 1988 para a totalidade dos cidadãos”, ou seja, a garantia da cidadania e da integridade da pessoa humana, devido a empecilhos, citados no desenvolvimento do tema, ou seja, nos dois parágrafos seguintes, com a utilização de um repertório produtivo: o segundo parágrafo trata da discriminação e do estigma contra esses indivíduos no Brasil, com fundamento nas ideias do sociólogo canadense Erving Goffman; o terceiro parágrafo ressalta a perspectiva mercadológica do mercado corporativo brasileiro, com fundamento na obra “O Capital”, de Karl Marx e Friedrich Engels, enfatizando a exploração de territórios ambientais habitados por povos tradicionais. O texto se encerra com uma conclusão decorrente dos parágrafos anteriores, no quarto parágrafo, com duas propostas de solução para o problema, a cargo do Ministério da Educação e do Ministério da Economia. Assim, nota-se que a participante abordou de forma completa o tema proposto em um texto dissertativo-argumentativo, conforme determina a proposta de redação.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 1 — NICOLE CARVALHO ALMEIDA (2/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "679aef066d88287a",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "NICOLE CARVALHO ALMEIDA",
+  "essayId": "2023.essay.01",
+  "examYear": 2022,
+  "id": "2023.essay.01.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.01",
+  "pdfPages": [
+   29,
+   29
+  ],
+  "printedPages": [
+   "27",
+   "27"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O projeto do texto é claro, com informações, fatos e opiniões relacionados ao tema proposto e desenvolvidos, de forma consistente e bem-organizados, em defesa do ponto de vista. Primeiramente, afirma que a garantia constitucional da cidadania e da integridade da pessoa humana não atinge as comunidades e povos tradicionais no país, o que leva ao estigma e à inferiorização desses grupos. Essa consequência se explica com o argumento do sociólogo canadense Erving Goffman, segundo o qual “o estigma caracteriza-se por atributos profundamente depreciativos estabelecidos pelo meio social”, como ocorre, por exemplo, com ciganos e quilombolas. Soma-se a esse projeto de texto o argumento da perspectiva mercadológica brasileira como fator agravante dessa realidade, fundamentada na obra “O Capital”, de Karl Marx e Friedrich Engels, desvalorizando os nichos sociais de populações tradicionais no país, alheias ao lucro e preocupadas com sua sobrevivência em meio à natureza. No parágrafo final, a participante conclui, como já mencionado, com proposta de ações do Ministério da Educação, para o combate à discriminação e à invisibilidade nas comunidades tradicionais, e do Ministério da Economia, para imposição de sanções às empresas que exploram os territórios habitados por essas comunidades.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 1 — NICOLE CARVALHO ALMEIDA (3/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "6c00482341bafa93",
+  "competencies": [
+   "V",
+   "I",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "NICOLE CARVALHO ALMEIDA",
+  "essayId": "2023.essay.01",
+  "examYear": 2022,
+  "id": "2023.essay.01.comment.04",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.01",
+  "pdfPages": [
+   29,
+   29
+  ],
+  "printedPages": [
+   "27",
+   "27"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Além da continuidade temática presente no texto, a participante emprega, sem inadequações, um repertório variado de recursos coesivos, que articulam os argumentos, as partes do texto e as informações apresentadas, tanto no plano nominal, com o emprego de pronomes (“o qual os distancia”, “desses indivíduos”) e palavras ou expressões sinônimas (“país” por “Brasil”, “tais ações” por “empresas que explorem...”, “estigma” por “preconceito”), como no sequencial (“No entanto”, “bem como”, “Nesse viés”, “A partir dessas medidas” ). Também utilizou os sinais de pontuação ligando palavras, orações e períodos complexos com pertinência e de modo correto.\n\nComo a prova pede proposta de intervenção, esse texto é finalizado com duas propostas que respeitam os direitos humanos, ambas descritas acima. Como pode ser observado, elas permeiam o texto e são decorrentes do desenvolvimento da argumentação. Essas propostas são detalhadas, mostram o quê e como devem ser realizadas, quem vai realizar o que foi proposto e qual será o efeito dessas ações de intervenção.\n\nConclui-se que a participante contemplou em seu texto, integralmente e com excelência, todas as partes da proposta de redação.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 1 — NICOLE CARVALHO ALMEIDA (4/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "95d8e5791cfed9f0",
+  "commentChunkIds": [
+   "2023.essay.02.comment.01",
+   "2023.essay.02.comment.02",
+   "2023.essay.02.comment.03",
+   "2023.essay.02.comment.04"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2023",
+  "essayAuthor": "ANA CAROLINA ANGELIM DAMASCENO",
+  "essayId": "2023.essay.02",
+  "examYear": 2022,
+  "id": "2023.essay.02",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   30,
+   30
+  ],
+  "printedPages": [
+   "28",
+   "28"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O poema “Erro de Português”, do escritor modernista Oswald de Andrade, retrata o processo de aculturação dos indígenas durante a colonização do Brasil. Atualmente, no país, ainda existem inúmeros desafios para a valorização de comunidades e povos tradicionais devido, sobretudo, à ineficiência estatal histórica em assistir esses indivíduos e ao desconhecimento, por parte da população, sobre a diversidade e a importância desses grupos.\n\nÉ necessário destacar, de início, o descaso do Poder Público em assegurar, de maneira efetiva, os direitos fundamentais às comunidades tradicionais. De fato, o Estado, historicamente, negligenciou a proteção de organizações sociais distintas, tais quais ciganos, quilombolas e indígenas e, muitas vezes, legitimou a dissolução da cultura desses povos, prova disso foi, durante o período de Ditadura Militar, a adoção de uma política assimilacionista, isto é, de integração dos povos nativos aos costumes da sociedade citadina como tentativa de extinguir determinadas tradições. Dessa forma, as populações tradicionais são desvalorizadas e, não raro, não reconhecidas pelo Governo, conjuntura que impossibilita seu pleno exercício de dignidade, tendo em vista a dificuldade de acesso a direitos sociais imprescindíveis para seu bem-estar e para a perpetuação de seus saberes ao longo das gerações, necessários para a manutenção de uma identidade coletiva associada ao reconhecimento de sua ancestralidade.\n\nAlém da ineficiência do Estado, o desconhecimento dessa diversidade cultural por parte de muitos indivíduos acentua a desvalorização dos povos tradicionais. Notadamente, a invisibilidade de comunidades históricas compromete o desenvolvimento de senso crítico frente à importância dessas organizações sociais para a construção identitária do país, cenário que comprova o pensamento da escritora brasileira Cecília Meireles, em sua obra “Crônicas da Educação”, na qual consigna: a educação é fundamental para a orientação individual, ou seja, para a criticidade nas inúmeras situações da vida social. Conforme esse raciocínio, a sociedade não valoriza devidamente as populações ancestrais e, diversas vezes, segrega essas coletividades por não conhecer sua relevância para a cultura nacional, comprometendo, assim, a manifestação de suas tradições relacionadas ao sentimento de pertencimento e ao modo de viver em harmonia não só com o espaço, mas também com os outros sujeitos.\n\nÉ imprescindível, portanto, que Estado, aliado à esfera municipal e estadual de poder, proteja, efetivamente, as comunidades tradicionais do Brasil, por intermédio de políticas públicas voltadas para o reconhecimento oficial de povos ancestrais negligenciados, como extrativistas e pescadores, bem como para a promoção de direitos às diversas organizações culturais — com a demarcação de terras indígenas e quilombolas e a visita periódica de agentes do governo que documentem as necessidades de cada grupo —, a fim de proporcionar o exercício de dignidade para esses indivíduos. Urge, também, que a escola possibilite o conhecimento sobre essas populações, mediante palestras e aulas extracurriculares — com profissionais da área de história e de antropologia, que demonstrem a importância dessas comunidades —, com o intuito de incentivar a criticidade dos estudantes sobre a valorização de povos tradicionais.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Redação 2 — ANA CAROLINA ANGELIM DAMASCENO",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "f4df9a180779fd31",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "ANA CAROLINA ANGELIM DAMASCENO",
+  "essayId": "2023.essay.02",
+  "examYear": 2022,
+  "id": "2023.essay.02.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.02",
+  "pdfPages": [
+   31,
+   31
+  ],
+  "printedPages": [
+   "29",
+   "29"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Com excelente domínio das convenções da escrita e de estruturação sintática dos períodos, o texto apresenta apenas um desvio no segundo parágrafo: a vírgula foi impropriamente utilizada no trecho “[o Estado] legitimou a dissolução da cultura desses povos, prova disso foi [...]”.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 2 — ANA CAROLINA ANGELIM DAMASCENO (1/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "2c0e85eb4230cce9",
+  "competencies": [
+   "I",
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "ANA CAROLINA ANGELIM DAMASCENO",
+  "essayId": "2023.essay.02",
+  "examYear": 2022,
+  "id": "2023.essay.02.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.02",
+  "pdfPages": [
+   31,
+   31
+  ],
+  "printedPages": [
+   "29",
+   "29"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Estruturado em quatro parágrafos, no primeiro, a participante já apresenta o problema proposto: “existem inúmeros desafios para a valorização de comunidades e povos tradicionais”. Dois fatores são apontados para esse problema: a ineficiência histórica do Estado, que não assiste os indivíduos das comunidades e povos tradicionais, e o fato de parte da população desconhecer a diversidade e a importância desses grupos. Na sequência, desenvolve o texto com um repertório pertinente à discussão do tema: no segundo parágrafo, exemplificando, com a “política assimilacionista” do período da Ditadura Militar, a ineficiência estatal, a qual se apresenta como negligência na proteção de organizações sociais tradicionais, como as de ciganos, quilombolas e indígenas, o que legitimou a dissolução da cultura dessas populações, as quais, assim, permanecem desvalorizadas e não reconhecidas pelo Governo; no terceiro parágrafo, citando Cecília Meireles, em sua obra “Crônicas da Educação”, a qual acena com o valor da educação, da criticidade nas situações sociais, no combate ao desconhecimento, por parte da população, sobre a diversidade e a relevância desses grupos. No último parágrafo, apresenta duas propostas de solução decorrentes da discussão desenvolvida: a proteção das comunidades tradicionais, por meio de políticas públicas voltadas para o reconhecimento dos povos ancestrais negligenciados, como extrativistas e pescadores, e a demarcação de terras indígenas e quilombolas, assim como a promoção do conhecimento sobre essas populações pela escola, com o auxílio de profissionais da área de história e de antropologia.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 2 — ANA CAROLINA ANGELIM DAMASCENO (2/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "d8b6e61d76d97ea4",
+  "competencies": [
+   "I",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "ANA CAROLINA ANGELIM DAMASCENO",
+  "essayId": "2023.essay.02",
+  "examYear": 2022,
+  "id": "2023.essay.02.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.02",
+  "pdfPages": [
+   31,
+   31
+  ],
+  "printedPages": [
+   "29",
+   "29"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Percebe-se, também, ao longo da redação, a presença de um projeto de texto, com um ponto de vista defendido com informações, fatos e opiniões relacionados ao tema proposto: a valorização de comunidades e povos tradicionais do Brasil é um desafio, porque esbarra na ineficiência estatal histórica em proteger esses indivíduos e no desconhecimento, por parte da população, sobre a diversidade e a importância desses grupos. Para defender esse ponto de vista, a participante relembra o período de Ditadura Militar e sua adoção de uma política assimilacionista para comprovar o descaso histórico do Poder Público pelos direitos fundamentais das comunidades tradicionais, na tentativa de extinguir suas tradições, desvalorizá-las, colocando-as em dificuldades para manter uma identidade coletiva. Soma-se a isso o argumento de que a população em geral desconhece essa diversidade cultural, ou seja, esses povos tradicionais são invisíveis, razão pela qual o texto aponta o valor da educação, conforme mostra Cecília Meireles, em “Crônicas da Educação”, para que a sociedade conheça a relevância também dessas culturas ancestrais. Encaminha-se, assim, o texto para o dever do Estado de estabelecer políticas públicas de reconhecimento oficial, de promoção de direitos e de proteção às comunidades tradicionais e a tarefa da escola de possibilitar o conhecimento sobre essas populações, mediante palestras e aulas extracurriculares, com profissionais da área de história e de antropologia, que demonstrem a importância dessas comunidades.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 2 — ANA CAROLINA ANGELIM DAMASCENO (3/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "7924d6dc75b6b9c8",
+  "competencies": [
+   "V",
+   "I",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "ANA CAROLINA ANGELIM DAMASCENO",
+  "essayId": "2023.essay.02",
+  "examYear": 2022,
+  "id": "2023.essay.02.comment.04",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.02",
+  "pdfPages": [
+   31,
+   32
+  ],
+  "printedPages": [
+   "29",
+   "30"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O texto apresenta continuidade temática e, além disso, a participante apresenta, sem inadequações, um repertório variado de recursos coesivos, que articulam os argumentos, as partes do textos e as informações apresentadas, tanto no plano nominal, com o emprego de pronomes (“na qual consigna” , “que demonstrem”), e palavras ou expressões sinônimas (“no país” por “Brasil”, “para esses indivíduos” por “indígenas e quilombolas” e “desses grupos” por “comunidades e povos tradicionais”, “desses povos”, por “ciganos, quilombolas e indígenas”), como no sequencial (“Atualmente”, “sobretudo”, “de início”, “Conforme esse raciocínio”).\n\nTambém utilizou, com pertinência e de modo correto, os sinais de pontuação ligando palavras, orações e períodos complexos.\n\nComo a prova pede proposta de intervenção, esse texto é finalizado com duas propostas que respeitam os direitos humanos, ambas descritas acima. Elas, como se nota, permeiam o texto e são decorrentes do desenvolvimento da argumentação. Essas propostas são detalhadas, mostram o quê e como devem ser realizadas, quem vai realizar o que foi proposto e qual será o efeito dessas ações de intervenção.\n\nConclui-se que a participante contemplou em seu texto, integralmente e com excelência, todas as partes da proposta de redação.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 2 — ANA CAROLINA ANGELIM DAMASCENO (4/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "739c0e453bee7b8f",
+  "commentChunkIds": [
+   "2023.essay.03.comment.01",
+   "2023.essay.03.comment.02",
+   "2023.essay.03.comment.03",
+   "2023.essay.03.comment.04"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2023",
+  "essayAuthor": "LUIZ ANDRÉ LOMEU DE ALMEIDA",
+  "essayId": "2023.essay.03",
+  "examYear": 2022,
+  "id": "2023.essay.03",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   33,
+   33
+  ],
+  "printedPages": [
+   "31",
+   "31"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "A Constituição Federal de 1988 foi o primeiro documento que se propôs a se empenhar a contemplar todos os povos existentes no país. No entanto, a concessão do direito ao pleno reconhecimento legal e social limita-se meramente ao segmento normativo, uma vez que, na realidade, indígenas, ciganos, extrativistas e tantos outros grupos de tradição nacional sofrem ataques diários a sua existência. Nesse sentido, há óbices para a valorização de comunidades e povos tradicionais no Brasil, haja vista a negligência do sistema educacional em não difundir integralmente sua cultura e os históricos ataques aos seus territórios.\n\nEm primeira instância, o significativo entrave que causa a desvalorização desses segmentos da sociedade advém da inobservância da educação quanto à pluralidade identitária da nação. Sob esse prisma, a Lei de Diretrizes e Bases, ao instituir a Base Nacional Comum Curricular (BNCC), determina o conteúdo e as prescrições do que será estudado nas instituições de ensino brasileiro, bem como objetiva promover a inclusão e o respeito por meio do ato de lecionar. Todavia, essa legislação falha, em seu modelo atual, em cumprir seus princípios no que tange a esses grupos tradicionais. O currículo nacional, nessa perspectiva, aborda superficialmente essas comunidades, apresentando materiais escritos que se limitam a tratar de indígenas e de quilombolas. Assim, essa distorção leva a um processo de alienação frente à diversidade cultural brasileira.\n\nOutrossim, as persistentes agressões à integridade territorial dos povos da tradição do país agravam o atual cenário. Nesse contexto, é marcante na história nacional a afronta da expansão econômica diante de terras socialmente ocupadas. A década de 1970, por exemplo, destaca-se pela diminuição de áreas indígenas, em virtude da ampliação de fronteiras agrícolas, em meio às demandas da Revolução Verde. Posteriormente, a construção da hidrelétrica do Rio Xingu foi responsável pela perda de moradia de ribeirinhos. Desse modo, a continuidade desse processo reforça a subvalorização dessas organizações, na medida que são paulatinamente privadas de locais para se desenvolver.\n\nInfere-se, portanto, que o Brasil vivencia desafios para valorizar seus grupos tradicionais, tendo em vista as disfunções educacionais e a ampliação da economia. Isso posto, urge ao Governo Federal, mediado pelo Ministério da Educação, realizar mudança na BNCC, aumentando a abordagem sobre esses povos nas aulas de ciências humanas, de modo a especificá-los integralmente e versar sobre sua cultura. Ademais, cabe ao Ministério do Meio Ambiente realizar sólida demarcação de suas terras de vivência, de maneira a bloquear expansões de mercado que as ocupem, ocorrendo também o monitoramento militar. Assim, as medidas terão o fim de garantir o reconhecimento e o desenvolvimento dessas comunidades.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Redação 3 — LUIZ ANDRÉ LOMEU DE ALMEIDA",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "bc09a2e73617b86c",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "LUIZ ANDRÉ LOMEU DE ALMEIDA",
+  "essayId": "2023.essay.03",
+  "examYear": 2022,
+  "id": "2023.essay.03.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.03",
+  "pdfPages": [
+   33,
+   33
+  ],
+  "printedPages": [
+   "31",
+   "31"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O participante demonstra excelente domínio da modalidade escrita formal da língua portuguesa, com excelente estruturação sintática em um texto, com apenas um desvio de escrita, com o emprego de “na medida que” em vez de “à medida que”, em “Desse modo, a continuidade desse processo reforça a subvalorização dessas organizações, na medida que são paulatinamente privadas de locais para se desenvolver.”, no final do terceiro parágrafo.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 3 — LUIZ ANDRÉ LOMEU DE ALMEIDA (1/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "2664589a9927c804",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "LUIZ ANDRÉ LOMEU DE ALMEIDA",
+  "essayId": "2023.essay.03",
+  "examYear": 2022,
+  "id": "2023.essay.03.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.03",
+  "pdfPages": [
+   34,
+   34
+  ],
+  "printedPages": [
+   "32",
+   "32"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "No que se refere à estruturação do texto dissertativo-argumentativo, entende-se que o tema é abordado em sua totalidade no decorrer dos quatro parágrafos. No primeiro parágrafo, o participante expõe o problema: os grupos tradicionais estão desprotegidos no país, apesar do seu direito de “pleno reconhecimento legal e social”, concedido pela Constituição Federal de 1988. A causa apontada está no sistema educacional, por este não difundir integralmente sua cultura e os históricos ataques aos territórios das comunidades e povos tradicionais no Brasil. No segundo parágrafo, é especificado o desafio que o sistema educacional deverá enfrentar para que as populações tradicionais sejam devidamente valorizadas: a abordagem superficial dessas comunidades pela Base Nacional Comum Curricular (BNCC). O terceiro parágrafo traz fatos que aprofundam o problema: a ampliação de fronteiras agrícolas, “em meio às demandas da Revolução Verde” e, ainda, a construção da hidrelétrica do Rio Xingu, prejudicando a moradia dos ribeirinhos. O parágrafo final fecha o texto, propondo mudança na BNCC pelo Ministério da Educação, para ampliação da abordagem sobre esses povos, e o bloqueio de expansões de mercado, com monitoramento militar, a cargo do Ministério do Meio Ambiente.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 3 — LUIZ ANDRÉ LOMEU DE ALMEIDA (2/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "8f638de3a90560d9",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "LUIZ ANDRÉ LOMEU DE ALMEIDA",
+  "essayId": "2023.essay.03",
+  "examYear": 2022,
+  "id": "2023.essay.03.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.03",
+  "pdfPages": [
+   34,
+   34
+  ],
+  "printedPages": [
+   "32",
+   "32"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Percebe-se, ao longo da redação, a presença de um projeto de texto, com informações, fatos e opiniões relacionados ao tema proposto, em defesa do ponto de vista apresentado. Na introdução, o participante aponta o fato desencadeador do problema: os povos tradicionais, como “indígenas, ciganos, extrativistas e tantos outros grupos de tradição nacional sofrem ataques diários a sua existência”, apesar de a Constituição Federal de 1988 conceder o “direito ao pleno reconhecimento legal e social” a todos os povos no país. Para esse fato, segundo o texto, está em débito o sistema educacional, por não difundir integralmente sua cultura e os históricos ataques aos territórios das comunidades e povos tradicionais no Brasil. No segundo parágrafo, o texto aponta o desafio a ser enfrentado: a Lei de Diretrizes e Bases, ao instituir a Base Nacional Comum Curricular (BNCC), constitui “significativo entrave” que causa a desvalorização desses povos tradicionais, por “abordar superficialmente essas comunidades, apresentando materiais escritos que se limitam a tratar de indígenas e de quilombolas”, inferindo-se, então, que há muitas outras comunidades ancestrais não mostradas pelo currículo. No terceiro parágrafo, reforçando a subvalorização dessas comunidades, são apontados fatos agravantes ao problema: agressões ao território dos povos de tradição do país; diminuição de áreas indígenas, na década de 1970, decorrente da ampliação de fronteiras agrícolas, “em meio às demandas da Revolução Verde” e, ainda, a construção da hidrelétrica do Rio Xingu, responsável pela perda de moradia de ribeirinhos. No parágrafo final, apontando, como visto, as disfunções educacionais e a ampliação da economia como desafios para valorizar seus grupos tradicionais, o texto propõe a necessidade de mudança na BNCC pelo Ministério da Educação, ampliando a abordagem sobre esses povos nas aulas de ciências humanas, assim como o bloqueio de expansões de mercado pelo Ministério do Meio Ambiente, com “sólida demarcação de terras de vivência” e com monitoramento militar.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 3 — LUIZ ANDRÉ LOMEU DE ALMEIDA (3/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "c7e22a3d4d5a106e",
+  "competencies": [
+   "V",
+   "I",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "LUIZ ANDRÉ LOMEU DE ALMEIDA",
+  "essayId": "2023.essay.03",
+  "examYear": 2022,
+  "id": "2023.essay.03.comment.04",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.03",
+  "pdfPages": [
+   34,
+   34
+  ],
+  "printedPages": [
+   "32",
+   "32"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O texto apresenta continuidade temática e, além disso, o participante emprega, sem inadequações, um repertório variado de recursos coesivos, que articulam os argumentos, as partes do textos e as informações apresentadas, tanto no plano nominal, com o emprego de pronomes (“do que será estudado”, “materiais escritos que se limitam”, “que as ocupem”) e palavras ou expressões sinônimas (“desses segmentos da sociedade” por “comunidades e povos tradicionais”, “no país” e “da nação” por “Brasil”, “desse processo” por “ampliação de fronteiras agrícolas”), como no plano sequencial (“No entanto”, “uma vez que”, “na realidade”, “Assim”, “Isso posto”). Também utilizou os sinais de pontuação ligando palavras, orações e períodos complexos com pertinência e de modo correto.\n\nComo a prova pede proposta de intervenção, esse texto é finalizado com duas propostas que respeitam os direitos humanos, ambas descritas acima. Elas, como se nota, permeiam o texto e são decorrentes do desenvolvimento da argumentação. Essas propostas são detalhadas, mostram o quê e como devem ser realizadas, quem vai realizar o que foi proposto e qual será o efeito dessas ações de intervenção.\n\nConclui-se que o participante contemplou em o seu texto, integralmente e com excelência, todas as partes da proposta de redação.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 3 — LUIZ ANDRÉ LOMEU DE ALMEIDA (4/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "5664479549178748",
+  "commentChunkIds": [
+   "2023.essay.04.comment.01",
+   "2023.essay.04.comment.02",
+   "2023.essay.04.comment.03"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2023",
+  "essayAuthor": "LUÍS FELIPE ALVES PAIVA DE BRITO",
+  "essayId": "2023.essay.04",
+  "examYear": 2022,
+  "id": "2023.essay.04",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   35,
+   35
+  ],
+  "printedPages": [
+   "33",
+   "33"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O poeta modernista Oswald de Andrade relata, em “Erro de Português”, que, sob um dia de chuva, o índio foi vestido pelo português — uma denúncia à aculturação sofrida pelos povos indígenas com a chegada dos europeus ao território brasileiro. Paralelamente, no Brasil atual, há a manutenção de práticas prejudiciais não só aos silvícolas, mas também aos demais povos e comunidades tradicionais, como os pescadores. Com efeito, atuam como desafios para a valorização desses grupos a educação deficiente acerca do tema e a ausência do desenvolvimento sustentável.\n\nDiante desse cenário, existe a falta da promoção de um ensino eficiente sobre as populações tradicionais. Sob esse viés, as escolas, ao abordarem tais povos por meio de um ponto de vista histórico eurocêntrico, enraízam no imaginário estudantil a imagem de aborígenes cujas vivências são marcadas pela defasagem tecnológica. A exemplo disso, há o senso comum de que os indígenas são selvagens, alheios aos benefícios do mundo moderno, o que, consequentemente, gera um preconceito, manifestado em indagações como “o índio tem ‘smartphone’ e está lutando pela demarcação de terras?” — ideia essa que deslegitima a luta dos silvícolas. Entretanto, de acordo com a Teoria do Indigenato, defendida pelo ministro Edson Fachin, do Supremo Tribunal Federal, o direito dos povos originais à terra é inato, sendo anterior, até, à criação do Estado brasileiro. Dessa forma, por não ensinarem tal visão, os colégios fomentam a desvalorização das comunidades tradicionais, mediante o desenvolvimento de um pensamento discriminatório nos alunos.\n\nAlém disso, outro desafio para o reconhecimento desses indivíduos é a carência do progresso sustentável. Nesse contexto, as entidades mercadológicas que atuam nas áreas ocupadas pelas populações tradicionais não necessariamente se preocupam com a sua preservação, comportamento no qual se valoriza o lucro em detrimento da harmonia entre a natureza e as comunidades em questão. À luz disso, há o exemplo do que ocorre aos pescadores, cujos rios são contaminados devido ao garimpo ilegal, extremamente comum na Região Amazônica. Por conseguinte, o povo que sobrevive a partir dessa atividade é prejudicado pelo que a Biologia chama de magnificação trófica, quando metais pesados acumulam-se nos animais de uma cadeia alimentar — provocando a morte de peixes e a infecção de humanos por mercúrio. Assim, as indústrias que usam os recursos naturais de forma irresponsável não promovem o desenvolvimento sustentável e agem de maneira nociva às sociedades tradicionais.\n\nPortanto, é essencial que o governo mitigue os desafios supracitados. Para isso, o Ministério da Educação — órgão responsável pelo estabelecimento da grade curricular das escolas — deve educar os alunos a respeito dos empecilhos à preservação dos indígenas, por meio da inserção da matéria “Estudos Indigenistas” no ensino básico, a fim de explicar o contexto dos silvícolas e desconstruir o preconceito. Ademais, o Ministério do Desenvolvimento — pasta instituidora da Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais — precisa fiscalizar as atividades econômicas danosas às sociedades vulneráveis, visando à valorização de tais pessoas, mediante canais de denúncias.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Redação 4 — LUÍS FELIPE ALVES PAIVA DE BRITO",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "f8f91d9a7d4d8165",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "LUÍS FELIPE ALVES PAIVA DE BRITO",
+  "essayId": "2023.essay.04",
+  "examYear": 2022,
+  "id": "2023.essay.04.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.04",
+  "pdfPages": [
+   36,
+   36
+  ],
+  "printedPages": [
+   "34",
+   "34"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Com excelente domínio das convenções da escrita e de estruturação sintática dos períodos, o texto do participante apresenta apenas um desvio no terceiro parágrafo: pronome “se” indevidamente colocado em posição enclítica no trecho “quando metais pesados acumulam-se nos animais de uma cadeia alimentar”.\n\nCom repertório sociocultural produtivo e pertinente à discussão, o participante aborda de forma completa o tema, demonstrando, também, excelente domínio do texto dissertativo-argumentativo. No parágrafo introdutório, o participante já define o ponto de vista a ser defendido: são desafios para o tema da valorização dos grupos tradicionais no Brasil a educação deficiente acerca do tema e a ausência do desenvolvimento sustentável. O desenvolvimento do tema se dá no segundo parágrafo, abordando o ponto de vista eurocêntrico como gerador da imagem preconceituosa de um indígena selvagem e, no terceiro, focalizando o impacto irresponsável de entidades mercadológicas sobre as áreas ocupadas por essas comunidades. O texto fecha com as propostas para o Ministério da Educação, ao qual se atribui a responsabilidade de sanar o problema do preconceito, inserindo, na grade curricular do ensino básico, a matéria “Estudos Indigenistas”; e para o Ministério do Desenvolvimento, a tarefa de fiscalizar as atividades econômicas danosas às sociedades vulneráveis.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 4 — LUÍS FELIPE ALVES PAIVA DE BRITO (1/3)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "b1e3f75e52771dc8",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "LUÍS FELIPE ALVES PAIVA DE BRITO",
+  "essayId": "2023.essay.04",
+  "examYear": 2022,
+  "id": "2023.essay.04.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.04",
+  "pdfPages": [
+   36,
+   36
+  ],
+  "printedPages": [
+   "34",
+   "34"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Percebe-se, também, ao longo da redação, a presença de um projeto de texto, com informações, fatos e opiniões relacionados ao tema proposto, desenvolvidos de forma consistente e bem-organizados em defesa do ponto de vista. No primeiro parágrafo, os componentes do tema já se apresentam, a partir do poeta modernista Oswald de Andrade, que denuncia, em “Erro de Português”, a aculturação dos povos indígenas pelo colonizador europeu, a exemplo de práticas prejudiciais atuais que se mantêm e que são sofridas por silvícolas e também a outros povos tradicionais, como os pescadores. A educação deficiente acerca do tema e a ausência do desenvolvimento sustentável são colocadas como desafios para a valorização desses grupos tradicionais. A educação deficiente é retomada, no segundo parágrafo, para abordar, como um viés da escola, o ponto de vista histórico eurocêntrico, que gera a imagem preconceituosa de um indígena selvagem, alheio aos “benefícios do mundo moderno”, imagem que “deslegitima a luta dos silvícolas”, cujo direito à terra é inato,” anterior, até, à criação do Estado brasileiro”, segundo o Ministro Edson Fachin, do Supremo Tribunal Federal, citado no parágrafo. Além disso, no terceiro parágrafo, outro desafio que se coloca para a valorização desses povos é a “carência do progresso sustentável”. Nesse contexto, o texto afirma que as entidades mercadológicas atuantes nas áreas ocupadas pelas populações tradicionais não se preocupam necessariamente com a sua preservação, comportamento no qual se valoriza o lucro em detrimento da harmonia entre a natureza e as comunidades em questão. À luz disso, há o exemplo do que ocorre com os pescadores, os quais são afetados quando os rios são contaminados, devido ao garimpo ilegal, extremamente comum na Região Amazônica. Por conseguinte, o povo que sobrevive a partir dessa atividade é prejudicado pelo que a Biologia chama de magnificação trófica, quando metais pesados se acumulam nos animais, como os peixes, provocando sua morte e a infecção de humanos por mercúrio. Assim, as indústrias que usam os recursos naturais de forma irresponsável não promovem o desenvolvimento sustentável e agem de maneira nociva às sociedades tradicionais. O texto finaliza, no quarto parágrafo, com duas propostas voltadas para o enfrentamento dos desafios apresentados. Cabe ao Ministério da Educação, com sua função educativa, inserir, na grade curricular do ensino básico, a matéria “Estudos Indigenistas”, a fim de sanar o problema do preconceito que gera a desvalorização. E ao Ministério do Desenvolvimento cabe a tarefa de fiscalizar, por meio de canais de denúncias, as atividades econômicas danosas às sociedades vulneráveis.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 4 — LUÍS FELIPE ALVES PAIVA DE BRITO (2/3)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "e6e155f3e3a92ca3",
+  "competencies": [
+   "V",
+   "I",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "LUÍS FELIPE ALVES PAIVA DE BRITO",
+  "essayId": "2023.essay.04",
+  "examYear": 2022,
+  "id": "2023.essay.04.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.04",
+  "pdfPages": [
+   36,
+   37
+  ],
+  "printedPages": [
+   "34",
+   "35"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O texto apresenta continuidade temática e, além disso, o participante articula, sem inadequações, um repertório variado de recursos coesivos, que articulam os argumentos, as partes do textos e as informações apresentadas, tanto no plano nominal, com o emprego de pronomes (“cujos rios”, “ideia essa que”, “comportamento no qual se valoriza”, “desses grupos”) e palavras ou expressões sinônimas (“tais povos” por “populações tradicionais”, “tais pessoas” por “silvícolas”), como no sequencial (“paralelamente”, “não só ...\n\nmas também”, “Com efeito”, “Diante desse cenário”). Também utilizou, com pertinência e de modo correto, os sinais de pontuação ligando palavras, orações e períodos complexos.\n\nComo a prova pede proposta de intervenção, esse texto é finalizado com duas propostas que respeitam os direitos humanos, ambas descritas acima. Elas, como se nota, permeiam o texto e são decorrentes do desenvolvimento da argumentação. Essas propostas são detalhadas, mostram o quê e como devem ser realizadas, quem vai realizar o que foi proposto e qual será o efeito dessas ações de intervenção.\n\nConclui-se que o participante contemplou, em seu texto, integralmente e com excelência, todas as partes da proposta de redação.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 4 — LUÍS FELIPE ALVES PAIVA DE BRITO (3/3)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "73e5baa85b4ed65b",
+  "commentChunkIds": [
+   "2023.essay.05.comment.01",
+   "2023.essay.05.comment.02",
+   "2023.essay.05.comment.03"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2023",
+  "essayAuthor": "RODRIGO JUNQUEIRA SANTIAGO SIMÕES",
+  "essayId": "2023.essay.05",
+  "examYear": 2022,
+  "id": "2023.essay.05",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   38,
+   38
+  ],
+  "printedPages": [
+   "36",
+   "36"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "No livro “Ideias para Adiar o Fim do Mundo”, Ailton Krenak critica o distanciamento entre a população brasileira como um todo e a natureza, o que não se aplica às comunidades indígenas. Tal pensamento é extremamente atual, já que não só indígenas como todas as populações tradicionais têm uma relação de respeito mútuo com a natureza, aspectos que as diferenciam do resto dos brasileiros. Com isso, a agressão ao meio ambiente e o apagamento dos saberes ancestrais configuram desafios para a valorização de comunidades e povos tradicionais no Brasil.\n\nPrimeiramente, é preciso compreender como a agressão ao meio ambiente fere as comunidades tradicionais. Há séculos esses povos vêm construindo suas culturas com respeito à natureza, tratando-a de forma sustentável. Consequentemente, criou-se nesses grupos uma visão afetiva dos recursos naturais, que se tornaram base para a manutenção de uma identidade característica a cada uma dessas comunidades. No entanto, todos os biomas brasileiros estão sendo constantemente ameaçados, seja pela mineração, garimpo ilegal, desmatamento ou poluição, fatores que têm em comum a priorização de ganho financeiro em detrimento da preservação ambiental. Assim, parte da população coloca em risco o maior patrimônio dos povos tradicionais, a natureza, em busca de recursos naturais que trazem benefício restrito aos agressores, tornando o modo de vida dessas comunidades impraticável. Portanto, com base na importância do meio ambiente para as comunidades tradicionais, causar danos à natureza significa, também, causar danos aos povos em questão.\n\nAdemais, é de grande relevância entender como o apagamento dos saberes ancestrais leva à desvalorização das populações tradicionais. Devido à grande diversidade de povos tradicionais no Brasil, houve, em cada um deles, a criação de um conjunto de conhecimentos, pensamentos, filosofias e linguagens distintas, passado pelas gerações, ditando e mantendo vivo o modo de vida que caracteriza identitariamente cada grupo. Entretanto, essa bagagem epistêmica é muito pouco externalizada, pelo fato de que esses saberes são coletivizados apenas em esferas menores, de forma a manter a ancestralidade dos povos locais apenas entre si. Logo, todo conhecimento produzido nessa perspectiva é desconhecido do grande público, sendo pouco discutido e não fazendo parte da visão de mundo da maioria dos brasileiros. Dessa forma, os saberes dos povos tradicionais são desconsiderados, acarretando na desvalorização de todos esses grupos.\n\nEm síntese, o impacto causado ao meio ambiente e a desconsideração de seus saberes são grandes agentes na desvalorização das comunidades tradicionais. Por isso, cabe ao Ministério do Meio Ambiente proteger os biomas do país, através do endurecimento de punições contra crimes ambientais, com a finalidade de salvaguardar o meio de vida de diferentes povos, tornando possível a manutenção da diversidade cultural brasileira. Além disso, o Ministério da Educação deve promover a discussão sobre os conhecimentos das comunidades tradicionais, por meio da incorporação de conteúdos relacionados a esses povos na grade curricular das escolas, a fim de divulgar a visão de mundo desse grupo, fomentando uma convivência pacífica entre toda a população.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Redação 5 — RODRIGO JUNQUEIRA SANTIAGO SIMÕES",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "a39fa07ddb0a1a3b",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "RODRIGO JUNQUEIRA SANTIAGO SIMÕES",
+  "essayId": "2023.essay.05",
+  "examYear": 2022,
+  "id": "2023.essay.05.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.05",
+  "pdfPages": [
+   39,
+   39
+  ],
+  "printedPages": [
+   "37",
+   "37"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O participante demonstra ter domínio das convenções da escrita e da correta estruturação sintática dos períodos. O texto apresenta apenas uma inadequação vocabular, no primeiro parágrafo, imprópria na modalidade escrita formal da língua, com o uso do vocábulo “resto” (em vez de “restante”) no trecho “aspectos que as diferenciam do resto dos brasileiros”.\n\nO participante também revela ter domínio do texto dissertativo-argumentativo. Já no primeiro parágrafo, apresenta os elementos do tema de forma completa diante do ponto de vista que pretende defender: “a agressão ao meio ambiente e o apagamento dos saberes ancestrais configuram desafios para a valorização de comunidades e povos tradicionais no Brasil”. O desenvolvimento do texto se dá nos dois parágrafos seguintes. No segundo, trata-se da ameaça aos biomas brasileiros, e consequentemente, às populações ancestrais que habitam esses lugares, por meio de atividades ilegais, como a mineração, o garimpo e o desmatamento. No terceiro, o foco é o apagamento dos saberes ancestrais, partilhados apenas em esferas restritas ao próprio povo. O texto é finalizado com duas propostas de ações para o enfrentamento dos desafios: o endurecimento de punições, pelo Ministério do Meio Ambiente, contra crimes ambientais que afetam essas comunidades vulneráveis; e discussões promovidas pelo Ministério da Educação para divulgação dos saberes, da visão de mundo e dos conhecimentos das comunidades tradicionais.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 5 — RODRIGO JUNQUEIRA SANTIAGO SIMÕES (1/3)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "745641494e3b3e00",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "RODRIGO JUNQUEIRA SANTIAGO SIMÕES",
+  "essayId": "2023.essay.05",
+  "examYear": 2022,
+  "id": "2023.essay.05.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.05",
+  "pdfPages": [
+   39,
+   39
+  ],
+  "printedPages": [
+   "37",
+   "37"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Percebe-se, também, ao longo da redação, a presença de um projeto de texto, com informações, fatos e opiniões relacionados ao tema proposto, desenvolvidos de forma consistente e bem-organizados em defesa do ponto de vista. Inicialmente, o participante cita o livro “Ideias para Adiar o Fim do Mundo”, de Ailton Krenak, para afirmar que, ao contrário do que ocorre na população brasileira como um todo, as comunidades indígenas têm uma relação de respeito mútuo com a natureza. Por isso, a agressão ao meio ambiente e o apagamento dos saberes ancestrais, como afirma, “configuram desafios para a valorização de comunidades e povos tradicionais no Brasil”. O segundo parágrafo denuncia a priorização de ganho financeiro em detrimento da preservação ambiental por meio de mineração, garimpo ilegal, desmatamento ou poluição, o que ameaça os biomas brasileiros e coloca em risco a natureza, patrimônio dessas comunidades. Essa ideia é retomada e ampliada no terceiro parágrafo, cujo foco é a desvalorização das populações tradicionais com o apagamento dos saberes ancestrais coletivizados apenas em esferas menores; desconhecidos, portanto, do grande público. Como solução para esse desafio, o participante propõe o endurecimento de punições contra crimes ambientais pelo Ministério do Meio Ambiente, para proteger a natureza, salvaguardar o meio de vida de diferentes povos, assim como a discussão, pelo Ministério da Educação, dos saberes e da visão de mundo e dos conhecimentos das comunidades tradicionais.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 5 — RODRIGO JUNQUEIRA SANTIAGO SIMÕES (2/3)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "25e5752062b1669e",
+  "competencies": [
+   "V",
+   "I",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "RODRIGO JUNQUEIRA SANTIAGO SIMÕES",
+  "essayId": "2023.essay.05",
+  "examYear": 2022,
+  "id": "2023.essay.05.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.05",
+  "pdfPages": [
+   39,
+   39
+  ],
+  "printedPages": [
+   "37",
+   "37"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O texto apresenta continuidade temática e, além disso, o participante apresenta, sem inadequações, um repertório variado de recursos coesivos, que articulam argumentos, partes do textos e as informações apresentadas, tanto no plano nominal, com o emprego de pronomes (“Tal pensamento”, “que as diferenciam”, “suas culturas”, “seus saberes”) e palavras ou expressões sinônimas (“nesses grupos” e “esses povos” por “comunidades e povos tradicionais”), quanto no sequencial (“seja pela [...] ou poluição”, “Assim”, “Portanto”, “Em síntese”), assim como no emprego adequado e correto dos sinais de pontuação ligando palavras, orações e períodos complexos.\n\nComo a prova pede proposta de intervenção que respeite os direitos humanos, esse texto é finalizado com duas propostas que cumprem esse requisito, ambas descritas anteriormente. Elas, como se nota, permeiam o texto e são decorrentes do desenvolvimento da argumentação. Essas propostas são detalhadas, mostram o quê e como devem ser realizadas, quem vai realizar o que foi proposto e qual será o efeito dessas ações de intervenção.\n\nConclui-se que o participante contemplou em seu texto, integralmente e com excelência, todas a partes da proposta de redação.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 5 — RODRIGO JUNQUEIRA SANTIAGO SIMÕES (3/3)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "63b9a7713cfd08dd",
+  "commentChunkIds": [
+   "2023.essay.06.comment.01",
+   "2023.essay.06.comment.02",
+   "2023.essay.06.comment.03"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2023",
+  "essayAuthor": "LUIZ HENRIQUE NOGUEIRA DOS SANTOS",
+  "essayId": "2023.essay.06",
+  "examYear": 2022,
+  "id": "2023.essay.06",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   40,
+   40
+  ],
+  "printedPages": [
+   "38",
+   "38"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Segundo a Organização das Nações Unidas (ONU), a parceria para a garantia do desenvolvimento sustentável é uma das dezessete metas do programa “Agenda 2030”. Nesse viés, urge a problemática dos desafios para a valorização de comunidades tradicionais no Brasil, visto que estas são fundamentais para a manutenção benéfica dos ecossistemas e promovem a sua conservação e preservação. Desse modo, é válido afirmar que a fiscalização inadequada de práticas ambientais ilegais e a baixa efetividade de políticas públicas destinadas aos povos supracitados são responsáveis pela perpetuação do problema.\n\nConvém ressaltar, mormente, que o monitoramento insuficiente de ações ilícitas prejudiciais ao meio ambiente, como o desmatamento e as queimadas, interfere negativamente no cotidiano de populações tradicionais. Nesse sentido, a série “Aruanas” aborda as dificuldades enfrentadas por mulheres que lutam contra esquemas criminosos na Amazônia e que tentam assegurar a segurança e a sobrevida das comunidades inseridas nesse meio. Fora da ficção, esse cenário retratado reflete uma realidade marcada pela impunidade e insegurança, reforçadas pela inércia estatal no combate e na punição dos criminosos. Logo, os diversos povos ligados à natureza ficam vulneráveis, o que reverbera o descaso governamental com as suas garantias individuais e coletivas.\n\nAdemais, as políticas promovidas pelo poder público para sanar problemas que ameaçam a segurança e a permanência de saberes culturais tradicionais carecem de plena eficiência. Nesse contexto, a Constituição Federal de 1988 estabeleceu a demarcação de terras para os quilombolas, representando um marco institucional na consolidação dos seus direitos. No entanto, as ações previstas encontram barreiras na sua execução relacionadas aos interesses financeiros, à corrupção no sistema e aos métodos obsoletos de promoção da proteção social coletiva. Em suma, é imprescindível que as autoridades competentes tomem as medidas necessárias para solucionar a problemática.\n\nPortanto, a valorização de populações tradicionais brasileiras é dificultada por fatores administrativos e sociais. Então, o Ministério do Meio Ambiente deve criar um programa de combate às práticas ilegais nos ecossistemas, mediante o enrijecimento de punições e o fortalecimento da fiscalização, visando reduzir a impunidade. Além disso, o Ministério da Cidadania deve realizar ações que promovam a segurança das comunidades, através de incentivo à demarcação dos territórios e à atualização da legislação vigente, com o objetivo de diminuir a violência e garantir a continuidade dos conhecimentos socioculturais. Assim, com essas atitudes, os povos tradicionais serão valorizados no Brasil.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Redação 6 — LUIZ HENRIQUE NOGUEIRA DOS SANTOS",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "6465eac090bed7aa",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "LUIZ HENRIQUE NOGUEIRA DOS SANTOS",
+  "essayId": "2023.essay.06",
+  "examYear": 2022,
+  "id": "2023.essay.06.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.06",
+  "pdfPages": [
+   41,
+   41
+  ],
+  "printedPages": [
+   "39",
+   "39"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O participante demonstra excelente domínio da modalidade escrita formal da língua portuguesa, com estrutura sintática excelente em um texto sem desvios de escrita.\n\nO participante também revela ter domínio do texto dissertativo-argumentativo. Inicia o texto expondo que a fiscalização inadequada de práticas ambientais ilegais e a baixa efetividade de políticas públicas destinadas aos povos ancestrais são desafios para a valorização de comunidades tradicionais no Brasil, as quais preservam os ecossistemas e promovem sua conservação. No segundo parágrafo, denuncia a inércia estatal no combate e na punição de ações ilícitas prejudiciais ao meio ambiente na Amazônia, com fundamento nas dificuldades enfrentadas por mulheres que lutam contra esquemas criminosos. No terceiro parágrafo, aborda interesses financeiros, corrupção no sistema e métodos obsoletos que impedem a divulgação dos saberes culturais tradicionais e a demarcação de terras onde esses povos habitam. No quarto parágrafo, propõe ações para a resolução do problema, atribuindo tais atitudes propostas ao Ministério do Meio Ambiente e ao Ministério da Cidadania, como os agentes responsáveis pelo enfrentamento dos desafios para a valorização dos povos tradicionais.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 6 — LUIZ HENRIQUE NOGUEIRA DOS SANTOS (1/3)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "70d0b6422c1461f5",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "LUIZ HENRIQUE NOGUEIRA DOS SANTOS",
+  "essayId": "2023.essay.06",
+  "examYear": 2022,
+  "id": "2023.essay.06.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.06",
+  "pdfPages": [
+   41,
+   41
+  ],
+  "printedPages": [
+   "39",
+   "39"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Percebe-se, também, que o participante elaborou um projeto de texto, que desenvolveu com informações, fatos e opiniões relacionados ao tema proposto de forma consistente e bem-organizados em defesa do ponto de vista planejado. O tema é desenvolvido defendendo a valorização dos povos tradicionais por meio da gestão de fatores administrativos e sociais, com a proposta de combate às práticas ilegais nos ecossistemas, promovendo a segurança das comunidades e garantindo a continuidade dos conhecimentos socioculturais. No primeiro parágrafo levanta a problemática dos desafios para a valorização de comunidades tradicionais no Brasil apoiando-se na parceria para a garantia do desenvolvimento sustentável defendida na Organização das Nações Unidas (ONU) como uma das metas do programa “Agenda 2030”. No segundo parágrafo, citando a série “Aruanas”, aborda as dificuldades enfrentadas por mulheres que lutam contra esquemas criminosos na Amazônia para ressaltar a inércia estatal no combate e na punição de ações ilícitas prejudiciais ao meio ambiente, como o desmatamento e as queimadas, que prejudicam o cotidiano das populações tradicionais, mantendo-as vulneráveis. No terceiro parágrafo, destaca as barreiras impostas por interesses financeiros, corrupção no sistema e métodos obsoletos de políticas planejadas para garantir os saberes culturais tradicionais e a demarcação de terras para os quilombolas estabelecida pela Constituição Federal de 1988. No quarto parágrafo, finaliza propondo que o Ministério do Meio Ambiente promova o enrijecimento de punições e o fortalecimento da fiscalização das práticas ilegais nos ecossistemas e que o Ministério da Cidadania garanta a continuidade dos conhecimentos socioculturais com o incentivo à demarcação dos territórios e à atualização da legislação vigente.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 6 — LUIZ HENRIQUE NOGUEIRA DOS SANTOS (2/3)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "15acc52486dc24c1",
+  "competencies": [
+   "V",
+   "I",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "LUIZ HENRIQUE NOGUEIRA DOS SANTOS",
+  "essayId": "2023.essay.06",
+  "examYear": 2022,
+  "id": "2023.essay.06.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.06",
+  "pdfPages": [
+   41,
+   41
+  ],
+  "printedPages": [
+   "39",
+   "39"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O texto apresenta continuidade temática e, além disso, o participante articula, sem inadequações, um repertório variado de recursos coesivos, que articulam os argumentos, as partes do textos e as informações apresentadas, tanto no plano nominal, com o emprego de pronomes (“sua conservação”, “mulheres que lutam”, “as suas garantias”) e palavras ou expressões sinônimas (“estas” por “comunidades tradicionais no Brasil”), quanto no sequencial (“o que reverbera”, “visto que”, “como o desmatamento”, “Nesse sentido,”, “Logo, ...”, “Em suma”). Também utilizou, com pertinência e de modo correto, os sinais de pontuação, ligando palavras, orações e períodos complexos.\n\nComo a prova pede proposta de intervenção, esse texto é finalizado com duas propostas que respeitam os direitos humanos, ambas descritas acima. Elas, como se nota, permeiam o texto e são decorrentes do desenvolvimento da argumentação. Essas propostas são detalhadas, mostram o quê e como devem ser realizadas, quem vai realizar o que foi proposto e qual será o efeito dessas ações de intervenção.\n\nConclui-se que o participante contemplou em o seu texto, integralmente e com excelência, todas as partes da proposta de redação.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 6 — LUIZ HENRIQUE NOGUEIRA DOS SANTOS (3/3)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "e33bd4c5c2bb4bba",
+  "commentChunkIds": [
+   "2023.essay.07.comment.01",
+   "2023.essay.07.comment.02",
+   "2023.essay.07.comment.03",
+   "2023.essay.07.comment.04"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2023",
+  "essayAuthor": "ZECK FERREIRA GOMES",
+  "essayId": "2023.essay.07",
+  "examYear": 2022,
+  "id": "2023.essay.07",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   42,
+   42
+  ],
+  "printedPages": [
+   "40",
+   "40"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Na música “Imagine”, de John Lennon, é retratada uma sociedade que se une, apesar das diferenças culturais, a fim de alcançar a felicidade. Assim como na obra, fora da canção, a harmonia social é imprescindível para o desenvolvimento de uma nação. Contudo, no Brasil, desafios como a negligência estatal, somada à presença de um ideário colonial no pensamento coletivo, prejudicam a valorização das comunidades e dos povos tradicionais, impedindo a concretização dessa união. Desse modo, torna-se fundamental a atuação do Estado para solucionar esse óbice.\n\nDiante disso, é válido analisar, primeiramente, a improficuidade estatal perante o cumprimento dos benefícios normativos. Nesse sentido, segundo a Constituição Federal de 1988, todo cidadão brasileiro possui o direito à educação, cabendo ao Estado a sua efetivação no corpo social. Todavia, percebe-se, na realidade, que esse preceito não é difundido por completo, haja vista que, em virtude da escassa mobilização governamental referente à promoção de campanhas educacionais sobre as distintas comunidades tradicionais que residem no Brasil, diversas pessoas desconhecem a importância desses povos para a nação, a exemplo da utilização do conhecimento indígena para a preservação das florestas nativas, o que contribui para a desvalorização dessa população na atualidade. Logo, conclui-se que as autoridades públicas devem promover ações sensibilizadoras para reverter essa conjuntura.\n\nAdemais, é imperioso postular como a perpetuação de um pensamento retrógrado afeta a sociedade tradicional. Nesse contexto, durante a colonização do Brasil, houve um processo de imposição da cultura eurocêntrica dos colonos nas comunidades colonizadas, ocasionando uma desvalorização dos povos tradicionais. Tendo isso em vista, observa-se, na contemporaneidade, a existência desse fenômeno, dado que persiste a exaltação de uma cultura globalizada em detrimento dos costumes das comunidades originárias, o que gera, por consequência, o apagamento de diversos hábitos tradicionais, como a mudança da vestimenta utilizada por algumas tribos indígenas, destacando a adaptação à cultura hegemônica. Dessa forma, faz-se essencial a criação de projetos governamentais que combatam esse pensamento antigo.\n\nEvidencia-se, portanto, que atitudes são necessárias, com o fito de extinguir os desafios para valorização das comunidades e dos povos tradicionais no Brasil. Posto isso, o Estado deve, por meio do Ministério da Educação — órgão federal detentor do papel educacional da nação —, realizar parcerias com os meios de comunicação existentes, a exemplo dos canais televisivos, com a finalidade de divulgar informações acerca da importância das distintas populações que residem no país, elucidando os brasileiros e eliminando a mentalidade colonial da sociedade. Somente assim, diferentes povos serão valorizados e a harmonia cantada por Lennon se concretizará no Brasil.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Redação 7 — ZECK FERREIRA GOMES",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "dfd77b805e3bfb77",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "ZECK FERREIRA GOMES",
+  "essayId": "2023.essay.07",
+  "examYear": 2022,
+  "id": "2023.essay.07.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.07",
+  "pdfPages": [
+   43,
+   43
+  ],
+  "printedPages": [
+   "41",
+   "41"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O participante demonstra excelente domínio da modalidade escrita formal da língua portuguesa. A redação é caracterizada pelo excelente domínio das estruturas sintáticas, sem desvios da norma.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 7 — ZECK FERREIRA GOMES (1/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "ea6591e4ca25a07f",
+  "competencies": [
+   "V",
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "ZECK FERREIRA GOMES",
+  "essayId": "2023.essay.07",
+  "examYear": 2022,
+  "id": "2023.essay.07.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.07",
+  "pdfPages": [
+   43,
+   43
+  ],
+  "printedPages": [
+   "41",
+   "41"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O participante demonstra também excelente domínio do texto dissertativo-argumentativo. O tema é desenvolvido por meio da defesa de que a harmonia aspirada como ideal de felicidade é ameaçada pela negligência com os povos e comunidades tradicionais, decorrente de um ideário colonial. No primeiro parágrafo, a correlação entre harmonia e felicidade é introduzida pela citação à canção “Imagine”, de John Lennon, contrapondo-se a esse ideal da sociedade o abandono que o Estado faz das comunidades e povos tradicionais, associado à permanência da colonialidade. No segundo parágrafo, o participante indica o descumprimento dos preceitos constitucionais, caracterizando a negligência do Estado no seu papel de valorizar e proteger as comunidades tradicionais. No terceiro parágrafo, destaca-se a perpetuação do colonialismo no fenômeno da globalização, que também contribui para o apagamento das culturas tradicionais. Por fim, no último parágrafo, o participante elabora proposta de intervenção no campo da educação para transformar o imaginário sobre os povos e comunidade tradicionais. Assim, partindo da imagem de uma canção popular e fundamentada em referências históricas e na legislação nacional, a redação demonstra, além do excelente domínio do texto dissertativo-argumentativo, a abordagem completa do tema, com uso de repertório sociocultural produtivo.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 7 — ZECK FERREIRA GOMES (2/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "d21846b614e4aad9",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "ZECK FERREIRA GOMES",
+  "essayId": "2023.essay.07",
+  "examYear": 2022,
+  "id": "2023.essay.07.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.07",
+  "pdfPages": [
+   43,
+   43
+  ],
+  "printedPages": [
+   "41",
+   "41"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O projeto de texto demonstra ser eficiente na articulação de informações, fatos e opiniões ao tema proposto, desenvolvido de forma consistente e bem-organizada em defesa do ponto de vista. Primeiramente, o participante apresenta seu pressuposto: a busca pela harmonia e pela felicidade que seria gerada com a união em um contexto de pluralidade cultural. A solução para essa forma ideal de convivência é defendida como responsabilidade do Estado, que é parte do problema por negligenciar os povos e comunidades tradicionais, historicamente, em um contexto colonial, pouco valorizados. O segundo parágrafo explora a responsabilidade do Estado, devido aos preceitos presentes na Constituição Federal, que prevê o direito à educação. A falha estaria na negligência com um projeto de educação que abrangesse as culturas dos povos tradicionais, como os indígenas. O terceiro parágrafo defende que o eurocentrismo, como parte do projeto colonial, também contribuiu para a desvalorização dos povos tradicionais. Acrescenta ainda ao argumento o fato de a globalização atual poder contribuir para o apagamento dessas culturas. Por fim, no parágrafo final, o participante conclui com a proposta de que a educação seja um instrumento de transformação da mentalidade colonial.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 7 — ZECK FERREIRA GOMES (3/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "698aea84457bd5fc",
+  "competencies": [
+   "IV",
+   "I"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "ZECK FERREIRA GOMES",
+  "essayId": "2023.essay.07",
+  "examYear": 2022,
+  "id": "2023.essay.07.comment.04",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.07",
+  "pdfPages": [
+   43,
+   43
+  ],
+  "printedPages": [
+   "41",
+   "41"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "A coesão do texto é garantida não só pela continuidade temática, mas também pelo emprego de um repertório diversificado de recursos coesivos, sem inadequações. No plano nominal, há o emprego de pronomes (“o que”, “isso”) e palavras e expressões sinônimas ou equivalentes (“obra”, “esse óbice”, “dado”). No plano sequencial, há o emprego de marcadores argumentativos e conectivos (“Assim”, “Diante disso”, “por consequência”). Também utilizou os sinais de pontuação ligando palavras, orações e períodos complexos com pertinência e de modo correto.\n\nPor fim, a proposta elaborada pelo participante é muito boa: completa, detalhada e está articulada à discussão desenvolvida no texto. A proposta apresenta uma ação: divulgação de informações sobre as comunidades e povos tradicionais, a fim de se transformar a mentalidade colonial da sociedade, por meio de campanhas, nos meios de comunicação, coordenadas pelo Ministério da Educação, para, assim, alcançar a harmonia na diferença, da qual tratou na introdução do texto.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 7 — ZECK FERREIRA GOMES (4/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "9003fe32297af0fd",
+  "commentChunkIds": [
+   "2023.essay.08.comment.01",
+   "2023.essay.08.comment.02",
+   "2023.essay.08.comment.03",
+   "2023.essay.08.comment.04"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2023",
+  "essayAuthor": "JULIANA MOREAU DE ALMEIDA SOARES",
+  "essayId": "2023.essay.08",
+  "examYear": 2022,
+  "id": "2023.essay.08",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   44,
+   44
+  ],
+  "printedPages": [
+   "42",
+   "42"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Declarado patrimônio imaterial brasileiro, o ofício das quebradeiras de coco é exemplo da preservação de conhecimentos populares que marcam a cultura, a economia e as relações interpessoais dos povos envolvidos. Similarmente, muitos outros grupos tradicionais possuem saberes de extrema importância e, no entanto, não recebem o respeito merecido, o que cria uma urgente necessidade de promover a valorização dessas comunidades. Nesse contexto, é válido analisar como a negligência estatal e a existência de uma visão capitalizada da natureza representam desafios para a resolução de tal problemática.\n\nDiante desse cenário, nota-se a inoperância governamental como fator agravante do descaso em relação às culturas tradicionais. Para a pensadora contemporânea Djamilla Ribeiro, é preciso tirar as situações da invisibilidade para que soluções sejam encontradas, perspectiva que demonstra a falha cometida pelo Estado, uma vez que existe uma forte carência de conscientização popular sobre o assunto – causada pelo baixo estímulo governamental a essas discussões, tanto nas salas de aula quanto no âmbito político. Nesse sentido, fica evidente que, por não dar notoriedade à luta desses povos, o governo permite o esquecimento e a minimização de seus costumes, o que gera não somente a massiva perda cultural de um legado cultivado por gerações, mas também o prejuízo da desestruturação econômica de locais baseados nessas técnicas.\n\nAdemais, percebe-se a influência de uma ideologia que mercantiliza o ambiente na manutenção de tal entrave. “Para a ganância, toda natureza é insuficiente” – a frase, do filósofo Sêneca, critica uma concepção recorrente na atual conjuntura brasileira, segundo a qual o meioambiente é visto como um objeto para o lucro humano. Logicamente, tal visão mercadológica se choca com o modo de vida experienciado pelos povos tradicionais, que vivenciam um relacionamento respeitoso e recíproco com o ecossistema, fazendo uso de seus recursos sem fins exploratórios. Por conseguinte, as comunidades que vivem dessa intimidade com a natureza são altamente reprimidas pelas classes que se beneficiam do uso capitalizado e desigual do meio natural, como grandes empresas pecuaristas, que lucram da concentração de terras e do monopólio comercial, o que exclui — ainda mais — a população originária e resulta no declínio de sua cultura.\n\nPortanto, cabe ao Estado — em sua função de promotor do bem-estar social — estabelecer uma ampla fiscalização do uso comercial do meio-ambiente em áreas com maior volume de povos tradicionais, mediante a criação de mais delegacias especializadas no setor ambiental, a fim de garantir a preservação do estilo de vida desses indivíduos. Outrossim, é dever do Governo Federal organizar uma campanha de valorização de tais grupos, por meio da divulgação de informativos em redes sociais e da realização de palestras em escolas, de modo a enfatizar a contribuição socioambiental desses cidadãos, para, assim, conscientizar a população e possibilitar a exaltação das culturas tradicionais brasileiras.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Redação 8 — JULIANA MOREAU DE ALMEIDA SOARES",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "b68af88574199068",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "JULIANA MOREAU DE ALMEIDA SOARES",
+  "essayId": "2023.essay.08",
+  "examYear": 2022,
+  "id": "2023.essay.08.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.08",
+  "pdfPages": [
+   45,
+   45
+  ],
+  "printedPages": [
+   "43",
+   "43"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "A participante demonstra excelente domínio da modalidade escrita formal da língua portuguesa. A redação é caracterizada pelo excelente domínio das estruturas sintáticas e contém desvios pontuais, dentro do limite admitido pela banca, como o uso do hífen na expressão meio ambiente.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 8 — JULIANA MOREAU DE ALMEIDA SOARES (1/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "33563ab634b85fba",
+  "competencies": [
+   "V",
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "JULIANA MOREAU DE ALMEIDA SOARES",
+  "essayId": "2023.essay.08",
+  "examYear": 2022,
+  "id": "2023.essay.08.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.08",
+  "pdfPages": [
+   45,
+   45
+  ],
+  "printedPages": [
+   "43",
+   "43"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "A participante demonstra igualmente excelente domínio do texto dissertativo-argumentativo. O tema é desenvolvido por meio da defesa da necessidade de se promover a valorização de comunidades e povos tradicionais, reconhecendo seu papel em um projeto de desenvolvimento sustentável, e, ao mesmo tempo, constatando que há negligência no modo como o Estado e a sociedade civil lidam com essas populações, problema para o qual se elabora uma proposta. Na introdução, a importância da preservação dos saberes tradicionais é exemplificada com a comunidade das quebradeiras de coco e contrastada com a negligência do Estado e a exploração comercial da natureza. No segundo parágrafo, a participante destaca a invisibilidade das comunidades e povos tradicionais e destaca, a partir do pensamento de Djamila Ribeiro, a necessidade de se agir de forma concreta para tirá-los dessa situação, com ênfase na responsabilidade do governo nesse processo. No terceiro parágrafo, coloca-se em relevo o conflito entre os modos de vida das comunidades e povos tradicionais, respeitoso com o meio ambiente, o que a participante relaciona à citação do filósofo Sêneca, e a exploração predatória feita por grandes empresas. Por fim, no último parágrafo, a participante elabora proposta de intervenção para solucionar o problema por meio do fortalecimento das comunidades. Assim, mobilizando exemplos concretos, como o das quebradeiras de coco, bem como recorrendo a citações de filósofos, como Sêneca e Djamila Ribeiro, a redação demonstra, além do excelente domínio do texto dissertativo-argumentativo, a abordagem completa do tema com uso de repertório sociocultural produtivo.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 8 — JULIANA MOREAU DE ALMEIDA SOARES (2/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "c2c59ccaa55b2714",
+  "competencies": [
+   "IV",
+   "I",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "JULIANA MOREAU DE ALMEIDA SOARES",
+  "essayId": "2023.essay.08",
+  "examYear": 2022,
+  "id": "2023.essay.08.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.08",
+  "pdfPages": [
+   45,
+   45
+  ],
+  "printedPages": [
+   "43",
+   "43"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Percebe-se, também, ao longo da redação, a presença de um projeto de texto, com informações, fatos e opiniões relacionados ao tema proposto, desenvolvidos de forma consistente e bem-organizados em defesa do ponto de vista. Primeiramente, a participante se posiciona reafirmando a importância e a necessidade da preservação dos saberes das comunidades e povos tradicionais, ao mesmo tempo em que acusa negligência do Estado e da sociedade nessa proteção. O segundo parágrafo retoma o problema da negligência quanto à proteção, associando-o à invisibilidade que tem origem na omissão do Estado no seu papel de conscientizar e promover a valorização dos saberes tradicionais. O terceiro parágrafo, por sua vez, recupera a ideia de que a sociedade, por meio das grandes empresas pecuaristas, entra em confronto com os modos de vida das comunidades e povos tradicionais, contribuindo para o seu apagamento e para colocá- los em risco. No parágrafo final, a participante conclui que só uma efetiva ação do Estado, para punir ações criminosas que representem risco às comunidades e para conscientizar a sociedade em geral para a importância dos povos tradicionais, poderá lhes dar proteção e visibilidade. Desse modo, a seleção e a articulação dos argumentos garantem ao texto um projeto coerente e autoral. Quanto à coesão, além da continuidade temática, observa-se, nessa redação, um repertório diversificado de recursos coesivos, sem inadequações. No plano nominal, há o emprego de pronomes (“o que”, “seus”) e palavras e expressões sinônimas ou equivalentes (“povos envolvidos”, “dessas comunidades”, “desses cidadãos”, “seus costumes”, “nessas técnicas”). No plano sequencial, há o emprego de marcadores argumentativos e conectivos entre (“Diante desse cenário”, “Ademais”, “Portanto”, “Similarmente”, “nesse contexto”, “No entanto”, “para”, “assim”). Também utilizou os sinais de pontuação ligando palavras, orações e períodos complexos com pertinência e de modo correto.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 8 — JULIANA MOREAU DE ALMEIDA SOARES (3/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "86e888ce328f9c2a",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "JULIANA MOREAU DE ALMEIDA SOARES",
+  "essayId": "2023.essay.08",
+  "examYear": 2022,
+  "id": "2023.essay.08.comment.04",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.08",
+  "pdfPages": [
+   45,
+   45
+  ],
+  "printedPages": [
+   "43",
+   "43"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Por fim, a participante elabora proposta de intervenção muito boa: concreta, detalhada, articulada à discussão desenvolvida no texto e que respeita os direitos humanos. A proposta apresentada sugere duas ações: maior fiscalização no setor ambiental, por meio de criação de delegacias especializadas, e campanhas de conscientização para promover a valorização das comunidades e povos tradicionais e seus saberes.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 8 — JULIANA MOREAU DE ALMEIDA SOARES (4/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "e38bac9f94203e12",
+  "commentChunkIds": [
+   "2023.essay.09.comment.01",
+   "2023.essay.09.comment.02",
+   "2023.essay.09.comment.03",
+   "2023.essay.09.comment.04"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2023",
+  "essayAuthor": "MARIA FERNANDA SIMIONATO DE LEMES",
+  "essayId": "2023.essay.09",
+  "examYear": 2022,
+  "id": "2023.essay.09",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   46,
+   46
+  ],
+  "printedPages": [
+   "44",
+   "44"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Historicamente, a partir da implementação das missões jesuíticas no Brasil colonial, os povos nativos tiveram suas tradições suprimidas e o seu conhecimento acerca das peculiaridades territoriais menosprezado. Na contemporaneidade, a importância dessas populações configura um fator indispensável à compreensão da diversidade étnica do nosso país. Contudo, ainda persistem desafios à valorização dessas comunidades, o que interfere na preservação de seus saberes. Logo, urgem medidas estatais que promovam melhorias nesse cenário.\n\nSob esse viés, é válido destacar a fundamentalidade dos povos tradicionais como detentores de uma pluralidade histórica e cultural, que proporciona a disseminação de uma vasta sabedoria na sociedade. Nesse sentido, o Instituto de Patrimônio Histórico e Artístico Nacional (IPHAN) afirma as heranças tradicionais desses grupos como constituintes do patrimônio imaterial brasileiro. Dessa forma, sabe-se que a contribuição desses indivíduos para a formação intelectual do corpo social engloba práticas de sustentabilidade, agricultura familiar e, inclusive, confere a eles uma participação efetiva na economia do país. Assim, evidencia-se a extrema relevância dessas comunidades para a manutenção de conhecimentos diferenciados, bem como para a evolução da coletividade.\n\nEntretanto, a falta de representantes políticos eleitos para essa classe ocasiona a desvalorização das suas necessidades sociais, que não são atendidas pelos demais legisladores. Nesse contexto, a Constituição Federal assegura direitos inalienáveis a todos os cidadãos brasileiros, abordando o dever de inclusão de povos tradicionais nas decisões públicas. Desse modo, compreende-se que a existência de obstáculos para o reconhecimento da importância de populações nativas se relaciona à ineficácia na incorporação de representantes que sejam, de fato, interessados na perpetuação de saberes e técnica ancestrais propagados por esses grupos. Sendo assim, comprova-se a ocorrência de um grave problema no âmbito coletivo, o qual impede a garantia plena dos direitos básicos dessas pessoas.\n\nDiante do exposto, denota-se a urgência de propostas governamentais que alterem esse quadro. Portanto, cabe ao Estado — cuja função principal é a proteção dos direitos de seus cidadãos — a implantação de mudanças no sistema eleitoral, por meio de criação de cotas rígidas para eleição de políticos oriundos de localidades nativas. Tal reestruturação terá como finalidade a valorização de povos tradicionais, reconhecendo a sua fundamentalidade na composição histórica e cultural da sociedade brasileira.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Redação 9 — MARIA FERNANDA SIMIONATO DE LEMES",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "30efb1ea76362135",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "MARIA FERNANDA SIMIONATO DE LEMES",
+  "essayId": "2023.essay.09",
+  "examYear": 2022,
+  "id": "2023.essay.09.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.09",
+  "pdfPages": [
+   46,
+   46
+  ],
+  "printedPages": [
+   "44",
+   "44"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "A participante demonstra excelente domínio da modalidade escrita formal da língua portuguesa. A redação é caracterizada pelo excelente domínio das estruturas sintáticas, sem desvios da norma.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 9 — MARIA FERNANDA SIMIONATO DE LEMES (1/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "d5b4ffd428ed20a2",
+  "competencies": [
+   "V",
+   "I",
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "MARIA FERNANDA SIMIONATO DE LEMES",
+  "essayId": "2023.essay.09",
+  "examYear": 2022,
+  "id": "2023.essay.09.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.09",
+  "pdfPages": [
+   46,
+   47
+  ],
+  "printedPages": [
+   "44",
+   "45"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "A participante demonstra igualmente excelente domínio do texto dissertativo-argumentativo. O tema é desenvolvido por meio da defesa da importância do reconhecimento, por parte do Estado, da importância dos saberes dos povos nativos para a compreensão da diversidade étnica que constitui o Brasil. Na introdução, é citado o histórico desprezo pelos conhecimentos dos indígenas sobre o território, desde o período colonial, para se constatar que o reconhecimento de sua importância requer uma mudança de postura do Estado. No segundo parágrafo, a participante cita o papel do IPHAN no reconhecimento da relevância das heranças dos grupos tradicionais do ponto de vista cultural e econômico, devido aos saberes sobre o cultivo da terra e à preservação do meio ambiente. No terceiro parágrafo, introduz-se um desdobramento da argumentação anterior, quando a participante aponta a falta de representação política de cidadãos das comunidades tradicionais, que poderiam defender seus pontos de vista institucionalmente. Por fim, no último parágrafo, a participante elabora proposta de intervenção relacionada a uma reforma política que amplie a participação dessas comunidades na esfera pública institucional. Desse modo, com referência ao arcabouço científico e legal brasileiro, bem como a fatos históricos, a redação demonstra, além do excelente domínio do texto dissertativo-argumentativo, a abordagem completa do tema com uso de repertório sociocultural produtivo.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 9 — MARIA FERNANDA SIMIONATO DE LEMES (2/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "508aea9f5443c96e",
+  "competencies": [
+   "III",
+   "V"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "MARIA FERNANDA SIMIONATO DE LEMES",
+  "essayId": "2023.essay.09",
+  "examYear": 2022,
+  "id": "2023.essay.09.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.09",
+  "pdfPages": [
+   47,
+   47
+  ],
+  "printedPages": [
+   "45",
+   "45"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Percebe-se, também, ao longo da redação, a presença de um projeto de texto, com informações, fatos e opiniões relacionados ao tema proposto, desenvolvidos de forma consistente e bem-organizados em defesa do ponto de vista. Primeiramente, a participante reconhece a permanência de uma perspectiva histórica que oprime e silencia as vozes e os saberes dos povos tradicionais, problema que requer uma ação do Estado. O segundo parágrafo avança na construção desse argumento, recorrendo à autoridade do IPHAN para sustentar a importância dessas comunidades, tanto do ponto de vista cultural quanto econômico. O terceiro parágrafo, por sua vez, indica outro problema, preparando o leitor para a proposta de intervenção que concluirá o texto: o argumento é de que a falta de representação política perpetua o silenciamento dessas comunidades e a negligência em relação aos seus saberes. Assim, no parágrafo final, a participante conclui que só uma política afirmativa para ampliar essa participação poderá solucionar o problema. Desse modo, a seleção e a articulação dos argumentos garantem ao texto um projeto coerente e autoral.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 9 — MARIA FERNANDA SIMIONATO DE LEMES (3/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "5108a2e4945bd12b",
+  "competencies": [
+   "I",
+   "IV",
+   "V"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "MARIA FERNANDA SIMIONATO DE LEMES",
+  "essayId": "2023.essay.09",
+  "examYear": 2022,
+  "id": "2023.essay.09.comment.04",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.09",
+  "pdfPages": [
+   47,
+   47
+  ],
+  "printedPages": [
+   "45",
+   "45"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Em relação aos aspectos coesivos, já notados na continuidade temática, observa-se, nessa redação, um repertório diversificado de recursos coesivos, sem inadequações. No plano nominal, há o emprego de pronomes (“o que”, “eles”, “o qual”) e palavras e expressões sinônimas ou equivalentes (“dessas populações”, “dessas comunidades”, “esses grupos”, “Tal reestruturação”). No plano sequencial, há o emprego de marcadores argumentativos e conectivos (“Entretanto”, “Nesse sentido”, “Dessa forma”). Também utilizou os sinais de pontuação ligando palavras, orações e períodos complexos com pertinência e de modo correto.\n\nPor fim, a participante elabora proposta de intervenção completa, que é avaliada como muito boa. Objetiva, a proposta está articulada à discussão desenvolvida no texto e apresenta uma ação: proposição de políticas afirmativas, por meio de mudanças no sistema eleitoral, para a inclusão de representantes dos povos e comunidades tradicionais.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 9 — MARIA FERNANDA SIMIONATO DE LEMES (4/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "3fd50d0322f89eed",
+  "commentChunkIds": [
+   "2023.essay.10.comment.01",
+   "2023.essay.10.comment.02",
+   "2023.essay.10.comment.03",
+   "2023.essay.10.comment.04"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2023",
+  "essayAuthor": "CARINA BEATRIZ DE SOUZA MOURA",
+  "essayId": "2023.essay.10",
+  "examYear": 2022,
+  "id": "2023.essay.10",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   48,
+   48
+  ],
+  "printedPages": [
+   "46",
+   "46"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "Na segunda metade do século XVIII, os escritores da primeira fase do Romantismo elevaram, de maneira completamente idealizada, o indígena e a natureza à condição de elementos personificados da beleza e do poder da pátria (quando, na verdade, os nativos continuaram vítimas de uma exploração desumana no momento em questão). Sem desconsiderar o fato temporal, hoje nota-se que, apesar das conquistas legais e jurídicas alcançadas, a exaltação dos indígenas e dos demais povos tradicionais não se efetivou no cenário brasileiro e continua restrita às prosas e poesias do movimento romântico. A partir desse contexto, é imprescindível compreender os maiores desafios para uma plena valorização das comunidades tradicionais no Brasil.\n\nNesse sentido, é inegável que o escasso interesse político em assegurar o respeito à cultura e ao modo de vida das populações tradicionais frustra a valorização desses indivíduos. Isso acontece, porque, como já estudado pelo sociólogo Boaventura de Sousa Santos, há no Brasil uma espécie de “Colonialismo Insidioso”, isto é, a manutenção de estruturas coloniais perversas de dominação, que se disfarça em meio a avanços sociais, mas mantém a camada mais vulnerável da sociedade explorada e negligenciada. Nessa perspectiva, percebe-se o quanto a invisibilização dos povos tradicionais é proposital e configura-se como uma estratégia política para permanecer no poder e fortalecer situações de desigualdade e injustiça social. Dessa forma, tem-se um país que, além de naturalizar as mais diversas invasões possessórias nos territórios dos povos tradicionais, não respeita a forma de viver e produzir dessas populações, o que comprova uma realidade destoante das produções literárias do Romantismo.\n\nAdemais, é nítido que as dificuldades de promover um verdadeiro reconhecimento e valorização das comunidades tradicionais ascendem à medida que raízes preconceituosas são mantidas. De fato, com base nos estudos da filósofa Sueli Carneiro, é perceptível a existência de um “Epistemicídio Brasileiro” na sociedade atual, ou seja, há uma negação da cultura e dos saberes de grupos subalternizados, a qual ainda é mais reforçada por setores midiáticos. Em outras palavras, apesar da complexidade de cultura dos povos tradicionais, o Brasil assume contornos monoculturais, uma vez que inferioriza e “sepulta” os saberes de tais grupos, cujas relações e produções, baseadas na relação harmônica com a natureza, destoam do modelo ocidental, capitalista e elitista. Logo, devido a um notório preconceito, os indivíduos tradicionais permanecem excluídos socialmente e com seus direitos negligenciados.\n\nPortanto, faz-se necessário superar os desafios que impedem a valorização das comunidades tradicionais no Brasil. Para isso, urge que o Poder Executivo — na esfera federal\n\n— amplie a verba destinada a órgãos fiscalizadores que visem garantir os direitos dos povos tradicionais e a preservação de seus territórios e costumes. Tal ação deve ser efetivada pela implantação de um Projeto Nacional de Valorização dos Povos Tradicionais, de modo a articular, em conjunto com a mídia socialmente engajada, palestras e debates que informem a importância de tais grupos em todos os 5570 municípios brasileiros. Isso deve ser feito a fim de combater os preconceitos e promover o respeito às populações tradicionais. Afinal, o intuito é que elas sejam tão valorizadas quanto os índios na primeira fase da literatura romântica.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Redação 10 — CARINA BEATRIZ DE SOUZA MOURA",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "0634be74f9ce5155",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "CARINA BEATRIZ DE SOUZA MOURA",
+  "essayId": "2023.essay.10",
+  "examYear": 2022,
+  "id": "2023.essay.10.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.10",
+  "pdfPages": [
+   49,
+   49
+  ],
+  "printedPages": [
+   "47",
+   "47"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "A participante demonstra excelente domínio da modalidade escrita formal da língua portuguesa. A redação é caracterizada pelo excelente domínio das estruturas sintáticas, com apenas um desvio da norma, na colocação do pronome “se” em “hoje nota-se que”.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 10 — CARINA BEATRIZ DE SOUZA MOURA (1/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "3de65efad9fc5fa0",
+  "competencies": [
+   "V",
+   "I",
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "CARINA BEATRIZ DE SOUZA MOURA",
+  "essayId": "2023.essay.10",
+  "examYear": 2022,
+  "id": "2023.essay.10.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.10",
+  "pdfPages": [
+   49,
+   49
+  ],
+  "printedPages": [
+   "47",
+   "47"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "A participante demonstra também excelente domínio do texto dissertativo-argumentativo. O tema é desenvolvido por meio do posicionamento contra a violência da invisibilização dos povos e comunidades tradicionais bem como da discriminação de seus saberes. Na introdução, a idealização do indígena na literatura é citada ao lado de seu contraponto: a condição de vítimas de violências diversas vividas pelos indígenas. No segundo parágrafo, a participante cita o conceito de “colonialismo insidioso”, do sociólogo Boaventura Sousa Santos, no contexto da constatação de que a violência contra os povos indígenas é estratégica desde o período colonial, como forma de tomar desses povos os territórios e mantê-los sob jugo. No terceiro parágrafo, desenvolve-se a noção de epistemicídio, com referência à obra de Sueli Carneiro, como complementar às demais violências, caracterizando-se pela negação de culturas e saberes de povos subalternizados. Por fim, no último parágrafo, a participante elabora proposta de intervenção relacionada a estratégias de visibilização dos povos, na forma de conscientização da sociedade como um todo. Desse modo, com referência ao pensamento social sobre a permanência do colonialismo e a relação do país com os grupos sociais que a compõem, a redação demonstra, além do excelente domínio do texto dissertativoargumentativo, a abordagem completa do tema com uso de repertório sociocultural produtivo.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 10 — CARINA BEATRIZ DE SOUZA MOURA (2/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "af8b5495761d4290",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "CARINA BEATRIZ DE SOUZA MOURA",
+  "essayId": "2023.essay.10",
+  "examYear": 2022,
+  "id": "2023.essay.10.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.10",
+  "pdfPages": [
+   49,
+   49
+  ],
+  "printedPages": [
+   "47",
+   "47"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "O projeto de texto fica evidente na articulação de informações, fatos e opiniões ao tema proposto, desenvolvido de forma consistente e bem-organizada em defesa do ponto de vista. Primeiramente, a participante acusa a contradição entre a representação literária idealizada dos indígenas na literatura brasileira e a violência que eles historicamente sofreram no país, defendendo a necessidade de uma maior valorização desses povos. O segundo parágrafo apresenta uma das formas de violência, argumentando que elas estão relacionadas a um projeto intencional de quem detém o poder para dominar território e controlar a população indígena, como parte de uma estratégia denominada “colonialismo insidioso”. O terceiro parágrafo soma a esse problema outra característica da sociedade, que é o epistemicídio brasileiro, caracterizado pela invisibilização e supressão dos saberes de povos subalternizados, que passam a ser tratados em uma perspectiva monocultural, a despeito de sua diversidade, justamente porque estabelecem uma relação mais harmônica com a natureza, destoando do modelo ocidental. Portanto, no parágrafo final, a participante conclui com proposta de criação de um projeto de valorização dos povos tradicionais, por meio de repressão à violência e promoção afirmativa das culturas dessas comunidades. Desse modo, a seleção e a articulação dos argumentos garantem ao texto um projeto coerente e autoral.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 10 — CARINA BEATRIZ DE SOUZA MOURA (3/4)",
+  "year": 2023
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "219821452b440535",
+  "competencies": [
+   "IV",
+   "I"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2023",
+  "essayAuthor": "CARINA BEATRIZ DE SOUZA MOURA",
+  "essayId": "2023.essay.10",
+  "examYear": 2022,
+  "id": "2023.essay.10.comment.04",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2023.essay.10",
+  "pdfPages": [
+   49,
+   49
+  ],
+  "printedPages": [
+   "47",
+   "47"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "AMOSTRA DE REDAÇÕES NOTA . DO ENEM ",
+  "text": "A coesão do texto é garantida não só pela continuidade temática, mas também pelo emprego de um repertório diversificado de recursos coesivos, sem inadequações. No plano nominal, há o emprego de pronomes (“que”, “a qual”, “elas”) e palavras e expressões sinônimas ou equivalentes (“os nativos”, “a camada mais vulnerável”, “indivíduos tradicionais”, “Tal ação”). No plano sequencial, há o emprego de marcadores argumentativos e conectivos (“A partir desse contexto”, “Nesse sentido”, “ou seja”). Também utilizou os sinais de pontuação ligando palavras, orações e períodos complexos com pertinência e de modo correto.\n\nPor fim, a proposta elaborada pela participante é muito boa e está articulada à discussão desenvolvida no texto. Apresenta como ação a ampliação de verbas para que os órgãos fiscalizadores promovam um projeto, intitulado Projeto Nacional de Valorização dos Povos Tradicionais, para a organização de atividades de conscientização com abrangência em todo o território brasileiro, de modo a que os indígenas sejam efetivamente valorizados nas políticas públicas e não só na literatura.",
+  "theme": "Desafios para a valorização de comunidades e povos tradicionais no Brasil",
+  "title": "Comentário oficial do INEP — Redação 10 — CARINA BEATRIZ DE SOUZA MOURA (4/4)",
+  "year": 2023
+ }
+]

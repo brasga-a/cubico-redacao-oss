@@ -1,0 +1,38 @@
+{
+ "documents": {
+  "2018": {
+   "file": "cartilha_enem_2018.pdf",
+   "sha256": "6437753cfde7e443c5d9e172bbf05b0df2249a94a4d7f58223a1c76b36355074"
+  },
+  "2019": {
+   "file": "cartilha_enem_2019.pdf",
+   "sha256": "d96d7b410a27a56002aea22d5ff60fd49668e8ff6e4c09dbf097842bd6d5f908"
+  },
+  "2020": {
+   "file": "cartilha_enem_2020.pdf",
+   "sha256": "1a872c87f69830c5fc064b77cda2b52f478c8f7507e1351439cee68c44dbe651"
+  },
+  "2022": {
+   "file": "cartilha_enem_2022.pdf",
+   "sha256": "b57677e13ef4ec28b03a147de0b24f33b63873cc13fc2795c71507a654a1588b"
+  },
+  "2023": {
+   "file": "cartilha_enem_2023.pdf",
+   "sha256": "cfae33a040ac24139f5c4adc63c1275b0066aa6800f8060aef873491ba372a37"
+  },
+  "2024": {
+   "file": "cartilha_enem_2024.pdf",
+   "sha256": "d359a8894491090efb8f0c7f2834cce5ea327e49665d9292d8c62124171133eb"
+  },
+  "2025": {
+   "file": "cartilha_enem_2025.pdf",
+   "sha256": "d8ab44dcbf5af808829d9dee89d23e7efa4f59df022b99102fac87489b870288"
+  },
+  "2026": {
+   "file": "cartilha_enem_2026.pdf",
+   "sha256": "5708d8df9a3b0046cbf3d835e023f9eb89be08d295cb01ce5afeac77496211ad"
+  }
+ },
+ "glyphTable": "21965014e2243f43",
+ "pipelineVersion": 1
+}

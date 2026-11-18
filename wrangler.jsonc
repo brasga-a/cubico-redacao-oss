@@ -1,0 +1,42 @@
+// Baseline for @cloudflare/vite-plugin (`bun run dev` / `bun run build`) and the
+// local smoke scripts. Deploys go through `cf`, which reads cloudflare.config.ts.
+// Deployment-specific values (worker name, D1, R2) are overridden in
+// vite.config.ts from cloudflare.config.ts, i.e. from `.env.cloudflare`.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "cubico-redacao",
+  "compatibility_date": "2025-09-02",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "@tanstack/react-start/server-entry",
+  "vars": {
+    "GEMINI_MODEL": "gemini-4-argon",
+    "MONTHLY_CORRECTION_LIMIT": "50",
+    "DAILY_USER_LIMIT": "30",
+    "GLOBAL_CONCURRENT_LIMIT": "2",
+    "MAX_OUTPUT_TOKENS": "12000"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "cubico-redacao-db",
+      "database_id": "00000000-0000-4000-8000-000000000000",
+      "migrations_dir": "migrations"
+    }
+  ],
+  "r2_buckets": [
+    {
+      "binding": "AVATARS",
+      "bucket_name": "cubico-avatars"
+    }
+  ],
+  "ratelimits": [
+    {
+      "name": "BURST_LIMITER",
+      "namespace_id": "1001",
+      "simple": {
+        "limit": 10,
+        "period": 60
+      }
+    }
+  ]
+}

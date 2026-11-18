@@ -1,0 +1,2262 @@
+[
+ {
+  "category": "orientacao",
+  "checksum": "99f72da936f0fff1",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0001",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   10,
+   10
+  ],
+  "printedPages": [
+   "8",
+   "8"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "O texto produzido por você será avaliado por, pelo menos, dois professores graduados em Letras ou Linguística, de forma independente, sem que um conheça a nota atribuída pelo outro.",
+  "theme": null,
+  "title": "QUEM VAI AVALIAR A REDAÇÃO?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "fe499ecfdb28f6e9",
+  "competencies": [
+   "I",
+   "II",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0002",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   10,
+   10
+  ],
+  "printedPages": [
+   "8",
+   "8"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "Os dois professores avaliarão seu desempenho de acordo com os critérios do quadro a seguir:\nCompetência 1:\nDemonstrar domínio da modalidade escrita formal da língua portuguesa.\nCompetência 2:\nCompreender a proposta de redação e aplicar conceitos das várias áreas de conhecimento para desenvolver o tema, dentro dos limites estruturais do texto dissertativo-argumentativo em prosa.\nCompetência 3:\nSelecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista.\nCompetência 4:\nDemonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação.\nCompetência 5:\nElaborar proposta de intervenção para o problema abordado, respeitando os direitos humanos.",
+  "theme": null,
+  "title": "COMO A REDAÇÃO SERÁ AVALIADA?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "ac5eed92f7e6dfa5",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0003",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   10,
+   10
+  ],
+  "printedPages": [
+   "8",
+   "8"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "Cada avaliador atribuirá uma nota entre 0 e 200 pontos para cada uma das cinco competências. A soma desses pontos comporá a nota total de cada avaliador, que pode chegar a 1.000 pontos. A nota final do participante será a média aritmética das notas totais atribuídas pelos dois avaliadores.",
+  "theme": null,
+  "title": "COMO SERÁ ATRIBUÍDA A NOTA À REDAÇÃO?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "f98f3c466671c3a0",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0004",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   10,
+   10
+  ],
+  "printedPages": [
+   "8",
+   "8"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "Considera-se discrepância quando as notas atribuídas pelos avaliadores:\n- diferirem em mais de 100 pontos no total; ou\n- obtiverem diferença superior a 80 pontos em qualquer uma das competências.",
+  "theme": null,
+  "title": "O QUE É CONSIDERADO DISCREPÂNCIA?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "e358198e57c0aae3",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0005",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   11,
+   11
+  ],
+  "printedPages": [
+   "9",
+   "9"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "- A redação será avaliada, de forma independente, por um terceiro avaliador.\n- A nota final será a média aritmética das duas notas totais que mais se aproximarem.",
+  "theme": null,
+  "title": "QUAL A SOLUÇÃO PARA O CASO DE HAVER DISCREPÂNCIA ENTRE AS DUAS AVALIAÇÕES INICIAIS?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "eefb78c790e8fca3",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0006",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   11,
+   11
+  ],
+  "printedPages": [
+   "9",
+   "9"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "A redação será avaliada por uma banca composta por três professores, que atribuirá a nota final do participante.",
+  "theme": null,
+  "title": "E SE A DISCREPÂNCIA AINDA CONTINUAR DEPOIS DA TERCEIRA AVALIAÇÃO?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "a9ed96cf0445790f",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0007",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   11,
+   11
+  ],
+  "printedPages": [
+   "9",
+   "9"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "A redação receberá nota 0 (zero) se apresentar uma das características a seguir:\n- fuga total ao tema;\n- não obediência ao tipo dissertativo-argumentativo;\n- extensão de até 7 (sete) linhas manuscritas, qualquer que seja o conteúdo, ou extensão de até 10 (dez) linhas escritas no sistema Braille;\n- cópia de texto(s) da Prova de Redação e/ou do Caderno de Questões sem que haja pelo menos 8 linhas de produção própria do participante;\n- impropérios, desenhos e outras formas propositais de anulação, em qualquer parte da folha de redação;\n- números ou sinais gráficos sem função clara em qualquer parte do texto ou da folha de redação;\n- parte deliberadamente desconectada do tema proposto;\n- assinatura, nome, iniciais, apelido, codinome ou rubrica fora do local devidamente designado para a assinatura do participante;\n- texto predominante ou integralmente escrito em língua estrangeira;\n- folha de redação em branco, mesmo que haja texto escrito na folha de rascunho; e\n- texto ilegível, que impossibilite sua leitura por dois avaliadores independentes.",
+  "theme": null,
+  "title": "QUAIS AS RAZÕES PARA SE ATRIBUIR NOTA 0 (ZERO) A UMA REDAÇÃO?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "862e0c682f937087",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0008",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   11,
+   12
+  ],
+  "printedPages": [
+   "9",
+   "10"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "As partes deliberadamente desconectadas do tema proposto consistem em reflexões do participante sobre o próprio processo de escrita, sobre a prova ou sobre o próprio desempenho dele no exame. Além disso, a escrita de bilhetes destinados, por exemplo, à banca avaliadora, mensagens políticas ou de protesto, orações, mensagens religiosas, frases desconectadas do corpo do texto, trechos de música, de hino, de poema ou de qualquer texto, desde que estejam desarticulados da argumentação feita na redação. Isso quer dizer que uma constatação de algum problema social, por exemplo, não é, por si só, avaliada como um protesto e, consequentemente, como parte desconectada se estiver devidamente articulada à argumentação construída ao longo da redação. Em suma, para ter sua redação anulada por esse critério, é preciso que você insira, de forma proposital, pontual e desarticulada, elementos estranhos ao tema e ao seu projeto de texto ou que atentem contra a seriedade do exame.",
+  "theme": null,
+  "title": "O QUE SÃO PARTES DELIBERADAMENTE DESCONECTADAS DO TEMA PROPOSTO?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "e3b9b4ad33f2311c",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0009",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   12,
+   12
+  ],
+  "printedPages": [
+   "10",
+   "10"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "Serão adotados mecanismos de avaliação coerentes com o aprendizado da língua portuguesa como segunda língua, de acordo com o Decreto nº 5.626, de 22 de dezembro de 2005. Neste ano, disponibilizamos um tópico especialmente dedicado aos participantes surdos ou com deficiência auditiva, em que serão apresentadas as especificidades da avaliação das redações desse público.",
+  "theme": null,
+  "title": "COMO SERÁ AVALIADA A REDAÇÃO DE PARTICIPANTES SURDOS OU COM DEFICIÊNCIA AUDITIVA?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "508b9831f4dd1ae1",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0010",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   12,
+   12
+  ],
+  "printedPages": [
+   "10",
+   "10"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "Serão adotados critérios de avaliação que levem em conta questões linguísticas específicas relacionadas à dislexia. Neste ano, disponibilizamos um tópico especialmente dedicado aos participantes com dislexia, em que serão apresentadas as especificidades da avaliação das redações desse público.",
+  "theme": null,
+  "title": "COMO SERÁ AVALIADA A REDAÇÃO DE PARTICIPANTES COM DISLEXIA?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "bac7b855bcce7779",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0011",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   12,
+   12
+  ],
+  "printedPages": [
+   "10",
+   "10"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "A partir de 2020, as redações dos participantes que apresentam transtornos do espectro autista serão avaliadas por uma banca especializada. Serão adotados critérios de avaliação que levem em conta questões linguísticas específicas relacionadas ao autismo, em conformidade com o inciso VI do art. 30 da Lei nº 13.146, de 6 de junho de 2015.",
+  "theme": null,
+  "title": "COMO SERÁ AVALIADA A REDAÇÃO DE PARTICIPANTES COM TRANSTORNO DO ESPECTRO AUTISTA?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "c9278629d0695586",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0012",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   12,
+   12
+  ],
+  "printedPages": [
+   "10",
+   "10"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "Para efeito de avaliação e de contagem do mínimo de linhas escritas, os trechos que representarem cópia dos textos da Prova de Redação ou do Caderno de Questões serão desconsiderados em relação ao total de linhas escritas, valendo somente as que foram produzidas pelo participante. São consideradas linhas com cópia aquelas compostas, integral ou parcialmente, por trechos de cópia da Prova de Redação e/ou do Caderno de Questões.",
+  "theme": null,
+  "title": "IMPORTANTE!",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "08b2913a20ce5b6a",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0013",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   13,
+   13
+  ],
+  "printedPages": [
+   "11",
+   "11"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "Procure escrever sua redação com letra legível, para evitar dúvidas no momento da avaliação. Redação com letra ilegível poderá não ser avaliada.",
+  "theme": null,
+  "title": "IMPORTANTE!",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "374d53ed64a4365a",
+  "competencies": [],
+  "competencySource": "none",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0014",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   13,
+   13
+  ],
+  "printedPages": [
+   "11",
+   "11"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "O título é um elemento opcional na produção da sua redação. Assim, embora seja considerado linha escrita, não é avaliado em nenhum aspecto relacionado às competências da matriz de referência. No entanto, o título pode levar à nota zero da redação caso apresente alguma característica passível de anulação (por exemplo: desenhos, sinais gráficos, impropérios etc.)",
+  "theme": null,
+  "title": "IMPORTANTE!",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "d5f83964c55d91c0",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0015",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   13,
+   15
+  ],
+  "printedPages": [
+   "11",
+   "13"
+  ],
+  "quality": "ok",
+  "section": "apresentação",
+  "text": "Não faça destaques no título ou marcas de finalização do texto que possam ser considerados desenhos ou formas de identificação.\nApresentamos, a seguir, o detalhamento das cinco competências a serem avaliadas na sua redação. Nosso objetivo é explicitar os critérios de avaliação, de modo a ajudar na sua preparação para o exame. Ainda que entendamos que o texto é uma unidade de sentido em que todos os aspectos se inter-relacionam para construir a textualidade, a avaliação dos textos é separada por competências, o que torna o processo mais objetivo.",
+  "theme": null,
+  "title": "IMPORTANTE!",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "3fe22908ce2bcf28",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0016",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   15,
+   16
+  ],
+  "printedPages": [
+   "13",
+   "14"
+  ],
+  "quality": "ok",
+  "section": "1.1 COMPETÊNCIA 1",
+  "text": "A Competência 1 avalia se o participante domina a modalidade escrita formal da língua portuguesa, o que inclui o conhecimento das convenções da escrita, dentre as quais se encontram as regras de ortografia e de acentuação gráfica regidas pelo atual Acordo Ortográfico.\nAlém disso, o domínio da modalidade escrita formal será observado na adequação do seu texto em relação tanto às regras gramaticais quanto à fluidez da leitura, que pode ser prejudicada ou beneficiada pela construção sintática.\nPara que você tenha mais clareza a respeito das expectativas em relação a um concluinte do ensino médio em termos de domínio da modalidade escrita formal, apresentamos, a seguir, os principais aspectos que guiam o olhar do avaliador no momento de definir o nível em que seu texto se encontra na Competência 1.\nEm primeiro lugar, você deve se atentar ao fato de que a escrita formal é a modalidade da língua associada a textos do tipo dissertativo-argumentativo. Assim, você será alertado sobre a obrigatoriedade de usar a modalidade formal já na proposta de redação: “A partir da leitura dos textos motivadores e com base nos conhecimentos construídos ao longo de sua formação, redija texto dissertativo-argumentativo em modalidade escrita formal da língua portuguesa sobre o tema...”.",
+  "theme": null,
+  "title": "1.1 COMPETÊNCIA 1",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "c3e3349a4d364aa2",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0017",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   16,
+   16
+  ],
+  "printedPages": [
+   "14",
+   "14"
+  ],
+  "quality": "ok",
+  "section": "1.1 COMPETÊNCIA 1",
+  "text": "Desse modo, o avaliador corrigirá sua redação, nessa Competência, considerando os possíveis problemas de construção sintática e a presença de desvios (de convenções da escrita, gramaticais, de escolha de registro e de escolha vocabular).\nA estrutura sintática é objeto de avaliação da Competência 1, juntamente com os desvios, uma vez que esse aspecto também faz parte das regras da Língua Portuguesa\n- aquelas que dizem respeito à construção das frases do texto. Uma estrutura sintática convencional pressupõe a existência de determinados elementos oracionais que se organizam na frase e garantem a fluidez da leitura e a apresentação clara das ideias do participante, organizadas em períodos bem estruturados e completos. Os textos com falhas relacionadas à estrutura sintática geralmente apresentam períodos truncados e justaposição de palavras, ausência de termos ou excesso de palavras (elementos sintáticos). Esses problemas são caracterizados, normalmente, por um ponto final separando duas orações que deveriam constituir um mesmo período (truncamento) ou uma vírgula no lugar de um ponto final que deveria indicar o fim da frase (justaposição), o que interfere na qualidade da estrutura sintática. A frequência com que essas falhas ocorrem no texto e o quanto elas prejudicam sua compreensão como um todo é o que ajudará a definir o nível em que uma redação deve ser avaliada na Competência 1.\nQuanto aos desvios, você deve estar atento aos seguintes aspectos:",
+  "theme": null,
+  "title": "1.1 COMPETÊNCIA 1",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "6080174594f307f8",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0018",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   16,
+   17
+  ],
+  "printedPages": [
+   "14",
+   "15"
+  ],
+  "quality": "ok",
+  "section": "1.1 COMPETÊNCIA 1",
+  "text": "- convenções da escrita: acentuação, ortografia, uso de hífen, emprego de letras maiúsculas e minúsculas e separação silábica (translineação);\n- gramaticais: regência verbal e nominal, concordância verbal e nominal, pontuação, paralelismo, emprego de pronomes e crase;\n- escolha de registro: adequação à modalidade escrita formal, isto é, ausência de uso de registro informal e/ou de marcas de oralidade;\n- escolha vocabular: emprego de vocabulário preciso, o que significa que as palavras selecionadas são usadas em seu sentido correto e são apropriadas ao contexto em que aparecem.\nO quadro a seguir apresenta os seis níveis de desempenho que serão utilizados para avaliar a Competência 1 nas redações do Enem 2020:",
+  "theme": null,
+  "title": "1.1 COMPETÊNCIA 1",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "a926571a2c0aaf9e",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0019",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   17,
+   18
+  ],
+  "printedPages": [
+   "15",
+   "16"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA 2",
+  "text": "O segundo aspecto a ser avaliado no seu texto é a compreensão da proposta de redação, composta por um tema específico a ser desenvolvido na forma de texto dissertativoargumentativo – ou seja, a proposta exige que o participante escreva um texto dissertativoargumentativo, que é um texto em que se demonstra, por meio de argumentação, a assertividade de uma ideia ou de uma tese. É mais do que uma simples exposição de ideias; por isso, você deve evitar elaborar um texto de caráter apenas expositivo, devendo assumir claramente um ponto de vista. Além disso, é preciso que a tese que você irá defender esteja relacionada ao tema definido na proposta. Assim, você atenderá às exigências expressas pela Competência 2 da matriz de avaliação do Enem. Trata-se, portanto, de uma competência que avalia as habilidades integradas de leitura e de escrita.\nO tema constitui o núcleo das ideias sobre as quais a tese se organiza e é caracterizado por ser uma delimitação de um assunto mais abrangente. Por isso, é preciso atender ao recorte temático definido para evitar tangenciá-lo ou, ainda pior, desenvolver um tema distinto do determinado pela proposta.\nOutro aspecto avaliado na Competência 2 é a presença de repertório sociocultural, que se configura como uma informação, um fato, uma citação ou uma experiência vivida que, de alguma forma, contribui como argumento para a discussão proposta.",
+  "theme": null,
+  "title": "1.2 COMPETÊNCIA 2",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "e3fd2fbcbfa92efa",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0020",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   18,
+   18
+  ],
+  "printedPages": [
+   "16",
+   "16"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA 2",
+  "text": "A partir dessas considerações, seguem algumas recomendações para atender plenamente às expectativas em relação à Competência 2:\n- leia com atenção a proposta da redação e os textos motivadores, para compreender bem o que está sendo solicitado;\n- reflita sobre o tema proposto para definir qual será o foco da sua discussão, isto é, para decidir como abordá-lo, qual será o ponto de vista adotado e como defendê-lo;\n- não copie trechos dos textos motivadores. A recorrência de cópia é avaliada negativamente e fará com que sua redação tenha uma pontuação mais baixa ou até mesmo seja anulada como Cópia;\n- evite ficar preso às ideias desenvolvidas nos textos motivadores. Você pode se apropriar dessas ideias para construir sua argumentação, mas não deve se esquecer de utilizar informações de outras áreas do conhecimento (repertório sociocultural);\n- utilize informações de várias áreas do conhecimento, demonstrando que você está atualizado em relação ao que acontece no mundo. Essas informações devem ser pertinentes ao tema e usadas de modo produtivo no seu texto, evidenciando que elas servem a um propósito muito bem definido: ajudá-lo a validar seu ponto de vista. Isso significa que essas informações devem estar articuladas à discussão desenvolvida em sua redação. Informações e citações soltas no texto, por mais variadas e interessantes que sejam, perdem sua relevância quando não associadas produtivamente à defesa do ponto de vista desenvolvido em seu texto;",
+  "theme": null,
+  "title": "1.2 COMPETÊNCIA 2",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "8fc0c48eff4368d4",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0021",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   18,
+   18
+  ],
+  "printedPages": [
+   "16",
+   "16"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA 2",
+  "text": "- mantenha-se dentro dos limites do tema proposto, tomando cuidado para não se afastar do seu foco. Esse é um dos principais problemas identificados nas redações. Nesse caso, duas situações podem ocorrer: fuga total ou tangenciamento ao tema.\nNo Enem 2019, o tema se referia à discussão sobre a Democratização do acesso ao cinema no Brasil, uma questão de grande relevância social no país.",
+  "theme": null,
+  "title": "1.2 COMPETÊNCIA 2",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "68ab950784a21af0",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0022",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   20,
+   20
+  ],
+  "printedPages": [
+   "18",
+   "18"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA 2",
+  "text": "Com base no recorte definido pela proposta, o participante precisaria considerar as várias dimensões do tema contidas nos textos motivadores. O Texto I é o trecho de um livro que narra um episódio da gênese do cinema. Trata-se do encontro entre Lumière, um dos inventores do cinematógrafo, e Georges Méliès, no qual Lumière não só desencoraja Méliès a adquirir o equipamento, mas também reduz a importância do invento, considerado por ele um mero artefato científico de apreensão do movimento; o Texto II apresenta uma reflexão do filósofo Edgar Morin a respeito da natureza do cinema, ressaltando o caráter subjetivo e intersubjetivo dessa linguagem; o Texto III é um infográfico com dados acerca da inserção do cinema no cotidiano dos brasileiros, seja via sala de cinema ou televisão; por fim, o Texto IV é uma reportagem que apresenta as mudanças ocorridas na distribuição de cinemas das pequenas cidades para os grandes centros urbanos, em especial em espaços elitizados. Ao final, o texto trata da exclusão do acesso ao cinema como bem cultural para a parcela majoritária da sociedade brasileira, sobretudo as populações do Norte e do Nordeste. A partir dessas informações, esperava-se que, no Enem 2019, os textos produzidos se direcionassem para uma discussão a respeito da importância ou da necessidade de democratização do cinema na sociedade brasileira.",
+  "theme": null,
+  "title": "1.2 COMPETÊNCIA 2",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "581b0c8546cde841",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0023",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   20,
+   20
+  ],
+  "printedPages": [
+   "18",
+   "18"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA 2",
+  "text": "Considera-se que uma redação tenha fugido ao tema quando nem o assunto mais amplo nem o tema específico proposto são desenvolvidos.\nNo Enem 2019, recebeu a rubrica fuga ao tema a redação estruturada integralmente em assunto não solicitado, ou seja, qualquer encaminhamento que não tratou do tema ou, pelo menos, de assunto a ele relacionado – ou seja, a abordagem exclusiva de assuntos sem relação com qualquer elemento ligado ao universo do cinema.",
+  "theme": null,
+  "title": "O QUE É FUGA TOTAL AO TEMA?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "7c9a3b60ad03a552",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0024",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   20,
+   20
+  ],
+  "printedPages": [
+   "18",
+   "18"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA 2",
+  "text": "Para evitar que você receba nota zero em seu texto por fuga ao tema, é importante que você desenvolva uma discussão dentro dos limites do tema definido pela proposta. Mencioná-lo apenas no título, por exemplo, ou deixá-lo subentendido, supondo que a banca vai saber sobre o que você está falando, não é suficiente. Por isso, muita atenção à abordagem do tema, que deve ser clara e explícita.",
+  "theme": null,
+  "title": "IMPORTANTE!",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "4ce859892342dffb",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0025",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   20,
+   20
+  ],
+  "printedPages": [
+   "18",
+   "18"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA 2",
+  "text": "Considera-se tangenciamento ao tema uma abordagem parcial baseada somente no assunto mais amplo a que o tema está vinculado, deixando em segundo plano a discussão em torno do eixo temático objetivamente proposto.\nNo Enem 2019, foi configurado como tangenciamento ao tema o encaminhamento que tratou apenas de assunto a ele relacionado, por exemplo, cinema, sem tratar de sua democratização; ou outros tipos de produções audiovisuais que não o cinema.",
+  "theme": null,
+  "title": "O QUE É TANGENCIAR O TEMA?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "9e04452c7a10a7f0",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0026",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   21,
+   21
+  ],
+  "printedPages": [
+   "19",
+   "19"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA 2",
+  "text": "Conforme previsto na matriz de referência de redação do Enem, o tangenciamento ao tema impede que a redação receba nota acima de 40 pontos nas Competências 3 e 5.",
+  "theme": null,
+  "title": "IMPORTANTE!",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "07bf4b2b79e774e1",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0027",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   21,
+   21
+  ],
+  "printedPages": [
+   "19",
+   "19"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA 2",
+  "text": "Não atende ao tipo textual a redação que está predominantemente fora do padrão dissertativo-argumentativo, apresentando poucos ou nenhum indício de caráter dissertativo (explicações, exemplificações, análises ou interpretações de aspectos dentro da temática solicitada) ou de caráter argumentativo (defesa ou refutação de ideias dentro da temática solicitada).",
+  "theme": null,
+  "title": "O QUE É NÃO ATENDER AO TIPO TEXTUAL?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "12ef44eab83b5ea6",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0028",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   21,
+   22
+  ],
+  "printedPages": [
+   "19",
+   "20"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA 2",
+  "text": "O texto do tipo dissertativo-argumentativo é aquele que se organiza na defesa de um ponto de vista sobre determinado assunto. É fundamentado com argumentos, a fim de influenciar a opinião do leitor, tentando convencê-lo de que a ideia defendida está correta. É preciso, portanto, expor e explicar ideias. Daí a dupla natureza desse tipo textual: é argumentativo porque defende uma tese, uma opinião, e é dissertativo porque utiliza explicações para justificá-la.\nO objetivo desse texto é, em última análise, convencer o leitor de que o ponto de vista em relação à tese apresentada é acertado e relevante. Para tanto, mobiliza informações, fatos e opiniões, à luz de um raciocínio coerente e consistente.\nATENÇÃO!\nSerá atribuída nota zero à redação que não obedecer à estrutura dissertativo-argumentativa, mesmo que atenda às exigências dos outros critérios de avaliação. Já redações que apresentam muitas características de outro tipo textual em meio a um texto dissertativoargumentativo serão penalizadas na Competência 2. Portanto, você não deve, por exemplo, elaborar um poema ou reduzir o seu texto à narração de uma história ou a um depoimento de experiência pessoal, ainda que aborde o tema de forma completa. No processo argumentativo, é possível apresentar trechos narrando acontecimentos que justificam a tese, mas o texto não pode se reduzir a uma narração, por esta não apresentar os princípios de estruturação solicitados.\nO quadro a seguir apresenta os seis níveis de desempenho que serão utilizados para avaliar a Competência 2 nas redações do Enem 2020:",
+  "theme": null,
+  "title": "O QUE É UM TEXTO DISSERTATIVO-ARGUMENTATIVO?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "05e64a5006521795",
+  "competencies": [
+   "II"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0029",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   22,
+   22
+  ],
+  "printedPages": [
+   "20",
+   "20"
+  ],
+  "quality": "ok",
+  "section": "1.2 COMPETÊNCIA 2",
+  "text": "Se sua redação apresentar fuga ao tema ou não atender ao tipo dissertativo-argumentativo, ela não será avaliada em nenhuma das competências, e sua nota final na prova de redação será zero.",
+  "theme": null,
+  "title": "FIQUE ATENTO!",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "6600e5da6e308a17",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0030",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   22,
+   23
+  ],
+  "printedPages": [
+   "20",
+   "21"
+  ],
+  "quality": "ok",
+  "section": "1.3 COMPETÊNCIA 3",
+  "text": "O terceiro aspecto a ser avaliado é a forma como você, em seu texto, seleciona, relaciona, organiza e interpreta informações, fatos, opiniões e argumentos em defesa do ponto de vista escolhido. É preciso, então, elaborar um texto que apresente, claramente, uma ideia a ser defendida e os argumentos que justifiquem a posição assumida por você em relação à temática da proposta de redação.\nA Competência 3 trata da inteligibilidade do seu texto, ou seja, de sua coerência e da plausibilidade entre as ideias apresentadas, o que está alicerçado no planejamento prévio à escrita, ou seja, na elaboração de um projeto de texto.\nA inteligibilidade da sua redação depende, portanto, dos seguintes fatores:\n- seleção de argumentos;\n- relação de sentido entre as partes do texto;\n- progressão temática adequada ao desenvolvimento do tema, revelando que a redação foi planejada e que as ideias desenvolvidas são, pouco a pouco, apresentadas de forma organizada, em uma ordem lógica;\n- desenvolvimento dos argumentos, com a explicitação da relevância das ideias apresentadas para a defesa do ponto de vista definido.",
+  "theme": null,
+  "title": "1.3 COMPETÊNCIA 3",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "6b717f9e6c43d685",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0031",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   23,
+   23
+  ],
+  "printedPages": [
+   "21",
+   "21"
+  ],
+  "quality": "ok",
+  "section": "1.3 COMPETÊNCIA 3",
+  "text": "A coerência se estabelece por meio das ideias apresentadas no texto e dos conhecimentos dos interlocutores, garantindo a construção do sentido de acordo com as expectativas do leitor. Está, pois, ligada ao entendimento e à possibilidade de interpretação dos sentidos do texto. O leitor poderá compreender esse texto, refletir a respeito das ideias nele contidas e, em resposta, reagir de maneiras diversas: aceitar, recusar, questionar e até mesmo mudar seu comportamento em face das ideias do autor, partilhando ou não da sua opinião.",
+  "theme": null,
+  "title": "O QUE É COERÊNCIA?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "023ed1dc291cbd7d",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0032",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   23,
+   23
+  ],
+  "printedPages": [
+   "21",
+   "21"
+  ],
+  "quality": "ok",
+  "section": "1.3 COMPETÊNCIA 3",
+  "text": "Projeto de texto é o planejamento prévio à escrita da redação. É o esquema que se deixa perceber pela organização estratégica dos argumentos presentes no texto. É nele que são definidos quais os argumentos que serão mobilizados para a defesa de sua tese e qual a melhor ordem para apresentá-los, de modo a garantir que o texto final seja articulado, claro e coerente. Assim, o texto que atende às expectativas referentes à Competência 3 é aquele no qual é possível perceber a presença implícita de um projeto de texto, ou seja, aquele em que é claramente identificável a estratégia escolhida por quem está escrevendo para defender seu ponto de vista.\nSeguem algumas recomendações para atender plenamente às expectativas em relação à Competência 3:\n- a partir do tema apresentado na prova de redação, defina qual será o ponto de vista que você vai defender em seu texto;\n- reúna todas as ideias que lhe ocorrerem sobre o tema e depois selecione as que forem pertinentes para a defesa do seu ponto de vista, procurando organizá-las em uma estrutura coerente para usá-las no desenvolvimento do seu texto;\n- verifique se informações, fatos, opiniões e argumentos selecionados são pertinentes para a defesa do seu ponto de vista;\n- na organização das ideias selecionadas para serem abordadas em seu texto, procure definir uma ordem que possibilite ao leitor acompanhar o seu raciocínio facilmente, o que significa que a progressão textual deve ser fluente e articulada com o projeto do texto;",
+  "theme": null,
+  "title": "O QUE É PROJETO DE TEXTO?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "ac75a25db074b5ec",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0033",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   23,
+   24
+  ],
+  "printedPages": [
+   "21",
+   "22"
+  ],
+  "quality": "ok",
+  "section": "1.3 COMPETÊNCIA 3",
+  "text": "- examine, com atenção, a introdução e a conclusão, para ver se há coerência entre o início e o fim. Também observe se o desenvolvimento de seu texto apresenta argumentos que convergem para o ponto de vista que você está defendendo;\n- evite apresentar informações, fatos e opiniões soltos no texto, sem desenvolvimento e sem articulação com as outras ideias apresentadas.",
+  "theme": null,
+  "title": "O QUE É PROJETO DE TEXTO?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "b98d91c1a640e20a",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0034",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   24,
+   24
+  ],
+  "printedPages": [
+   "22",
+   "22"
+  ],
+  "quality": "ok",
+  "section": "1.3 COMPETÊNCIA 3",
+  "text": "Lembre-se de que há uma limitação no número de linhas e, por esse motivo, seu texto deve ser constituído apenas por informações, fatos, opiniões e argumentos que sejam pertinentes para a defesa do seu ponto de vista. Evite perder tempo (e linhas em sua redação) com informações irrelevantes, repetidas ou excessivas.\nResumindo: na organização do texto dissertativo-argumentativo, você deve procurar atender às seguintes exigências:\n- apresentação clara do ponto de vista e seleção dos argumentos que o sustentam;\n- encadeamento das ideias, de modo que cada parágrafo apresente informações coerentes com o que foi apresentado anteriormente, sem repetições desnecessárias ou saltos temáticos (mudanças abruptas sobre o que está sendo discutido);\n- desenvolvimento dessas ideias por meio da explicitação, explicação ou exemplificação de informações, fatos e opiniões, de modo a justificar, para o leitor, o ponto de vista escolhido.\nO quadro a seguir apresenta os seis níveis de desempenho que serão utilizados para avaliar a Competência 3 nas redações do Enem 2020:",
+  "theme": null,
+  "title": "IMPORTANTE!",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "b7fabbcdbf61f4aa",
+  "competencies": [
+   "IV"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0035",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   25,
+   25
+  ],
+  "printedPages": [
+   "23",
+   "23"
+  ],
+  "quality": "ok",
+  "section": "1.4 COMPETÊNCIA 4",
+  "text": "Os aspectos a serem avaliados nesta Competência dizem respeito à estruturação lógica e formal entre as partes da redação. A organização textual exige que as frases e os parágrafos estabeleçam entre si uma relação que garanta a sequenciação coerente do texto e a interdependência entre as ideias. Essa articulação é feita mobilizando-se recursos coesivos, em especial operadores argumentativos, que são os principais termos responsáveis pelas relações semânticas construídas ao longo do texto dissertativo-argumentativo, por exemplo, relações de igualdade, de adversidade, de causa-consequência, de conclusão etc. Certas preposições, conjunções, alguns advérbios e locuções adverbiais são responsáveis pela coesão do texto, porque estabelecem uma inter-relação entre orações, frases e parágrafos, além de pronomes e expressões referenciais, conforme explicaremos adiante, no item “referenciação”. Cada parágrafo será composto por um ou mais períodos também articulados; cada ideia nova precisa estabelecer relação com as anteriores.\nAssim, na produção da sua redação, você deve utilizar variados recursos linguísticos que garantam as relações de continuidade essenciais à elaboração de um texto coeso. Na avaliação da Competência 4, será considerado, portanto, o modo como se dá o encadeamento textual.",
+  "theme": null,
+  "title": "1.4 COMPETÊNCIA 4",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "9ad97c9fd0612463",
+  "competencies": [
+   "IV"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0036",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   25,
+   25
+  ],
+  "printedPages": [
+   "23",
+   "23"
+  ],
+  "quality": "ok",
+  "section": "1.4 COMPETÊNCIA 4",
+  "text": "Você viu que as Competências 3 e 4 consideram a construção da argumentação ao longo do texto, porém avaliam aspectos diferentes. Na Competência 3, é avaliada a capacidade de o participante “selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista”, ou seja, trata-se da estrutura mais profunda do texto. Já a coesão, avaliada na Competência 4, atua na superfície textual, isto é, avalia as marcas linguísticas que ajudam a chegar à compreensão profunda do texto.\nDesse modo, você deve, na construção de seu texto, demonstrar conhecimento sobre os mecanismos linguísticos necessários para um adequado encadeamento textual, considerando os recursos coesivos que garantem a conexão de ideias tanto entre os parágrafos quanto dentro deles.",
+  "theme": null,
+  "title": "1.4 COMPETÊNCIA 4",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "a700812bb2653629",
+  "competencies": [
+   "IV"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0037",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   25,
+   26
+  ],
+  "printedPages": [
+   "23",
+   "24"
+  ],
+  "quality": "ok",
+  "section": "1.4 COMPETÊNCIA 4",
+  "text": "Para garantir a coesão textual, devem ser observados determinados princípios em diferentes níveis:\n- estruturação dos parágrafos – um parágrafo é uma unidade textual formada por uma ideia principal à qual se ligam ideias secundárias. No texto dissertativo-argumentativo, os parágrafos podem ser desenvolvidos por comparação, por causa-consequência, por exemplificação, por detalhamento, entre outras possibilidades. Deve haver uma articulação entre um parágrafo e outro;\n- estruturação dos períodos – pela própria especificidade do texto dissertativoargumentativo, os períodos do texto são, normalmente, estruturados de modo complexo, formados por duas ou mais orações, para que se possam expressar as ideias de causaconsequência, contradição, temporalidade, comparação, conclusão, entre outras;\n- referenciação – pessoas, coisas, lugares e fatos são apresentados e, depois, retomados, à medida que o texto vai progredindo. Esse processo pode ser realizado mediante o uso de pronomes, advérbios, artigos, sinônimos, antônimos, hipônimos, hiperônimos, além de expressões resumitivas, metafóricas ou metadiscursivas.\nRECOMENDAÇÕES\n- Procure utilizar as seguintes estratégias de coesão para se referir a elementos que já apareceram no texto:\n- a) substituição de termos ou expressões por pronomes pessoais, possessivos e demonstrativos, advérbios que indicam localização, artigos;\n- b) substituição de termos ou expressões por sinônimos, hipônimos, hiperônimos ou expressões resumitivas;",
+  "theme": null,
+  "title": "COMO GARANTIR A COESÃO DO TEXTO?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "f82b4b1f333d4a32",
+  "competencies": [
+   "IV"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0038",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   26,
+   26
+  ],
+  "printedPages": [
+   "24",
+   "24"
+  ],
+  "quality": "ok",
+  "section": "1.4 COMPETÊNCIA 4",
+  "text": "- c) substituição de verbos, substantivos, períodos ou fragmentos do texto por conectivos ou expressões que retomem o que foi dito;\n- d) elipse ou omissão de elementos que já tenham sido citados ou que sejam facilmente identificáveis.\n- Utilize operadores argumentativos para relacionar orações, frases e parágrafos de forma constante ao longo do texto.\n- Verifique se o elemento coesivo utilizado estabelece a relação de sentido pretendida.\nResumindo: na elaboração da redação, você deve evitar:\n- ausência de articulação entre orações, frases e parágrafos;\n- ausência de paragrafação (texto elaborado em um único parágrafo);\n- emprego de conector (preposição, conjunção, pronome relativo, alguns advérbios e locuções adverbiais) que não estabeleça relação lógica entre dois trechos do texto e prejudique a compreensão da mensagem;\n- repetição ou substituição inadequada de palavras sem se valer dos recursos oferecidos pela língua (pronome, advérbio, artigo, sinônimo).",
+  "theme": null,
+  "title": "COMO GARANTIR A COESÃO DO TEXTO?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "53e5cc5b0f3e87f1",
+  "competencies": [
+   "IV"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0039",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   26,
+   27
+  ],
+  "printedPages": [
+   "24",
+   "25"
+  ],
+  "quality": "ok",
+  "section": "1.4 COMPETÊNCIA 4",
+  "text": "Não utilize elementos coesivos de forma artificial, apenas porque é um dos critérios avaliados na prova de redação ou porque seu texto vai parecer mais bem escrito. Uma boa coesão não depende da mera presença de conectivos no texto – é preciso que esses recursos estabeleçam relações lógicas adequadas entre as ideias apresentadas.\nO quadro a seguir apresenta os seis níveis de desempenho que serão utilizados para avaliar a Competência 4 nas redações do Enem 2020:",
+  "theme": null,
+  "title": "IMPORTANTE!",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "4cf92486d4d41a5d",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0040",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   27,
+   27
+  ],
+  "printedPages": [
+   "25",
+   "25"
+  ],
+  "quality": "ok",
+  "section": "1.5 COMPETÊNCIA 5",
+  "text": "O quinto aspecto a ser avaliado no seu texto é a apresentação de uma proposta de intervenção para o problema abordado, respeitando-se os Direitos Humanos. Propor uma intervenção para o problema apresentado pelo tema significa sugerir uma iniciativa que busque enfrentá-lo. É importante ressaltar que as provas de redação do Enem normalmente abordam temas complexos, muitas vezes de difícil resolução, de ordem social, científica, cultural ou política.\nA elaboração de uma proposta de intervenção na prova de redação do Enem representa uma ocasião para que você demonstre seu preparo para exercitar a cidadania e para atuar na realidade em consonância com os direitos humanos. Portanto, você deve usar os conhecimentos desenvolvidos ao longo de sua formação para a produção de um texto no qual, além de se posicionar de maneira crítica e argumentar a favor de um ponto de vista, você possa indicar uma iniciativa que interfira no problema discutido em sua redação.\nA proposta de intervenção precisa estar relacionada ao tema e integrada ao seu projeto de texto. Considerando seu planejamento de escrita (avaliado na Competência 3), sua proposta deve ser coerente em relação à tese desenvolvida e aos argumentos utilizados, já que expressa sua visão, como autor, das possíveis soluções para a questão discutida. Assim, é necessário que a intervenção apontada responda aos problemas discutidos por você, mostrando-se articulada ao seu projeto de texto.",
+  "theme": null,
+  "title": "1.5 COMPETÊNCIA 5",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "ff434617a7d32f41",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0041",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   27,
+   28
+  ],
+  "printedPages": [
+   "25",
+   "26"
+  ],
+  "quality": "ok",
+  "section": "1.5 COMPETÊNCIA 5",
+  "text": "Ao redigir seu texto, busque apresentar uma proposta concreta, específica ao tema e consistente com o desenvolvimento de suas ideias. Para construir uma proposta muito bem elaborada, você deve não apenas propor uma ação interventiva, mas também o ator social competente para executá-la, de acordo com o âmbito da ação escolhida: individual, familiar, comunitário, social, político, governamental e mundial. Além disso, você deve determinar o meio de execução da ação e o seu efeito ou a sua finalidade, bem como incluir algum outro detalhamento.\nAo elaborar sua proposta, procure responder às seguintes perguntas:\n- 1) O que é possível apresentar como solução para o problema?\n- 2) Quem deve executá-la?\n- 3) Como viabilizar essa solução?\n- 4) Qual efeito ela pode alcançar?\n- 5) Que outra informação pode ser acrescentada para detalhar a proposta?\nResumindo: seu texto será avaliado com base na composição da proposta que você apresentar.",
+  "theme": null,
+  "title": "1.5 COMPETÊNCIA 5",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "598887cb2e633077",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0042",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   28,
+   28
+  ],
+  "printedPages": [
+   "26",
+   "26"
+  ],
+  "quality": "ok",
+  "section": "1.5 COMPETÊNCIA 5",
+  "text": "Existem várias formas de propor uma intervenção, e você deve explorar aquela que mais se adéque ao tema e ao seu projeto de texto. Contudo, fique atento para que sua proposta esteja explícita. Apenas constatar a falta de uma ação ou de um projeto (como em “faltam investimentos em x”) ainda não é suficiente para configurar uma proposta de intervenção, bem como apresentar estruturas que não permitam ter certeza de que você está propondo, de fato, uma intervenção (como em “se x for feito, o resultado poderá ser y”). Além disso, evite propostas vagas, genéricas ou incompatíveis com a discussão. Em suma, você deve ser claro ao apresentar seu desejo de intervir na realidade, e sua proposta deve contemplar a situação problematizada em seu texto.",
+  "theme": null,
+  "title": "IMPORTANTE!",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "9614e1837ca4f281",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0043",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   28,
+   29
+  ],
+  "printedPages": [
+   "26",
+   "27"
+  ],
+  "quality": "ok",
+  "section": "1.5 COMPETÊNCIA 5",
+  "text": "A prova de redação do Enem sempre assinalou a necessidade de o participante respeitar os Direitos Humanos, e essa determinação está na matriz de referência da redação do Enem. Conforme a matriz, as redações que apresentarem propostas de intervenção que desrespeitem os direitos humanos serão penalizadas na Competência 5.\nPode-se dizer que determinadas ideias e ações serão sempre avaliadas como contrárias aos Direitos Humanos, tais como: defesa de tortura, mutilação, execução sumária e qualquer forma de “justiça com as próprias mãos”; incitação a qualquer tipo de violência motivada por questões de raça, etnia, gênero, credo, condição física, origem geográfica ou socioeconômica; explicitação de qualquer forma de discurso de ódio (voltado contra grupos sociais específicos).\nPara a avaliação das redações, são considerados os seguintes princípios norteadores dos Direitos Humanos, pautados no artigo 3º da Resolução nº 1, de 30 de maio de 2012, o qual estabelece as Diretrizes Nacionais para a Educação em Direitos Humanos:\n- Dignidade humana.\n- Igualdade de direitos.\n- Reconhecimento e valorização das diferenças e diversidades.\n- Laicidade do Estado.\n- Democracia na educação.\n- Transversalidade, vivência e globalidade.\n- Sustentabilidade socioambiental.",
+  "theme": null,
+  "title": "O QUE É CONSIDERADO DESRESPEITO AOS DIREITOS HUMANOS?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "61be99527f7886c0",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0044",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   29,
+   29
+  ],
+  "printedPages": [
+   "27",
+   "27"
+  ],
+  "quality": "ok",
+  "section": "1.5 COMPETÊNCIA 5",
+  "text": "Há, também, algumas ideias e ações contrárias aos Direitos Humanos que estão mais diretamente relacionadas ao tema da prova. Assim, com relação ao tema de redação proposto na edição do Enem 2019, Democratização do acesso ao cinema no Brasil, foram consideradas propostas que desrespeitam os direitos humanos as que os negavam a qualquer pessoa; impediam o acesso livre à vida cultural de qualquer ser humano (produção, circulação e consumo de bens culturais); restringiam conteúdos com base em critérios que feriam a dignidade humana; e negavam o direito à proteção dos interesses morais e materiais das produções artísticas aos seus autores.\nA seguir, são apresentados alguns exemplos de trechos de redações de participantes do Enem 2019 que levaram à atribuição de nota 0 (zero) na Competência 5, por ferirem os direitos humanos:\n- 1) “O Ministério Público deve banir os cinemas ou TVs no Brasil para que possa existir um índice certo sobre o acesso ao cinema; ou então que as TVs existissem apenas para notícias sobre o que está acontecendo dentro do Brasil”;\n- 2) “É notório para prevenir esses acontecimentos é necessário diminuir a quantidade de cinemas, as pessoas reduzirem o tempo vendo filmes, acabar com os diversos aplicativos de filmes que existem”;\n- 3) “Cadastros deveriam ser feitos para limitar a ida das pessoas ao cinema. Assim diminuiria os casos de acesso contínuo ao cinema, celulares, televisões e outros”;",
+  "theme": null,
+  "title": "O QUE É CONSIDERADO DESRESPEITO AOS DIREITOS HUMANOS?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "efb30ede26908706",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "section",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0045",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   29,
+   29
+  ],
+  "printedPages": [
+   "27",
+   "27"
+  ],
+  "quality": "ok",
+  "section": "1.5 COMPETÊNCIA 5",
+  "text": "- 4) “Portanto, é necessário que diminua o acesso livre ao cinema no Brasil, tem que ser bem rígido e controlado, porque pode aumentar ainda mais a urbanização e isso não é bom”.\nEm resumo, na prova de redação do Enem, quaisquer que sejam os temas propostos para o desenvolvimento do texto dissertativo-argumentativo, constituem desrespeito aos Direitos Humanos propostas que incitam as pessoas à violência, ou seja, aquelas em que transparece a ação de indivíduos na administração da punição – por exemplo, as que defendem a “justiça com as próprias mãos”. Por outro lado, não caracterizam desrespeito aos Direitos Humanos as propostas de pena de morte ou prisão perpétua, uma vez que conferem ao Estado a administração da punição ao agressor. Essas punições não dependem de indivíduos, configurando-se como contratos sociais cujos efeitos todos devem conhecer e respeitar em uma sociedade.\nO quadro a seguir apresenta os seis níveis de desempenho que serão utilizados para avaliar a Competência 5 nas redações do Enem 2020:",
+  "theme": null,
+  "title": "O QUE É CONSIDERADO DESRESPEITO AOS DIREITOS HUMANOS?",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "7d3ca6bfc83ca940",
+  "competencies": [
+   "III",
+   "V",
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0046",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   30,
+   30
+  ],
+  "printedPages": [
+   "28",
+   "28"
+  ],
+  "quality": "ok",
+  "section": "1.6 RECOMENDAÇÕES GERAIS",
+  "text": "Para alcançar bom desempenho na prova de redação do Enem, você deve, antes de escrever seu texto, fazer uma leitura cuidadosa da proposta apresentada, dos textos motivadores e das instruções, a fim de que possa compreender perfeitamente o que está sendo solicitado.\nO tema da redação sempre vem acompanhado, na proposta, de textos motivadores. Em geral, são textos em linguagem verbal e em linguagem não verbal (imagem) que remetem ao tema proposto, a fim de orientar sua reflexão.\nAssim, para elaborar uma redação de qualidade, você deve seguir as seguintes recomendações:\n- a) ler com bastante atenção o tema proposto e observar a tipologia textual exigida (no caso, texto dissertativo-argumentativo);\n- b) ler os textos motivadores, observando as palavras ou os fragmentos que indicam o posicionamento dos autores;\n- c) identificar, em cada texto motivador, se for o caso, a tese e os argumentos apresentados pelos autores;\n- d) refletir sobre o posicionamento dos autores dos textos motivadores e definir, com muita clareza, qual será o seu posicionamento;\n- e) ler atentamente as instruções apresentadas após os textos motivadores;\n- f) definir um projeto de texto em que seja planejada a organização estratégica da sua redação, a fim de defender o ponto de vista por você escolhido, e apresentar uma proposta de intervenção ao problema abordado.",
+  "theme": null,
+  "title": "1.6 RECOMENDAÇÕES GERAIS",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "07866e46ec20ed50",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0047",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   31,
+   31
+  ],
+  "printedPages": [
+   "29",
+   "29"
+  ],
+  "quality": "ok",
+  "section": "1.6 RECOMENDAÇÕES GERAIS",
+  "text": "As propostas de redação do Enem solicitam aos participantes que redijam um texto dissertativo-argumentativo, segundo a modalidade escrita formal da língua portuguesa, sobre um determinado tema. Assim, você deve considerar os seguintes pontos:\n- a) a tipologia textual definida pela proposta é o texto dissertativo-argumentativo. Com base na situação-problema, você deverá expressar sua opinião, ou seja, apresentar uma tese. Para tal, você poderá se inspirar nos textos motivadores, mas sem copiá-\n- los, pois eles devem ser entendidos como instrumentos de fomento de ideias, para que cada participante possa construir o seu próprio ponto de vista. Nos parágrafos seguintes, você deverá apresentar argumentos e fatos em defesa de seu ponto de vista, com coesão e coerência;\n- b) o texto deverá ser redigido de acordo com a modalidade escrita formal da língua portuguesa. Assim, fique atento à estrutura dos períodos, à acentuação e à ortografia das palavras, ao emprego adequado do hífen e das letras maiúsculas e minúsculas, à separação silábica (translineação), à regência e à concordância, nominais e verbais, à pontuação, ao paralelismo sintático, ao emprego dos pronomes e da crase, à adequação à escrita formal da língua portuguesa, sem informalidades e marcas de oralidade, bem como à adequação vocabular. Em suma, demonstre domínio do código escrito;\n- c) o texto definitivo dever ser escrito a tinta preta, na folha própria, em até 30 linhas;",
+  "theme": null,
+  "title": "1.6 RECOMENDAÇÕES GERAIS",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "97cc17579cfdbbd7",
+  "competencies": [
+   "II",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0048",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   31,
+   32
+  ],
+  "printedPages": [
+   "29",
+   "30"
+  ],
+  "quality": "ok",
+  "section": "1.6 RECOMENDAÇÕES GERAIS",
+  "text": "- d) a redação com até 7 linhas será considerada “texto insuficiente” e receberá nota zero;\n- e) Também é atribuída nota zero à redação que:\n- fuja ao tema ou à tipologia textual, isto é, que não seja um texto dissertativo-argumentativo;\n- desrespeite a seriedade do exame;\n- apresente cópia integral de texto(s) da Prova de Redação e/ou do Caderno de Questões;\n- apresente impropérios, desenhos e/ou outras formas propositais de anulação em qualquer parte da folha de redação; números ou sinais gráficos sem função clara em qualquer parte do texto ou da folha de redação; parte deliberadamente desconectada do tema proposto; assinatura, nome, apelido, codinome ou rubrica fora do local devidamente designado para a assinatura do participante;\n- seja escrita predominantemente em língua estrangeira;\n- seja escrita de forma ilegível, impossibilitando sua leitura por dois avaliadores independentes.\nA seguir, apresentamos um quadro explicativo sobre a tarefa de escrever a redação do Enem:\nI –\nApresentar um ponto de vista, desenvolver justificativas para comprovar esse ponto de vista e uma conclusão que dê um fechamento à discussão elaborada no texto, compondo o processo argumentativo.\nPONTO DE VISTA – É a ideia que você vai defender no seu texto. Ela deve estar relacionada ao tema e apoiada em argumentos ao longo da redação.",
+  "theme": null,
+  "title": "1.6 RECOMENDAÇÕES GERAIS",
+  "year": 2020
+ },
+ {
+  "category": "orientacao",
+  "checksum": "f7c5a6d231e0e26f",
+  "competencies": [
+   "III",
+   "V"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "id": "2020.orie.0049",
+  "kind": "guidance",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   32,
+   32
+  ],
+  "printedPages": [
+   "30",
+   "30"
+  ],
+  "quality": "ok",
+  "section": "1.6 RECOMENDAÇÕES GERAIS",
+  "text": "ARGUMENTOS – São as justificativas para convencer o leitor a concordar com seu ponto de vista. Cada argumento deve responder à pergunta “por quê?” em relação ao ponto de vista defendido.\nII – Utilizar estratégias argumentativas para\nexpor o problema discutido no texto e detalhar os argumentos utilizados.\nESTRATÉGIAS ARGUMENTATIVAS – São os recursos utilizados para desenvolver os argumentos, de modo a convencer o leitor:\n- exemplos;\n- dados estatísticos;\n- pesquisas;\n- fatos comprováveis;\n- citações ou depoimentos de pessoas especializadas no assunto;\n- pequenas narrativas ilustrativas;\n- alusões históricas; e\n- comparações entre fatos, situações, épocas ou lugares distintos.\nIII – Elaborar uma proposta de intervenção\nrelacionada ao ponto de vista e aos argumentos apresentados no texto.\nA proposta de intervenção deve claramente indicar a ação a ser realizada, os agentes sociais responsáveis por sua execução, como ela será posta em prática e qual é o seu efeito pretendido, além de detalhar (explicar, exemplificar) pelo menos um desses elementos.\nIV – Utilizar a linguagem formal da\nlíngua portuguesa escrita, evitando ambiguidades.\nO texto precisa ser escrito de forma clara e coesa, possibilitando que o leitor (no caso, o avaliador de sua redação) compreenda suas ideias. Para garantir que isso aconteça, lembre-se de que:\n- a grafia das palavras deve seguir o Novo Acordo Ortográfico;\n- as orações, os períodos e os parágrafos devem estar bem construídos e com a pontuação adequada;\n- as ideias devem se relacionar entre si por meio de elementos coesivos que permitam a retomada de termos anteriores (evitando repetições desnecessárias) e a progressão textual.",
+  "theme": null,
+  "title": "1.6 RECOMENDAÇÕES GERAIS",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "0ae59cfab8cbff8d",
+  "commentChunkIds": [
+   "2020.essay.01.comment.01",
+   "2020.essay.01.comment.02",
+   "2020.essay.01.comment.03"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2020",
+  "essayAuthor": "GABRIEL MELO CALDAS NOGUEIRA",
+  "essayId": "2020.essay.01",
+  "examYear": 2019,
+  "id": "2020.essay.01",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   35,
+   35
+  ],
+  "printedPages": [
+   "33",
+   "33"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Para o filósofo escocês David Hume, a principal característica que difere o ser humano dos outros animais é o poder de seu pensamento, habilidade que o permite ver aquilo que nunca foi visto e ouvir aquilo que nunca foi ouvido. Sob essa ótica, vê-se que o cinema representa a capacidade de transpor para a tela as ideias e os pensamentos presentes no intelecto das pessoas, de modo a possibilitar a criação de novos universos e, justamente por esse potencial cognitivo, ele é muito relevante. É prudente apontar, diante disso, que a arte cinematográfica deve ser democratizada, em especial no Brasil – país rico em expressões culturais que podem dialogar com esse modelo artístico –, por razões que dizem respeito tanto à sociedade quanto às leis.\n\nEm primeiro lugar, é válido frisar que o cinema dialoga com uma elementar necessidade social e, consequentemente, não pode ser deixada em segundo plano. Para entender essa lógica, pode-se mencionar o renomado historiador holandês Johan Huizinga, o qual, no livro “Homo Ludens”, ratifica a constante busca humana pelo prazer lúdico, pois ele promove um proveitoso bem-estar. É exatamente nessa conjuntura que se insere o fenômeno cinematográfico, uma vez que ele, ao possibilitar a interação de vários indivíduos na contemplação do espetáculo, faz com que a plateia participe das histórias, de forma a compartilhar experiências e vivências – o que representa o fator lúdico mencionado pelo pensador. É perceptível, portanto, o louvável elemento benfeitor dessa criação artística, capaz de garantir a coesão da comunidade.\n\nEm segundo lugar, é oportuno comentar que o cenário do cinema supracitado remete ao que defende o arcabouço jurídico do país. Isso porque o artigo 215 da Constituição Federal é claro em caracterizar os bens culturais como um direito de todos, concebidos com absoluta prioridade por parte do Estado. Contudo, é desanimador notar que tal diretriz não dá sinais de plena execução e, para provar isso, basta analisar as várias pesquisas do Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN ) que demonstram a lamentável distribuição irregular das práticas artísticas – dentre elas, o cinema –, uma vez que estão restritas a poucos municípios brasileiros. Vê-se, então, o perigo da norma apresentada findar em desuso, sob pena de confirmar o que propunha Dante Alighiere, em “A Divina Comédia”: “As leis existem, mas quem as aplica?”. Esse cenário, certamente, configura-se como desagregador e não pode ser negligenciado.\n\nPor fim, caminhos devem ser elucidados para democratizar o acesso ao cinema no Brasil, levando-se em consideração as questões sociais e legislativas abordadas. Sendo assim, cabe ao Governo Federal – órgão responsável pelo bem-estar e lazer da população – elaborar um plano nacional de incentivo à prática cinematográfica, de modo a instituir ações como a criação de semanas culturais nacionais, bem como o desenvolvimento de atividades artísticas públicas. Isso pode ser feito por meio de uma associação entre prefeituras, governadores e setores federais\n\n– já que o fenômeno envolve todos esses âmbitos administrativos –, os quais devem executar periódicos eventos, ancorados por atores e diretores, que visem exibir filmes gratuitos para a comunidade civil. Esse projeto deve se adaptar à realidade de cada cidade para ser efetivo. Dessa forma, o cinema poderá ser, enfim, democratizado, o que confirmará o que determina o artigo 215 da Constituição. Assim, felizmente, os cidadãos poderão desfrutar das benesses advindas dessa engrandecedora ação artística.",
+  "theme": null,
+  "title": "Redação 1 — GABRIEL MELO CALDAS NOGUEIRA",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "3d3ed1ccaf23c53f",
+  "competencies": [
+   "I",
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "GABRIEL MELO CALDAS NOGUEIRA",
+  "essayId": "2020.essay.01",
+  "examYear": 2019,
+  "id": "2020.essay.01.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.01",
+  "pdfPages": [
+   36,
+   36
+  ],
+  "printedPages": [
+   "34",
+   "34"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "O participante demonstra excelente domínio da modalidade escrita formal da língua portuguesa, uma vez que a estrutura sintática é excelente e há apenas um desvio no trecho “habilidade que o permite ver aquilo que nunca foi visto e ouvir aquilo que nunca foi ouvido” (1º parágrafo), em que deveria ter empregado o pronome “lhe”, e não “o”.\n\nCom relação aos princípios da estruturação do texto dissertativo-argumentativo, percebe-se que a redação do participante apresenta introdução em que dá início à discussão, desenvolvimento com justificativas que comprovam seu ponto de vista e conclusão que encerra a discussão, demonstrando excelente domínio do texto dissertativo-argumentativo. O tema é abordado de forma completa já no primeiro parágrafo, no qual o participante aponta que a arte cinematográfica deve ser democratizada. Há, também, repertório sociocultural utilizado de maneira produtiva e pertinente à discussão no primeiro parágrafo, com a referência ao que é postulado pelo filósofo David Hume para relacionar o poder de pensamento do ser humano a sua capacidade de transpor ideias por meio do cinema, por exemplo. No segundo parágrafo, o participante aborda o potencial lúdico do cinema, mencionando a obra de Johan Huizinga. Por fim, no terceiro parágrafo, ele se vale da Constituição Federal para afirmar que todos têm direito aos bens artísticos, o que não ocorre na prática, de acordo com pesquisas do IPHAN.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 1 — GABRIEL MELO CALDAS NOGUEIRA (1/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "1eb3b9a2ecccbd52",
+  "competencies": [
+   "IV"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "GABRIEL MELO CALDAS NOGUEIRA",
+  "essayId": "2020.essay.01",
+  "examYear": 2019,
+  "id": "2020.essay.01.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.01",
+  "pdfPages": [
+   36,
+   36
+  ],
+  "printedPages": [
+   "34",
+   "34"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "O projeto de texto apresentado ao longo da redação é considerado estratégico porque há uma organização clara e um desenvolvimento consistente da redação. Isso se deve ao fato de que o participante apresenta informações, fatos e opiniões relacionados ao tema proposto para defender seu ponto de vista de que o acesso ao cinema deve ser democratizado, por razões relacionadas tanto à sociedade quanto às leis. Em relação à sociedade, o participante aponta a importância do cinema como elemento lúdico, que proporciona bem-estar e coesão da comunidade. Já em relação às leis, ele apresenta o artigo 215 da Constituição Federal, segundo o qual o acesso a bens culturais é um direito de todos. No entanto, ele afirma que esse direito não é garantido, uma vez que existe uma distribuição irregular das práticas artísticas, incluindo o cinema. Por fim, propõe uma solução para alcançar a democratização efetivamente.\n\nQuanto à coesão, observa-se, nessa redação, um repertório diversificado de recursos coesivos, sem inadequações. Há articulação tanto entre os parágrafos (“Em segundo lugar”, “Por fim”) quanto entre as ideias dentro de um mesmo parágrafo (como “Sob essa ótica”, “de modo a” e “Diante disso”, no 1º parágrafo; “o qual”, “pois” e “portanto”, no 2º parágrafo; “Contudo” e “uma vez que”, no 3º parágrafo; e “Sendo assim” e “Dessa forma”, no 4º parágrafo).",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 1 — GABRIEL MELO CALDAS NOGUEIRA (2/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "752cc97d0d5d3f0f",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "GABRIEL MELO CALDAS NOGUEIRA",
+  "essayId": "2020.essay.01",
+  "examYear": 2019,
+  "id": "2020.essay.01.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.01",
+  "pdfPages": [
+   36,
+   36
+  ],
+  "printedPages": [
+   "34",
+   "34"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Por fim, o participante elabora proposta de intervenção muito boa: concreta, detalhada, articulada à discussão desenvolvida no texto e que respeita os direitos humanos. A proposta apresentada reforça o papel do Governo de garantir o direito previsto na Constituição, propondo que seja elaborado um plano de incentivo à prática cinematográfica.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 1 — GABRIEL MELO CALDAS NOGUEIRA (3/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "ef67304d7e9934d6",
+  "commentChunkIds": [
+   "2020.essay.02.comment.01",
+   "2020.essay.02.comment.02",
+   "2020.essay.02.comment.03"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2020",
+  "essayAuthor": "MARIA ANTÔNIA DE LIMA BARRA",
+  "essayId": "2020.essay.02",
+  "examYear": 2019,
+  "id": "2020.essay.02",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   37,
+   37
+  ],
+  "printedPages": [
+   "35",
+   "35"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "O filme “Bastardos inglórios”, ao contextualizar cenas em meados do século XX, retrata o caráter elitista das exibições de cinema, uma vez que eram feitas em espaços de socialização das classes ricas da época. Na contemporaneidade, embora seja mais amplo, ainda há entraves a serem superados quanto à democratização do acesso às salas cinematográficas (e seus conteúdos) no Brasil. Nesse sentido, os resquícios de uma herança segregacionista no que diz respeito à frequência de locais de cinema geram a dificuldade em manter esse hábito em parte da população, o que perpetua a problemática.\n\nNessa linha de raciocínio, é fundamental ressaltar que a urbanização tardia e a constante gentrificação de espaços citadinos brasileiros são responsáveis pela permanência de costumes elitistas. Com efeito, o geógrafo Milton Santos, ao estudar a organização das cidades do Brasil, postula que o processo rápido e desorganizado de construção urbana provocou a marginalização de grande parte dos cidadãos. Desse modo, o acesso a shopping centers e demais espaços de lazer, como os cinemas, ficou restrito àqueles que possuem meios para tal, ou seja, à parcela da população que mora perto desses locais centrais – a elite –, ou que possui recursos para consumir esses produtos culturais – também a elite. Assim, no que tange à exibição de filmes, há resquícios de um caráter segregacionista, visto que a marginalização e a gentrificação excluem a massa populacional dos espaços cinematográficos, mantendo, estruturalmente, a problemática na sociedade brasileira.\n\nConsequentemente, a dificuldade de manter o hábito de frequentar tais locais impede a plena democratização do acesso ao cinema. Nesse aspecto, a teoria do sociólogo Pierre Bourdieu acerca do “capital cultural” vai ao encontro da realidade discutida. Em seus postulados, Bourdieu discute a influência das referências socioespaciais nos costumes do indivíduo, concluindo que o desenvolvimento de valores que incluam certas culturas é imprescindível à manutenção dos costumes referentes a elas. Sendo assim, a herança segregacionista de frequência às salas cinematográficas e demais plataformas de exibição impede a construção de um capital cultural em parte da população do país, prejudicando sua democratização. Um exemplo disso é o relato da autora Carolina Maria de Jesus, em seu livro “Quarto de despejo”, no qual ela conta que, por residir na periferia, o dinheiro que seus filhos gastariam para assistir aos longas no cinema não seria suficiente nem para pagar seus deslocamentos.\n\nPortanto, visando mitigar os entraves à resolução da problemática, algumas medidas são necessárias. Primeiramente, cabe ao Governo Federal criar programas de apoio à cultura cinematográfica, por meio de sistemas de assistência às famílias carentes e especialmente distantes dos centros de lazer, como “vales cultura”, junto a “vales transporte”, para que os processos conceituados por Milton Santos (como gentrificação, que é a expulsão de indivíduos de uma área para a construção de espaços elitizados) não interfiram no acesso populacional ao cinema. Por fim, é dever das escolas promover formas de desenvolvimento de valores referentes à cultura cinematográfica, através de exibições extra-classe, como em gincanas e trabalhos lúdicos, a fim de que tanto os alunos quanto os pais possam construir o “capital” postulado por Bourdieu, de modo que tenham interesse de frequentar os espaços de plataformas de filmes, ampliando, então, o acesso a elas. Enfim, o cenário retratado no longa “Bastardos inglórios” não será reproduzido no Brasil, haja vista que o aporte ao cinema será democratizado.",
+  "theme": null,
+  "title": "Redação 2 — MARIA ANTÔNIA DE LIMA BARRA",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "d79e97bec9b4274b",
+  "competencies": [
+   "I",
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "MARIA ANTÔNIA DE LIMA BARRA",
+  "essayId": "2020.essay.02",
+  "examYear": 2019,
+  "id": "2020.essay.02.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.02",
+  "pdfPages": [
+   38,
+   38
+  ],
+  "printedPages": [
+   "36",
+   "36"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "A participante demonstra excelente domínio da modalidade escrita formal da língua portuguesa, uma vez que a estrutura sintática é excelente e o texto não apresenta desvios de escrita.\n\nEm relação aos princípios da estruturação do texto dissertativo-argumentativo, percebe-se que a redação da participante apresenta introdução em que inicia a discussão do tema, desenvolvimento de justificativas que comprovam seu ponto de vista e conclusão que encerra a discussão, demonstrando excelente domínio do texto dissertativo-argumentativo. Além disso, o tema é abordado de forma completa: ele é apresentado já no primeiro parágrafo, no qual se aponta que, ainda que haja acesso mais amplo aos cinemas nos dias de hoje do que em meados do século XX, ainda há entraves a serem resolvidos em relação à democratização do acesso ao cinema. Observa-se que a participante usa, de forma produtiva, repertório sociocultural pertinente à discussão tanto no primeiro parágrafo (ao comparar o acesso ao cinema no século XX, ilustrado pelo filme “Bastardos Inglórios”, aos dias de hoje) quanto ao longo de sua argumentação, em que apresenta e relaciona à questão discutida os conceitos de “gentrificação”, “marginalização” (geógrafo Milton Santos) e de “capital cultural” (sociólogo Pierre Bourdieu), além de ilustrar a dificuldade que os moradores da periferia têm de se deslocar até os cinemas, com um episódio do livro “Quarto de despejo”, da escritora Carolina Maria de Jesus.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 2 — MARIA ANTÔNIA DE LIMA BARRA (1/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "68381d2f1c35b303",
+  "competencies": [
+   "III",
+   "IV",
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "MARIA ANTÔNIA DE LIMA BARRA",
+  "essayId": "2020.essay.02",
+  "examYear": 2019,
+  "id": "2020.essay.02.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.02",
+  "pdfPages": [
+   38,
+   38
+  ],
+  "printedPages": [
+   "36",
+   "36"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Podemos perceber, ao longo da redação, a presença de um projeto de texto estratégico, que se configura na organização clara e no desenvolvimento consistente de argumentos. A participante apresenta informações, fatos e opiniões relacionados ao tema proposto para defender seu ponto de vista de que um dos motivos da falta de democratização do acesso ao cinema no Brasil é a gentrificação, que dificulta que uma determinada parcela da população tenha acesso ao lazer, e para mostrar que essa dificuldade é responsável por impedir a criação de um capital cultural para pessoas.\n\nEm relação à coesão, encontra-se, nessa redação, um repertório diversificado de recursos coesivos, sem inadequações. Há articulação tanto entre os parágrafos (“Nessa linha de raciocínio”, “Consequentemente”, “Portanto”) quanto entre as ideias dentro de um mesmo parágrafo (como “uma vez que” e “Nesse sentido”, no 1º parágrafo; “Desse modo” e “Assim”, no 2º parágrafo; “Nesse aspecto” e “Um exemplo disso”, no 3º parágrafo; e “Por fim” e “a fim de que”, no 4º parágrafo).",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 2 — MARIA ANTÔNIA DE LIMA BARRA (2/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "335d542c17454fe8",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "MARIA ANTÔNIA DE LIMA BARRA",
+  "essayId": "2020.essay.02",
+  "examYear": 2019,
+  "id": "2020.essay.02.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.02",
+  "pdfPages": [
+   38,
+   38
+  ],
+  "printedPages": [
+   "36",
+   "36"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Por fim, a participante elabora proposta de intervenção muito boa: concreta, detalhada e que respeita os direitos humanos. A proposta apresentada retoma o que foi discutido ao longo do texto ao propor soluções relacionadas tanto às consequências do processo de gentrificação – sugerindo que seja disponibilizado um apoio à cultura para famílias que moram longe dos centros de lazer – quanto à importância de desenvolver o capital cultural nas pessoas, o que seria um dever das escolas.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 2 — MARIA ANTÔNIA DE LIMA BARRA (3/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "73a7d8ea881bd934",
+  "commentChunkIds": [
+   "2020.essay.03.comment.01",
+   "2020.essay.03.comment.02",
+   "2020.essay.03.comment.03"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2020",
+  "essayAuthor": "STELA TERRA LOPES",
+  "essayId": "2020.essay.03",
+  "examYear": 2019,
+  "id": "2020.essay.03",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   39,
+   39
+  ],
+  "printedPages": [
+   "37",
+   "37"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "A questão do acesso ao cinema, apesar de não ser amplamente discutida, é um problema muito expressivo no Brasil atualmente. A gravidade do quadro é evidenciada pelos dados do site Meio e Mensagem: 83% da população brasileira não frequentam tal ambiente. Nesse contexto, percebe-se que o acesso ao cinema não é democratizado e convém analisar as causas e impactos negativos dessa situação na sociedade.\n\nEm primeiro lugar, é preciso compreender as causas dessa problemática. Em um mundo marcado pelo capitalismo, é comum que, cada vez mais, seja fortalecido o sistema de mercantilização do lazer, ou seja, este passa a ser vendido por empresas em forma de mercadoria. Nesse sentido, nota-se que, muitas vezes, parcelas da população com condições financeiras mais baixas acabam não conseguindo ter acesso às atividades de lazer, como o cinema, devido aos preços, geralmente, inacessíveis. Além disso, outro fator que contribui para a falta do amplo acesso da população ao cinema é a localização no interior dos shoppings, os quais, normalmente, estão situados nos centros das grandes cidades, o que acaba dificultando o acesso de moradores de bairros mais afastados. Dessa forma, o cinema no Brasil torna-se um ambiente elitizado.\n\nEm segundo lugar, é importante salientar os impactos negativos desse quadro na sociedade. Tendo em vista que a parcela mais pobre da população, geralmente, não consegue arcar com os custos de frequentar o cinema e sabendo que o acesso ao lazer é um direito garantido pela Constituição Federal, percebe-se a ocorrência da “Cidadania de papel”, termo cunhado pelo escritor paulista Gilberto Dimenstein, que diz respeito à existência de direitos na teoria (Constituição), os quais não ocorrem, de fato, na prática. Sob essa perspectiva, nota-se que a falta de democratização do acesso ao cinema gera exclusão social das camadas menos favorecidas e impede que elas possam usufruir de seus direitos.\n\nPortanto, é mister que o Ministério da Infraestrutura, em parceria com o Ministério da Cultura, construa cinemas públicos, por meio da utilização de verbas governamentais, a fim de atender a população que não pode pagar por esse serviço, fazendo com que, assim, o acesso ao cinema seja democratizado e essa parcela da sociedade deixe de usufruir apenas de uma “Cidadania de papel”.",
+  "theme": null,
+  "title": "Redação 3 — STELA TERRA LOPES",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "5aecfba6f9f25c47",
+  "competencies": [
+   "I",
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "STELA TERRA LOPES",
+  "essayId": "2020.essay.03",
+  "examYear": 2019,
+  "id": "2020.essay.03.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.03",
+  "pdfPages": [
+   40,
+   40
+  ],
+  "printedPages": [
+   "38",
+   "38"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Observa-se, no texto, um excelente domínio da modalidade escrita formal da língua portuguesa, uma vez que a estrutura sintática é excelente, sem qualquer falha, e que não há desvios em relação à norma culta da língua portuguesa.\n\nEm relação aos princípios da estruturação do texto dissertativo-argumentativo, percebe-se que a redação da participante apresenta introdução em que inicia a discussão do tema, desenvolvimento de justificativas que comprovam seu ponto de vista e conclusão que encerra a discussão, demonstrando excelente domínio do texto dissertativo-argumentativo. Além disso, o tema é abordado de forma completa: já no primeiro parágrafo, a participante aponta que o acesso ao cinema não é democratizado no país, uma vez que grande parcela da população não frequenta o local. Observa-se também que a participante usa, de forma produtiva, repertório sociocultural pertinente à discussão quando faz referência ao conceito de “Cidadania de papel”, proposto por Gilberto Dimenstein, para discutir o fato de que algumas pessoas não têm, na prática, acesso a alguns direitos garantidos pela Constituição.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 3 — STELA TERRA LOPES (1/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "807ff1476db6eeba",
+  "competencies": [
+   "V",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "STELA TERRA LOPES",
+  "essayId": "2020.essay.03",
+  "examYear": 2019,
+  "id": "2020.essay.03.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.03",
+  "pdfPages": [
+   40,
+   40
+  ],
+  "printedPages": [
+   "38",
+   "38"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Em relação ao projeto de texto, percebemos que ele é estratégico, ou seja, que se configura na organização clara e no desenvolvimento consistente da redação. A participante apresenta informações, fatos e opiniões relacionados ao tema proposto para defender seu ponto de vista. No primeiro parágrafo, o problema é apresentado – o acesso ao cinema não é democratizado – e propõe-se analisar suas causas e seus impactos negativos. Ao longo do desenvolvimento do texto, a participante foca, primeiramente, nas causas da falta de democratização, apontando os preços altos dos ingressos e a localização dos cinemas no interior de shoppings como fatores que dificultam o acesso por parte de pessoas com menor poder aquisitivo e/ou que morem em bairros mais afastados. Já no terceiro parágrafo, a participante se propõe a discutir os impactos negativos da falta de democratização, como o fato de algumas pessoas não terem acesso ao lazer, que lhes deveria ser garantido por direito, o que gera a exclusão social. Por fim, é apresentada uma proposta de intervenção articulada ao problema apontado pela participante.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 3 — STELA TERRA LOPES (2/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "1e5979be25b819b2",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "STELA TERRA LOPES",
+  "essayId": "2020.essay.03",
+  "examYear": 2019,
+  "id": "2020.essay.03.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.03",
+  "pdfPages": [
+   40,
+   40
+  ],
+  "printedPages": [
+   "38",
+   "38"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Verifica-se, ainda, nessa redação, um repertório diversificado de recursos coesivos, sem inadequações. Há articulação tanto entre os parágrafos (“Em segundo lugar”, “Portanto”) quanto entre as ideias dentro de um mesmo parágrafo (como “Apesar de” e “Nesse contexto”, no 1º parágrafo; “Nesse sentido”, “Além disso” e “Dessa forma”, no 2º parágrafo; “Tendo em vista” e “Sob essa perspectiva”, no 3º parágrafo; e “a fim de”, “esse” e “assim”, no 4º parágrafo).\n\nPor fim, a participante elabora proposta de intervenção muito boa: concreta, articulada à discussão desenvolvida no texto, detalhada e que respeita os direitos humanos. Nela, sugere-se a construção de cinemas públicos, o que garantiria o acesso a esses espaços por quem tem menor poder aquisitivo e, consequentemente, a democratização desse tipo de arte.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 3 — STELA TERRA LOPES (3/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "78c66601043efb95",
+  "commentChunkIds": [
+   "2020.essay.04.comment.01",
+   "2020.essay.04.comment.02",
+   "2020.essay.04.comment.03"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2020",
+  "essayAuthor": "GABRIEL MERLI",
+  "essayId": "2020.essay.04",
+  "examYear": 2019,
+  "id": "2020.essay.04",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   41,
+   41
+  ],
+  "printedPages": [
+   "39",
+   "39"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Na obra “A Invenção de Hugo Cabret”, é narrada a relação entre um dos pais do cinema, Georges Mélies, e um menino órfão, Hugo Cabret. A ficção, inspirada na realidade do começo do século XX, tem como um de seus pontos centrais o lazer proporcionado pelo cinema, que encanta o garoto. No contexto brasileiro atual, o acesso a essa forma de arte não é democratizado, o que prejudica a disponibilidade de formas de lazer à população. Esse problema advém da centralização das salas exibidoras em zonas metropolitanas e do alto custo das sessões para as classes de menor renda.\n\nPrimeiramente, o direito ao lazer está assegurado na Constituição de 1988, mas o cinema, como meio de garantir isso, não tem penetração em todo território brasileiro. O crescimento urbano no século XX atraiu as salas de cinema para as grandes cidades, centralizando progressivamente a exibição de filmes. Como indicativo desse processo, há menos salas hoje do que em 1975, de acordo com a Agência Nacional de Cinema (Ancine). Tal fato se deve à falta de incentivo governamental – seja no âmbito fiscal ou de investimento – à disseminação do cinema, o que ocasionou a redução do parque exibidor interiorano. Sendo assim, a democratização do acesso ao cinema é prejudicada em zonas periféricas ou rurais.\n\nAdemais, o problema existe também em locais onde há salas de cinema, uma vez que o custo das sessões é inacessível às classes de renda baixa. Isso se deve ao fato de o mercado ser dominado por poucas empresas exibidoras. Conforme teorizou inicialmente o pensador inglês Adam Smith, o preço decorre da concorrência: a competitividade força a redução dos preços, enquanto os oligopólios favorecem seu aumento. Nesse sentido, a baixa concorrência dificulta o amplo acesso ao cinema no Brasil.\n\nPortanto, a democratização do cinema depende da disseminação e do jogo de mercado. A fim de levar os filmes a zonas periféricas, as prefeituras dessas regiões devem promover a interiorização dos cinemas, por meio de investimentos no lazer e incentivos fiscais. Além disso, visando reduzir o custo das sessões, cabe ao Ministério da Fazenda ampliar a concorrência entre as empresas exibidoras, o que pode ser feito pela regulamentação e fiscalização das relações entre elas, atraindo novas empresas para o Brasil. Isso impediria a formação de oligopólios, consequentemente aumentando a concorrência. Com essas medidas, o cinema será democratizado, possibilitando a toda a população brasileira o mesmo encanto que tinha Hugo Cabret com os filmes.",
+  "theme": null,
+  "title": "Redação 4 — GABRIEL MERLI",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "5d6927cf0ce8f605",
+  "competencies": [
+   "I",
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "GABRIEL MERLI",
+  "essayId": "2020.essay.04",
+  "examYear": 2019,
+  "id": "2020.essay.04.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.04",
+  "pdfPages": [
+   42,
+   42
+  ],
+  "printedPages": [
+   "40",
+   "40"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "O participante demonstra excelente domínio da modalidade escrita formal da língua portuguesa, uma vez que a estrutura sintática é excelente e não há presença de desvios em seu texto.\n\nEm relação aos princípios da estruturação do texto dissertativo-argumentativo, percebe-se que o participante apresenta introdução em que expõe seu ponto de vista, desenvolvimento de justificativas que comprovam esse ponto de vista e conclusão que encerra a discussão, demonstrando excelente domínio do texto dissertativo-argumentativo. O tema é abordado de forma completa, revelando uma leitura cuidadosa da proposta de redação: ainda no primeiro parágrafo, o participante anuncia a problemática ao abordar a centralização das salas de cinema e o preço elevado dos ingressos que impedem a democratização efetiva do cinema. Observa-se também o uso produtivo de repertório sociocultural pertinente à discussão proposta pelo participante em mais de um momento do texto: no primeiro parágrafo, o filme “A Invenção de Hugo Cabret” foi utilizado com o objetivo de contextualizar o tema, apresentando o cinema como um lugar de lazer; no segundo parágrafo, o participante compara o que é assegurado pela Constituição Federal com a situação atual do país; e, no terceiro parágrafo, ele se vale de um argumento de autoridade, encontrado no pensamento de Adam Smith, para fundamentar a justificativa de que o preço dos ingressos é alto porque há poucas empresas atuando no Brasil.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 4 — GABRIEL MERLI (1/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "b2f9114d47342920",
+  "competencies": [
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "GABRIEL MERLI",
+  "essayId": "2020.essay.04",
+  "examYear": 2019,
+  "id": "2020.essay.04.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.04",
+  "pdfPages": [
+   42,
+   42
+  ],
+  "printedPages": [
+   "40",
+   "40"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Percebe-se, também, ao longo da redação, a presença de um projeto de texto estratégico, com informações, fatos e opiniões relacionados ao tema proposto, desenvolvidos de forma consistente e bem organizados em defesa do ponto de vista. No primeiro parágrafo, o participante destaca a importância do cinema como fonte de lazer e apresenta a situação dessa arte no Brasil: de acordo com ele, o acesso ao cinema é prejudicado porque as salas estão centralizadas em grandes cidades e o preço dos ingressos é alto. Esses dois aspectos serão aprofundados de forma organizada, cada um em um parágrafo próprio. No segundo parágrafo, discutem-se as causas da centralização das salas do cinema nas grandes cidades, o que fez com que as áreas rurais ou periféricas ficassem sem acesso a ele. Já no terceiro parágrafo, as causas do alto custo das sessões de cinema são apresentadas e detalhadas. No último parágrafo, são apresentadas propostas de solução para os dois problemas discutidos no texto, reforçando a importância de se proporcionar esse tipo lazer à população brasileira.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 4 — GABRIEL MERLI (2/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "b21673150fdff1c1",
+  "competencies": [
+   "V",
+   "IV"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "GABRIEL MERLI",
+  "essayId": "2020.essay.04",
+  "examYear": 2019,
+  "id": "2020.essay.04.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.04",
+  "pdfPages": [
+   42,
+   42
+  ],
+  "printedPages": [
+   "40",
+   "40"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Em relação à coesão, encontra-se, nessa redação, um repertório diversificado de recursos coesivos, sem inadequações. Há articulação tanto entre os parágrafos (“Ademais”, “Portanto”) quanto entre as ideias dentro de um mesmo parágrafo (1º parágrafo: “seus pontos centrais”, “essa forma de arte”, “o que”; 2º parágrafo: “mas”, “desse processo”, “Sendo assim”; 3º parágrafo: “também””, “uma vez que”, “enquanto”; 4º parágrafo: “dessas regiões”, “Além disso”, “Com essas medidas”, entre outros).\n\nPor fim, o participante elabora proposta de intervenção muito boa: concreta, articulada à discussão desenvolvida no texto, detalhada e que respeita os direitos humanos ao propor investimentos em salas de cinemas em lugares afastados e aumento da competitividade entre as empresas exibidoras.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 4 — GABRIEL MERLI (3/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "bbdeb764a8f7f86e",
+  "commentChunkIds": [
+   "2020.essay.05.comment.01",
+   "2020.essay.05.comment.02",
+   "2020.essay.05.comment.03"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2020",
+  "essayAuthor": "GUSTAVO LOPES TEIXEIRA",
+  "essayId": "2020.essay.05",
+  "examYear": 2019,
+  "id": "2020.essay.05",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   43,
+   43
+  ],
+  "printedPages": [
+   "41",
+   "41"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "No século XIX, os avanços tecnológicos e científicos proporcionaram às populações novas alternativas de lazer, dentre as quais se pode citar o cinema. No Brasil, atualmente, tal forma de diversão tem se destacado, uma vez que promove a interação com o público de maneira singular, isto é, gera muitas emoções aos indivíduos. Apesar disso, verifica-se que, em nosso país, o acesso ao cinema não é disponibilizado a todos os cidadão, seja pela falta de investimentos, seja pelo alto custo cobrado por empresas para assistir a um filme. Assim, tendo em vista a importância desse lazer, ele deve ter seu acesso democratizado, a partir da resolução de tais entraves.\n\nSob esse viés, pode-se apontar as poucas verbas direcionadas à construção e à manutenção de cinemas, especialmente nas pequenas cidades brasileiras, como uma das causas do problema em questão. Acerca disso, sabe-se que boa parte da população que vive em áreas rurais ou suburbanas sofre com a falta de acessibilidade a tal meio de diversão. Prova dessa realidade é o filme “Cine Hollyúde”, lançado no Brasil, o qual mostra a dificuldade das pessoas que habitam no interior em assistir à primeira obra cinematográfica da cidade, devido à precariedade estrutural do cinema local. Tal cenário também é observado fora da ficção, visto que, por causa dos poucos investimentos, indivíduos das regiões pobres do país possuem mínima ou nenhuma interação com essa forma de lazer.\n\nAdemais, nota-se, ainda, uma intensa elitização dos cinemas, porquanto o preço cobrado pelo ingresso de uma sessão é alto, o que limita a ida a esses lugares de exibição de filmes. Sobre isso, percebe-se que, como a busca por tal lazer aumentou, de acordo com dados do “site” “Meio e mensagem”, as empresas exibidoras estão cada vez mais visando ao lucro em detrimento de uma diversão e interação pública. Isso ocorre, segundo o pensador Karl Marx, graças à busca excessiva por capital (dinheiro), tornando o cinema apenas como um “lugar lucrativo”. Desse modo, a democratização do acesso a esses locais torna-se distante da realidade vivida.\n\nPortanto, cabe ao Governo investir em projetos que facilitem o acesso ao cinema, principalmente nas regiões interioranas, por intermédio do auxílio financeiro a empresas exibidoras, a fim de descentralizar os lugares em que há transmissões de filmes. Outrossim, compete às ONGs, como organizações que visam suprir as necessidades populacionais, realizar campanhas em prol de salas bem estruturadas e de reduções do preço cobrado pelos ingressos das sessões cinematográficas, por meio das redes sociais e dos outros veículos de comunicação, com o objetivo de democratizar a ida ao cinema e de, dessa maneira, afastar-se da realidade narrada no filme “Cine Hollyúde”.",
+  "theme": null,
+  "title": "Redação 5 — GUSTAVO LOPES TEIXEIRA",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "99b0d1552a9cc609",
+  "competencies": [
+   "I",
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "GUSTAVO LOPES TEIXEIRA",
+  "essayId": "2020.essay.05",
+  "examYear": 2019,
+  "id": "2020.essay.05.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.05",
+  "pdfPages": [
+   44,
+   44
+  ],
+  "printedPages": [
+   "42",
+   "42"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "O participante demonstra excelente domínio da modalidade escrita formal da língua portuguesa, uma vez que a estrutura sintática é excelente e há presença de apenas um desvio ao longo do texto: a concordância em “todos os cidadão”, no primeiro parágrafo.\n\nEm relação aos princípios da estruturação do texto dissertativo-argumentativo, percebe-se que o participante apresenta introdução em que expõe seu ponto de vista, desenvolvimento de justificativas que comprovam esse ponto de vista e conclusão que encerra a discussão, demonstrando excelente domínio do texto dissertativo-argumentativo. Além disso, o tema é abordado de forma completa, o que revela uma leitura cuidadosa da proposta de redação: o participante apresenta o problema em discussão já no primeiro parágrafo, enfatizando sua importância como alternativa de lazer. Observa-se também o uso produtivo de repertório sociocultural pertinente à discussão proposta em mais de um momento do texto: no segundo parágrafo, há a referência ao filme “Cine Holliúdy”, o qual tem a função de exemplificar a ausência de salas de cinema no interior do país; no terceiro parágrafo, o participante apresenta um argumento de autoridade, na figura de Karl Marx, para explicar os altos valores dos ingressos para o cinema.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 5 — GUSTAVO LOPES TEIXEIRA (1/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "2e6fe991f61b3e75",
+  "competencies": [
+   "IV",
+   "II",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "GUSTAVO LOPES TEIXEIRA",
+  "essayId": "2020.essay.05",
+  "examYear": 2019,
+  "id": "2020.essay.05.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.05",
+  "pdfPages": [
+   44,
+   44
+  ],
+  "printedPages": [
+   "42",
+   "42"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Ao longo da redação, há a presença de um projeto de texto estratégico, com informações, fatos e opiniões relacionados ao tema proposto, desenvolvidos de forma consistente e bem organizados em defesa do ponto de vista. O participante anuncia, no primeiro parágrafo, as causas da falta de democratização do acesso ao cinema: falta de investimentos na área e o preço alto dos ingressos. A primeira causa é desenvolvida no segundo parágrafo, no qual se apresenta, como consequência dela, a escassez de salas de cinema em regiões mais afastadas dos centros urbanos. A segunda causa é retomada no terceiro parágrafo, no qual a elitização dos cinemas é explicada. Por fim, o participante desenvolve soluções para os dois problemas apresentados.\n\nEm relação à coesão, encontra-se, nessa redação, um repertório diversificado de recursos coesivos, sem inadequações. Há articulação tanto entre os parágrafos (“Ademais”, “Portanto”) quanto entre as ideias dentro de um mesmo parágrafo (1º parágrafo: “dentre as quais”, “tal forma”, “uma vez que”, “Apesar disso”, “Assim”; 2º parágrafo: “Acerca disso”, “dessa realidade”, “o qual”, “visto que”; 3º parágrafo: “sobre isso”, “tal lazer”, “Desse modo”; 4º parágrafo: “Outrossim”, “dessa maneira”, entre outros).",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 5 — GUSTAVO LOPES TEIXEIRA (2/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "4ef8896c5228fc01",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "GUSTAVO LOPES TEIXEIRA",
+  "essayId": "2020.essay.05",
+  "examYear": 2019,
+  "id": "2020.essay.05.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.05",
+  "pdfPages": [
+   44,
+   44
+  ],
+  "printedPages": [
+   "42",
+   "42"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Por fim, o participante elabora proposta de intervenção muito boa: concreta, articulada à discussão desenvolvida no texto, detalhada e que respeita os direitos humanos ao propor maiores investimentos na área, com o objetivo de descentralizar as salas de cinema e diminuir o valor dos ingressos.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 5 — GUSTAVO LOPES TEIXEIRA (3/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "c88403b0e97d60ad",
+  "commentChunkIds": [
+   "2020.essay.06.comment.01",
+   "2020.essay.06.comment.02",
+   "2020.essay.06.comment.03",
+   "2020.essay.06.comment.04"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2020",
+  "essayAuthor": "AUGUSTO FERNANDES SCAPINI",
+  "essayId": "2020.essay.06",
+  "examYear": 2019,
+  "id": "2020.essay.06",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   45,
+   45
+  ],
+  "printedPages": [
+   "43",
+   "43"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Aristóteles, grande pensador da Antiguidade, defendia a importância do conhecimento para a obtenção da plenitude da essência humana. Para o filósofo, sem a cultura e a sabedoria, nada separa a espécie humana do restante dos animais. Nesse contexto, destaca-se a importância do cinema, desde a sua criação, no século XIX, até a atualidade, para a construção de uma sociedade mais culta. No entanto, há ainda diversos obstáculos que impedem a democratização do acesso a esse recurso no Brasil, centrados na elitização do espaço público e causadores da insuficiência intelectual presente na sociedade. Com isso, faz-se necessária uma intervenção que busque garantir o acesso pleno ao cinema para todos os cidadãos brasileiros.\n\nDe início, tem-se a noção de que a Constituição Federal assegura a todos os cidadãos o acesso igualitário aos meios de propagação do conhecimento, da cultura e do lazer. Porém, visto que os cinemas, materialização pública desses conceitos, concentram-se predominantemente nos espaços reservados à elite socioeconômica, como os “shopping centers”, é inquestionável a existência de uma segregação das camadas mais pobres em relação ao acesso a esse recurso. Essa segregação é identificada na elaboração da tese da “subcidadania”, escrita pelo sociólogo Jessé Souza, que denuncia a situação de vulnerabilidade social vivida pelos mais pobres, cujos direitos são negligenciados tanto pela falta de ação do Estado quanto pela indiferença da sociedade em geral. Fica claro, então, que o acesso ao cinema não é um recurso democraticamente pleno no Brasil.\n\nComo consequência dessa elitização dos espaços públicos, que promove a exclusão das camadas mais periféricas, é observado um bloqueio intelectual imposto a essa parte da população. Nesse sentido, assuntos pertinentes ao saber coletivo, que, por vezes, não são ensinados nas instituições formais de ensino, mas são destacados pelos filmes exibidos nos cinemas, não alcançam as mentes das minorias sociais, fato que impede a obtenção de conhecimento e, por conseguinte, a plenitude da essência aristotélica. Essa situação relaciona-se com o conceito de “alienação”, descrito pelo filósofo alemão Karl Marx, que caracteriza o estado de insuficiência intelectual vivido pelos trabalhadores da classe operária no contexto da Revolução Industrial, refletido na camada pobre brasileira atual.\n\nPortanto, fica evidente a importância do cinema para a construção de uma sociedade mais culta e a necessidade da democratização desse recurso. Nesse âmbito, cabe ao Ministério da Educação e da Cultura promover um maior acesso ao conhecimento e ao lazer, por meio da instalação de cinemas públicos nas áreas urbanas mais periféricas – que deverão possuir preços acessíveis à população local –, a fim de evitar a situação de alienação e insuficiência intelectual presente nos membros das classes mais baixas. Desse modo, o cidadão brasileiro poderá atingir a condição de plenitude da essência, prevista por Aristóteles, destacando-se, logo, das outras espécies animais, através do conhecimento e da cultura.",
+  "theme": null,
+  "title": "Redação 6 — AUGUSTO FERNANDES SCAPINI",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "cb88b484e631a8f7",
+  "competencies": [
+   "I"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "AUGUSTO FERNANDES SCAPINI",
+  "essayId": "2020.essay.06",
+  "examYear": 2019,
+  "id": "2020.essay.06.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.06",
+  "pdfPages": [
+   46,
+   46
+  ],
+  "printedPages": [
+   "44",
+   "44"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "O participante demonstra excelente domínio da modalidade escrita formal da língua portuguesa, uma vez que a estrutura sintática é excelente e não há presença de desvios ao longo do texto.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 6 — AUGUSTO FERNANDES SCAPINI (1/4)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "deb5a9c841f231e1",
+  "competencies": [
+   "II",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "AUGUSTO FERNANDES SCAPINI",
+  "essayId": "2020.essay.06",
+  "examYear": 2019,
+  "id": "2020.essay.06.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.06",
+  "pdfPages": [
+   46,
+   46
+  ],
+  "printedPages": [
+   "44",
+   "44"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Em relação aos princípios da estruturação do texto dissertativo-argumentativo, percebe-se que o participante apresenta introdução em que expõe seu ponto de vista, desenvolvimento de justificativas que comprovam esse ponto de vista e conclusão que encerra a discussão, demonstrando excelente domínio do texto dissertativo-argumentativo. O tema é abordado de forma completa, o que revela uma leitura cuidadosa da proposta de redação: já no primeiro parágrafo, o participante apresenta o assunto que será discutido, o cinema, e sua importância para a sociedade. A seguir, trata do problema específico relacionado à democratização do acesso ao cinema, proposto pelo tema da prova de redação, trazendo o ponto de vista de que os obstáculos que dificultam esse acesso estão ligados à elitização do espaço público. Há uso produtivo de repertório sociocultural pertinente à discussão proposta em mais de um momento do texto. No primeiro parágrafo, o pensamento de Aristóteles é utilizado para justificar a importância do cinema. No segundo parágrafo, o participante fundamenta sua argumentação na Constituição Federal, caracterizando o acesso à cultura como um direito, e nos estudos de Jessé Souza sobre a negação desse e outros direitos. Há ainda, no terceiro parágrafo, o uso do conceito de alienação, de Karl Marx, para auxiliar na caracterização do efeito causado pela falta de acesso ao cinema.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 6 — AUGUSTO FERNANDES SCAPINI (2/4)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "c2613ae1cd06b052",
+  "competencies": [
+   "IV",
+   "II",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "AUGUSTO FERNANDES SCAPINI",
+  "essayId": "2020.essay.06",
+  "examYear": 2019,
+  "id": "2020.essay.06.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.06",
+  "pdfPages": [
+   46,
+   46
+  ],
+  "printedPages": [
+   "44",
+   "44"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Ao longo da redação, há a presença de um projeto de texto estratégico, com informações, fatos e opiniões relacionados ao tema proposto, desenvolvidos de forma consistente e bem organizados em defesa do ponto de vista. Tendo, no primeiro parágrafo, apresentado a elitização do espaço público como causa da falta de democratização do acesso ao cinema e a “insuficiência intelectual” da população como consequência desse problema, o participante organiza esses dois aspectos em diferentes parágrafos e desenvolve-os detalhadamente. Assim, no segundo parágrafo, é explicado de que forma a elitização do espaço impede a democratização plena do acesso ao cinema e, no terceiro parágrafo, justifica-se a relação entre a falta de acesso ao cinema e o estado de “insuficiência intelectual” identificado pelo participante. Por fim, no quarto parágrafo, ele reflete sobre uma solução para a problemática, apresentado uma proposta muito bem articulada à sua discussão.\n\nEm relação à coesão, encontra-se, nessa redação, um repertório diversificado de recursos coesivos, sem inadequações. Há articulação tanto entre os parágrafos (“Como consequência dessa elitização”, “Portanto”) quanto entre as ideias dentro de um mesmo parágrafo (1º parágrafo: “Nesse contexto”, “No entanto”, “Com isso”; 2º parágrafo: “Porém”, “esse recurso”, “cujos”; 3º parágrafo: “essa parte da população”, “mas”, “por conseguinte”; 4º parágrafo: “Nesse âmbito”, “a fim de”, “Desse modo”, entre outros).",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 6 — AUGUSTO FERNANDES SCAPINI (3/4)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "9ae0b17ae0fe9157",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "AUGUSTO FERNANDES SCAPINI",
+  "essayId": "2020.essay.06",
+  "examYear": 2019,
+  "id": "2020.essay.06.comment.04",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.06",
+  "pdfPages": [
+   46,
+   46
+  ],
+  "printedPages": [
+   "44",
+   "44"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Por fim, o participante elabora proposta de intervenção muito boa: concreta, articulada à discussão desenvolvida no texto, detalhada e que respeita os direitos humanos, ao propor que o Governo Federal, por meio de seus ministérios, aumente o alcance das salas de cinema.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 6 — AUGUSTO FERNANDES SCAPINI (4/4)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "ea37b0140913dadb",
+  "commentChunkIds": [
+   "2020.essay.07.comment.01",
+   "2020.essay.07.comment.02",
+   "2020.essay.07.comment.03"
+  ],
+  "competencies": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "competencySource": "essay_scope",
+  "docId": "cartilha-2020",
+  "essayAuthor": "ISABELLA DE OLIVEIRA CARDOSO",
+  "essayId": "2020.essay.07",
+  "examYear": 2019,
+  "id": "2020.essay.07",
+  "indexed": false,
+  "kind": "essay",
+  "origin": "inep_verbatim",
+  "pdfPages": [
+   47,
+   47
+  ],
+  "printedPages": [
+   "45",
+   "45"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "De modo ficcional, o filme “Cine Holiúdi” retrata o impacto positivo do cinema no cotidiano das cidades, dada a sua capacidade de promover o lazer, socialização e cultura. Entretanto, na realidade, tais benefícios não atingem toda a população brasileira, haja vista a elitização dos meios cinematográficos e a falta de infraestrutura adequada nos cinemas existentes. Sendo assim, urge a análise e a resolução desses entraves para democratizar o acesso ao cinema no Brasil.\n\nA princípio, é lícito destacar que a elitização dos meios cinematográficos contribui para que muitos brasileiros sejam impedidos de frequentar as salas de cinema. Isso posto, segundo o filósofo inglês Nick Couldry em sua obra “Por que a voz importa?”, a sociedade neoliberal hodierna tende a silenciar os grupos menos favorecidos, privando-os dos meios de comunicação. A par disso, é indubitável que a localização dos cinemas em áreas mais nobres e o alto valor dos ingressos configuram uma tentativa de excluir e silenciar os grupos periféricos, tal como discute Nick Couldry. Nesse viés, poucos são os indivíduos que desfrutam do direito ao lazer e à cultura promovido pela cinematografia, o qual está previsto na Constituição e deve ser garantido a todos pelo Estado.\n\nAdemais, vale postular que a falta de infraestrutura adequada para todos os cidadãos também dificulta o acesso amplo aos cinemas do país. Conquanto a acessibilidade seja um direito assegurado pela Carta Magna e os cinemas disponham de lugares reservados para cadeirantes, não há intérpretes de LIBRAS nas telas e a configuração das salas – pautada em escadas – não auxilia o deslocamento de idosos e portadores de necessidades especiais. À luz dessa perspectiva, é fundamental que haja maior investimento em infraestrutura para que todos os brasileiros sejam incluídos nos ambientes cinematográficos.\n\nPor fim, diante dos desafios supramencionados, é necessária a ação conjunta do Estado e da sociedade para mitigá-los. Nesse âmbito, cabe ao poder público, na figura do Ministério Público, em parceria com a mídia nacional, desenvolver campanhas educativas – por meio de cartilhas virtuais e curta-metragens a serem veiculadas nas mídias sociais – a fim de orientar a população e as empresas de cinema a valorizar o meio cinematográfico e ampliar a acessibilidade das salas. Por sua vez, as empresas devem colaborar com a democratização do acesso ao cinema pela cobrança de valores mais acessíveis e pela construção de salas adaptadas. Feito isso, o Brasil poderá garantir os benefícios do cinema a todos, como relata o filme “Cine Holiúdi”.",
+  "theme": null,
+  "title": "Redação 7 — ISABELLA DE OLIVEIRA CARDOSO",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "c36db0f7481f110e",
+  "competencies": [
+   "I",
+   "II"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "ISABELLA DE OLIVEIRA CARDOSO",
+  "essayId": "2020.essay.07",
+  "examYear": 2019,
+  "id": "2020.essay.07.comment.01",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.07",
+  "pdfPages": [
+   48,
+   48
+  ],
+  "printedPages": [
+   "46",
+   "46"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "A participante demonstra excelente domínio da modalidade escrita formal da língua portuguesa, uma vez que a estrutura sintática é excelente e há presença de apenas um desvio – “curta-metragens” – no último parágrafo de seu texto.\n\nEm relação aos princípios da estruturação do texto dissertativo-argumentativo, percebe-se que a participante apresenta introdução em que expõe seu ponto de vista, desenvolvimento de justificativas que comprovam esse ponto de vista e conclusão que encerra a discussão, demonstrando excelente domínio do texto dissertativo-argumentativo. Além disso, o tema é abordado de forma completa, o que revela uma leitura cuidadosa da proposta de redação: logo no primeiro parágrafo, a participante já apresenta o problema que será discutido no texto, reforçando sua importância para a sociedade. Observa-se também o uso produtivo de repertório sociocultural pertinente à discussão proposta pela participante em mais de um momento do texto: no primeiro parágrafo, há a referência ao filme “Cine Holliúdy” para exemplificar a importância do cinema como promotor de cultura em uma comunidade. No segundo parágrafo, a participante utiliza a obra de Nick Couldry como argumento de autoridade para explicar os fatores que geram exclusão de determinada camada da sociedade do acesso à cultura. Ainda no segundo parágrafo e novamente no terceiro, ela se vale da Constituição Federal para fundamentar a necessidade de promover a democratização do acesso ao cinema.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 7 — ISABELLA DE OLIVEIRA CARDOSO (1/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "a83361e49e0aa572",
+  "competencies": [
+   "IV",
+   "II",
+   "III"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "ISABELLA DE OLIVEIRA CARDOSO",
+  "essayId": "2020.essay.07",
+  "examYear": 2019,
+  "id": "2020.essay.07.comment.02",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.07",
+  "pdfPages": [
+   48,
+   48
+  ],
+  "printedPages": [
+   "46",
+   "46"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Percebe-se, também, ao longo da redação, a presença de um projeto de texto estratégico, com informações, fatos e opiniões relacionados ao tema proposto, desenvolvidos de forma consistente e bem organizados em defesa do ponto de vista. Logo no primeiro parágrafo, a participante destaca a importância do cinema e a democratização deficiente do acesso a ele no Brasil, apontando dois fatores principais: a elitização do cinema e a falta de infraestrutura adequada. Nos dois parágrafos seguintes, esses fatores serão, cada um em um parágrafo, aprofundados. Em seu último parágrafo, a participante reflete sobre esses fatores e propõe soluções muito bem articuladas a eles.\n\nEm relação à coesão, encontra-se, nessa redação, um repertório diversificado de recursos coesivos, sem inadequações. Há articulação tanto entre os parágrafos (“Ademais”, “Por fim”) quanto entre as ideias dentro de um mesmo parágrafo (1º parágrafo: “Entretanto”, “tais benefícios”, “Sendo assim”; 2º parágrafo: “Isso posto”, “A partir disso”, “o qual”; 3º parágrafo: “também”, “Conquanto”, “dessa perspectiva”; 4º parágrafo: “Nesse âmbito”, “a fim de”, “Por sua vez”, entre outros).",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 7 — ISABELLA DE OLIVEIRA CARDOSO (2/3)",
+  "year": 2020
+ },
+ {
+  "category": "redacao_comentada",
+  "checksum": "c4344281b1836d03",
+  "competencies": [
+   "V"
+  ],
+  "competencySource": "keyword_rule",
+  "docId": "cartilha-2020",
+  "essayAuthor": "ISABELLA DE OLIVEIRA CARDOSO",
+  "essayId": "2020.essay.07",
+  "examYear": 2019,
+  "id": "2020.essay.07.comment.03",
+  "indexed": true,
+  "kind": "commentary",
+  "origin": "inep_verbatim",
+  "pairedEssayChunkId": "2020.essay.07",
+  "pdfPages": [
+   48,
+   48
+  ],
+  "printedPages": [
+   "46",
+   "46"
+  ],
+  "quality": "ok",
+  "scoreDocumented": 1000,
+  "section": "2 AMOSTRA DE REDAÇÕES NOTA 1.000 dO ENEM 2019",
+  "text": "Por fim, a participante elabora proposta de intervenção muito boa: concreta, articulada à discussão desenvolvida no texto, detalhada e que respeita os direitos humanos. Ela propõe a criação de campanhas de valorização do cinema e a ampliação do acesso a salas de cinema por meio da diminuição dos valores dos ingressos e da adaptação de salas ao público de pessoas com deficiência.",
+  "theme": null,
+  "title": "Comentário oficial do INEP — Redação 7 — ISABELLA DE OLIVEIRA CARDOSO (3/3)",
+  "year": 2020
+ }
+]
